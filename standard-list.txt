@@ -1,0 +1,3893 @@
+#	Unicode	Freq.	Text	QN	English
+1.	U+27D51	1	𧵑	của	of; to belong to; properties, belongings
+2.		9999999	𧵑公	của công	public property
+3.		9999999	𧵑終	của chung	public property
+4.	U+5427	2	吧	và	and, also
+5.	U+2A700	3	𪜀	là	to be (also 羅)
+6.		476	一𪜀	nhất là	foremost
+7.		595	噲𪜀	gọi là	provisionally, superficial
+8.		1427	如𪜀	như là	as if
+9.		1508	呐𪜀	nói là	reportedly, supposedly
+10.		2225	咍𪜀	hay là	or
+11.		4364	或𪜀	hoặc là	or; either
+12.		9999999	歐𪜀	âu là	preferably, rather
+13.		9999999	慄𪜀	rất là	very, extremely
+14.	U+20B20	4	𠬠	một	one
+15.		726	𠬠吝	một lần	once
+16.		1369	𠬠𠄧	một vài	some, several, quite a few
+17.		1967	𠬠𣅶	một lúc	a moment
+18.		3681	𠬠𠃣	một ít	a little bit, a tiny bit
+19.		4002	𠬠堆	một đôi	a few, some
+20.		4265	𡥵𠬠	con một	the only child
+21.		9999999	𠬠𠦳	một nghìn	one thousand
+22.		9999999	𠬠兆	một triệu	one million
+23.		9999999	𠬠丐	một cái	one (piece)
+24.		9999999	𠬠唏	một hơi	in one go, at a stretch
+25.		9999999	𠬠𤾓	một trăm	one hundred
+26.		9999999	𠬠徊	một hồi	a while
+27.		9999999	𠬠萬	một vạn	ten thousand
+28.	U+56FA	5	固	có	there is; to have; sure, of course (also 𣎏)
+29.		72	固體	có thể	possibly, maybe; may, can
+30.		1563	固欺	có khi	sometimes; perhaps, maybe
+31.		1742	固條	có điều	except, just, only that...
+32.		1893	兜固	đâu có	not at all
+33.		3797	固歲	có tuổi	advanced in years, aged
+34.		4615	固𫯳	có chồng	to be married (woman)
+35.		9999999	固理	có lý	right, reasonable; sensible
+36.		9999999	𠃣固	ít có	to be rare to find, to be scarce
+37.		9999999	固權	có quyền	to have the right to
+38.	U+4ECD	6	仍	những	(plural marker); some; as many as
+39.		3965	仍𦓡	nhưng mà	but
+40.	U+2029B	7	𠊛	người	people; person; human
+41.		257	𠊛些	người ta	people; they
+42.		272	𡥵𠊛	con người	man, human
+43.		3523	𢧚𠊛	nên người	to become a good person
+44.		3529	𠊛𠸗	người xưa	the ancients, ancient people
+45.		9999999	𤞦𠊛	mọi người	everybody, everyone
+46.		9999999	𠊛越	người việt	vietnamese person; vietnamese people
+47.		9999999	命𠊛	mạng người	life
+48.	U+2029A	7	𠊚	ngài	gentleman; Mr.
+49.	U+25A9D	8	𥪝	trong	in; within
+50.		478	𥪝欺	trong khi	while, meanwhile
+51.	U+7279	9	特	được	to get; to obtain; to be able to
+52.		293	特别	đặc biệt	special; unusual
+53.		1771	特色	đặc sắc	special, of special quality
+54.		3375	特點	đặc điểm	characteristic, feature
+55.		3969	特産	đặc sản	(regional) specialty
+56.		9999999	特區	đặc khu	special zone
+57.		9999999	特權	đặc quyền	privilege, prerogative, special right
+58.		9999999	特使	đặc sứ	special envoy, ambassador extraordinary
+59.		9999999	特務	đặc vụ	secret service; secret agent
+60.	U+7A7A	10	空	không	no; not; without; (closed-question marker)
+61.		282	空體	không thể	impossible; unable, incapable
+62.		1098	𠮩空	nếu không	if not; otherwise, or else
+63.		1223	空氣	không khí	air; atmosphere
+64.		1528	如空	như không	useless
+65.		2103	航空	hàng không	aviation
+66.		2806	空牢	không sao	no problem, never mind, it's okay, you're welcome
+67.		4660	空𠸥	không kể	excluding, not counting
+68.		9999999	防空	phòng không	air defense
+69.		9999999	空包𣇞	không bao giờ	never
+70.		9999999	𡎥空	ngồi không	to idle away
+71.		9999999	𠬃空	bỏ không	idle, unused
+72.		9999999	壓力空氣	áp lực không khí	atmospheric pressure
+73.		9999999	曠空	khoảng không	space (including atmosphere)
+74.		9999999	空之	không gì	nothing
+75.		9999999	空想	không tưởng	fantastic, utopian
+76.	U+340C	11	㐌	đã	already
+77.		2578	㐌𥹰	đã lâu	long ago
+78.		9999999	㐌曾	đã từng	ever
+79.	U+201CD	12	𠇍	mấy	(quite) a few, some; how many
+80.		9999999	𠇍欺	mấy khi	rarely, seldom, few times
+81.		9999999	𠇍埃	mấy ai	few people
+82.	U+5504	12	唄	với	(together) with
+83.		9999999	唄埃	với ai	with somebody; together (with so.)
+84.		9999999	唄吏	với lại	furthermore; and then
+85.	U+6731	13	朱	cho	to give; so that
+86.		194	朱别	cho biết	to tell; to inform, to notify
+87.		836	爫朱	làm cho	to cause sth., to provoke sth., to induce
+88.		1466	底朱	để cho	so that, in order to
+89.		1681	朱𢧚	cho nên	therefore, hence
+90.		9999999	朱雀	Chu Tước	The Vermilion Bird (represents the south)
+91.	U+5404	14	各	các	each; every; all
+92.		1657	各位	các vị	ladies and gentlemen, everybody; you (plural)
+93.		9999999	各伴	các bạn	friends; you (plural)
+94.	U+788E	15	碎	tôi	I, my, me
+95.		172	眾碎	chúng tôi	we, us (not including person addressed)
+96.		1879	茹碎	nhà tôi	my husband, my wife; my house; my family
+97.		9999999	碎伵	tôi tớ	subordinate, subject
+98.	U+65BC	16	於	ở	to be (somewhere); at; to live
+99.		1576	於吏	ở lại	to remain, to stay
+100.		1886	茹於	nhà ở	dwelling, residential building
+101.		9999999	於終	ở chung	to live together
+102.		9999999	於妬	ở đó	there; over there
+103.		9999999	於兜	ở đâu	where
+104.	U+7FC1	17	翁	ông	man; Mr.
+105.		479	彈翁	đàn ông	man, adult male person
+106.		1269	翁婆	ông bà	man and woman; husband and wife
+107.		2123	翁𦓅	ông già	elderly man; father
+108.		9999999	翁老	ông lão	old gentleman
+109.		9999999	翁偈	ông kẹ	ogre
+110.		9999999	魚翁	ngư ông	fisherman
+111.	U+275F1	18	𧗱	về	to return; about; (back) to
+112.		745	𧿨𧗱	trở về	to return, to come back
+113.		9999999	𧗱茹	về nhà	to come home, to return home
+114.		9999999	𠫾𧗱	đi về	to go home
+115.	U+5E95	19	底	để	to place; to set; to leave; to keep
+116.		1081	底吏	để lại	to leave back; left over; to spare
+117.		1466	底朱	để cho	so that, in order to
+118.	U+62F1	20	拱	cũng	also; too
+119.		9999999	調拱	đều cũng	equally, also, as well
+120.	U+2693E	21	𦤾	đến	to arrive, to come
+121.		2976	𦤾坭	đến nơi	to arrive; to be about to do sth.
+122.	U+65E6	21	旦	đán	【day, dawn, morning】*
+123.		9999999	節元旦	tết nguyên đán	lunar new year
+124.	U+5462	22	呢	này	this; here
+125.		938	𡢐呢	sau này	afterwards, later, in the future
+126.		9999999	丐呢	cái này	this
+127.		9999999	𣅶呢	lúc này	currently; at present
+128.	U+204E8	23	𠓨	vào	in; into
+129.		1562	𫥨𠓨	ra vào	to go in and out
+130.		2507	𠓨曠	vào khoảng	about, around, circa
+131.		9999999	𠫾𠓨	đi vào	to enter, to go in
+132.	U+215C9	24	𡗉	nhiều	many; much; a lot of
+133.		3483	𠃣𡗉	ít nhiều	a little
+134.		9999999	𡗉𠳒	nhiều lời	talkative, garrulous, gossip
+135.		9999999	分𡗉	phần nhiều	most, the greatest part
+136.		9999999	𡗉欺	nhiều khi	sometimes; often times
+137.	U+5040	25	偀	anh	elder brother
+138.		1003	偀㛪	anh em	brothers; siblings
+139.		1887	偀姉	anh chị	elder brother and elder sister
+140.		9999999	偀姉㛪	anh chị em	brothers and sisters, siblings
+141.		9999999	偀戶	anh họ	cousin
+142.		9999999	偀払	anh chàng	man, guy, boy
+143.	U+59AC	26	妬	đó	there; that
+144.		377	𡢐妬	sau đó	after that
+145.		969	芇妬	nào đó	some, certain
+146.		9999999	丐妬	cái đó	that
+147.		9999999	於妬	ở đó	there; over there
+148.		9999999	徊妬	hồi đó	then, back then, at that time
+149.		9999999	自妬	từ đó	from there on; since then
+150.	U+5982	27	如	như	as; like; alike; similar to
+151.		348	如勢	như thế	like this, like that; thus, so
+152.		458	如丕	như vậy	like that; thus; so
+153.		1427	如𪜀	như là	as if
+154.		1528	如空	như không	useless
+155.		9999999	如勢芇	như thế nào	how
+156.		9999999	如𫇰	như cũ	as before
+157.	U+81EA	28	自	tự	self
+158.		654	自由	tự do	freedom; free
+159.		962	自然	tự nhiên	nature; natural
+160.		3016	自動	tự động	automatic
+161.		9999999	自治	tự trị	autonomous, autonomy
+162.		9999999	自𨉟	tự mình	self; unsolicited
+163.		9999999	自妬	từ đó	from there on; since then
+164.		9999999	自𥹰	từ lâu	in a long time, long-since
+165.	U+6B3A	30	欺	khi	when, while; case, circumstance
+166.		478	𥪝欺	trong khi	while, meanwhile
+167.		554	𠓀欺	trước khi	before (at an earlier time)
+168.		1395	堆欺	đôi khi	sometimes, occasionally
+169.		1563	固欺	có khi	sometimes; perhaps, maybe
+170.		2056	欺芇	khi nào	when
+171.		3347	𣦍欺	ngay khi	instantly
+172.		4314	𠃣欺	ít khi	rarely, seldom
+173.		9999999	𠇍欺	mấy khi	rarely, seldom, few times
+174.		9999999	常欺	thường khi	often, frequently
+175.		9999999	欺迺	khi nãy	just a moment ago
+176.		9999999	𡗉欺	nhiều khi	sometimes; often times
+177.		9999999	𡢐欺	sau khi	later, after, thereafter
+178.	U+2856D	31	𨕭	trên	above; at the top
+179.		2171	豫𨕭	dựa trên	to found (sth.) on
+180.		4090	𠸥𨕭	kể trên	above-mentioned, above-said, above
+181.	U+2B968	32	𫥨	ra	to get out
+182.		525	仕𫥨	xảy ra	to happen, to occur
+183.		1068	認𫥨	nhận ra	to recognize, to realize
+184.		1288	𫥨𠫾	ra đi	to leave, to go off
+185.		1562	𫥨𠓨	ra vào	to go in and out
+186.		2767	𠫾𫥨	đi ra	to step out, to leave (a room)
+187.		3918	𢣂𫥨	nghĩ ra	to recall; to think sth. out
+188.		4621	𠃣𫥨	ít ra	at least
+189.		9999999	𠸥𫥨	kể ra	in fact, to be fair
+190.		9999999	𫥨陣	ra trận	to go to the front
+191.		9999999	𢖵𫥨	nhớ ra	to recall, to bring (something) to mind
+192.		9999999	造𫥨	tạo ra	to create
+193.		9999999	耒𫥨	rồi ra	in the future
+194.		9999999	盤𫥨	bàn ra	to dissuade (from doing something)
+195.	U+264E1	33	𦓡	mà	but
+196.		1353	丕𦓡	vậy mà	but; however
+197.		3965	仍𦓡	nhưng mà	but
+198.		9999999	𦓡推	mà thôi	only, merely, just, not more than
+199.	U+6C9B	34	沛	phải	right; to have to; must; should
+200.		9999999	边沛	bên phải	on the right side, dexter
+201.	U+540F	35	吏	lại	also; to come; again, re-...
+202.		674	𧿨吏	trở lại	to return; to come back
+203.		861	群吏	còn lại	to remain; remaining, other
+204.		1081	底吏	để lại	to leave back; left over; to spare
+205.		1576	於吏	ở lại	to remain, to stay
+206.		2243	𢖵吏	nhớ lại	to reminisce
+207.		3703	𤯩吏	sống lại	to resurrect
+208.		4421	𢣂吏	nghĩ lại	to reconsider, to change one's mind, to have second thoughts
+209.		9999999	唄吏	với lại	furthermore; and then
+210.		9999999	捲吏	cuốn lại	to wind up, to spool, to coil
+211.		9999999	回吏	hồi lại	to turn back, to reverse
+212.		9999999	𠫾ㇴ吏ㇴ	đi đi lại lại	to pace around, to go back and forth
+213.	U+7FA4	36	群	còn	still; remaining; besides, also
+214.		861	群吏	còn lại	to remain; remaining, other
+215.	U+20C4A	37	𠱊	sẽ	to be going to; will; shall
+216.	U+3598	38	㖘	thì	so, then; certainly
+217.		2335	丕㖘	vậy thì	therefore, so
+218.	U+6642	38	時	thì	【time; era, period】*
+219.		198	時間	thời gian	time
+220.		1405	時代	thời đại	era, age
+221.		2089	時節	thời tiết	weather
+222.		2965	暫時	tạm thời	provisional; temporary; for the time being
+223.		3125	時𣇞	thì giờ	time
+224.		9999999	急時	cấp thời	at once, immediately
+225.		9999999	時期	thời kỳ	period
+226.		9999999	時機	thời cơ	time, occasion, opportunity
+227.	U+221A5	39	𢆥	năm	year
+228.		3657	𢆥𠸗	năm xưa	long ago
+229.		9999999	𢆥箕	năm kia	the year before last year
+230.		9999999	祝𢜠𢆥㵋	chúc mừng năm mới	happy new year!
+231.		9999999	𨖅𢆥	sang năm	next year
+232.	U+722B	40	爫	làm	to do; to make
+233.		541	役爫	việc làm	job, employment, work; act, deed, action
+234.		836	爫朱	làm cho	to cause sth., to provoke sth., to induce
+235.		941	爫之	làm gì	what for; what to do
+236.		1100	𠫾爫	đi làm	to go to work
+237.		9999999	爫客	làm khách	to stand upon ceremony, to behave formally
+238.		9999999	排爫	bài làm	task, exercise
+239.		9999999	格爫	cách làm	way to do (something)
+240.		9999999	爫衝	làm xong	to finish, to finalize, to complete
+241.		9999999	爫牢	làm sao	how
+242.		9999999	爫紙	làm giấy	to certify sth. in writing
+243.		9999999	𠫾爫役	đi làm việc	to go to work
+244.		9999999	爫务	làm mùa	to make preparations for the crops
+245.		9999999	爫役	làm việc	to go to work, to work; working
+246.		9999999	𣇞爫役	giờ làm việc	working hours
+247.	U+8339	41	茹	nhà	house; home; building
+248.		188	茹文	nhà văn	knight of the pen, man of letters, author, littérateur
+249.		904	茹渃	nhà nước	state, country, nation
+250.		1359	茹行	nhà hàng	restaurant; hotel
+251.		1420	茹祠	nhà thờ	church
+252.		1879	茹碎	nhà tôi	my husband, my wife; my house; my family
+253.		1886	茹於	nhà ở	dwelling, residential building
+254.		1981	茹𨷶	nhà cửa	house, dwelling
+255.		2435	茹欱	nhà hát	theatre
+256.		2635	茹𤤰	nhà vua	king
+257.		3115	茹囚	nhà tù	prison
+258.		4411	茹伤	nhà thương	hospital
+259.		9999999	茹客	nhà khách	guest house
+260.		9999999	茹儒	nhà nho	Confucian scholar
+261.		9999999	茹𥘷	nhà trẻ	day nursery, creche
+262.		9999999	茹重	nhà chồng	the husband's family
+263.		9999999	𢖵茹	nhớ nhà	homesick; to be sick for home
+264.		9999999	茹博學	nhà bác học	scientist
+265.		9999999	茹鏰	nhà băng	bank
+266.		9999999	𧗱茹	về nhà	to come home, to return home
+267.		9999999	茹𫯳	nhà chồng	the husband's family
+268.	U+2825F	42	𨉟	mình	we; us
+269.		9999999	𠅳𨉟	quên mình	self-sacrificing, devotional
+270.		9999999	下𨉟	hạ mình	to condescend; to demean oneself
+271.		9999999	息𨉟	tức mình	angry, upset
+272.		9999999	自𨉟	tự mình	self; unsolicited
+273.	U+20AFE	43	𠫾	đi	to go, to walk; come on!
+274.		1100	𠫾爫	đi làm	to go to work
+275.		1288	𫥨𠫾	ra đi	to leave, to go off
+276.		1580	𠫾戈	đi qua	to go across, to cross
+277.		1833	𠫾步	đi bộ	to walk (on foot); to stroll
+278.		2542	𠫾𨔈	đi chơi	to go out; to be out
+279.		2555	𠬃𠫾	bỏ đi	to leave
+280.		2759	塘𠫾	đường đi	way, footway
+281.		2767	𠫾𫥨	đi ra	to step out, to leave (a room)
+282.		9999999	襖𠫾𩅹	áo đi mưa	raincoat
+283.		9999999	𠫾𠓨	đi vào	to enter, to go in
+284.		9999999	𠫾爫役	đi làm việc	to go to work
+285.		9999999	𠫾蹎	đi chân	to walk, to stroll; to go barefoot
+286.		9999999	𠫾𦣰	đi nằm	to go to bed
+287.		9999999	𠫾𧗱	đi về	to go home
+288.		9999999	𠫾遶	đi theo	to follow, to go with so., to come with so.; to accompany
+289.		9999999	𠫾ㇴ吏ㇴ	đi đi lại lại	to pace around, to go back and forth
+290.		9999999	𠫾塊	đi khỏi	to disappear, to vanish, to go away completely
+291.	U+21975	44	𡥵	con	child
+292.		272	𡥵𠊛	con người	man, human
+293.		565	𡥵𡛔	con gái	girl; daughter
+294.		763	𡥵𤳇	con trai	boy; son
+295.		1491	婆𡥵	bà con	relative; relationship; neighbour
+296.		2132	𥘷𡥵	trẻ con	child; childish
+297.		2911	𡥵𡮣	con bé	gal, little girl, little miss
+298.		4265	𡥵𠬠	con một	the only child
+299.		9999999	𡮣𡥵	bé con	little child
+300.	U+5728	45	在	tại	at, in; because, because of
+301.		864	在牢	tại sao	why
+302.		1128	現在	hiện tại	at present; present, modern, nowadays
+303.		3643	在𡊲	tại chỗ	right away, immediately, on the spot
+304.		9999999	在爲	tại vì	because
+305.		9999999	内在	nội tại	immanent, inherent, innate, intrinsic
+306.	U+20129	46	𠄩	hai	two
+307.		4972	𠄩𩈘	hai mặt	double-faced, decitful, duplicitous
+308.		9999999	次𠄩	thứ hai	monday; second
+309.	U+88AB	47	被	bị	to befall; (passive preposition)
+310.		9999999	被動	bị động	passive
+311.	U+5099	47	備	bị	【to prepare】*
+312.		9999999	防備	phòng bị	to take precautions against
+313.		9999999	設備	thiết bị	equipment
+314.	U+5F79	48	役	việc	job; work; business
+315.		541	役爫	việc làm	job, employment, work; act, deed, action
+316.		1166	役務	dịch vụ	service
+317.		9999999	分役	phần việc	one's job, one's responsibility
+318.		9999999	工役	công việc	work; employment
+319.		9999999	𠫾爫役	đi làm việc	to go to work
+320.		9999999	爫役	làm việc	to go to work, to work; working
+321.		9999999	𣇞爫役	giờ làm việc	working hours
+322.	U+53EA	49	只	chỉ	only; merely
+323.	U+4E8B	50	事	sự	matter, business; occurrence, event
+324.		1556	軍事	quân sự	military affairs
+325.		3754	民事	dân sự	civilian
+326.		9999999	事物	sự vật	thing, object
+327.		9999999	領事	lãnh sự	consul
+328.		9999999	總領事	tổng lãnh sự	consul general
+329.		9999999	起事	khởi sự	uprising
+330.		9999999	事實	sự thật 	truth
+331.		9999999	世事	thế sự	world affairs
+332.	U+9076	51	遶	theo	to follow; according to
+333.		3427	𧼋遶	chạy theo	to run after
+334.		9999999	𠫾遶	đi theo	to follow, to go with so., to come with so.; to accompany
+335.	U+4E10	52	丐	cái	a; the; (numeral)
+336.		9999999	丐妬	cái đó	that
+337.		9999999	𠬠丐	một cái	one (piece)
+338.		9999999	丐呢	cái này	this
+339.		9999999	曾丐	từng cái	one at a time, one by one, individually
+340.		9999999	丐之	cái gì	what
+341.	U+7232	53	爲	vì	because; as; for
+342.		942	爲勢	vì thế	therefore, so
+343.		1692	台爲	thay vì	instead of
+344.		1718	爲牢	vì sao	why
+345.		9999999	在爲	tại vì	because
+346.		9999999	𤳄爲	bởi vì	because
+347.	U+6B23	54	欣	hơn	more than; better than
+348.	U+5450	55	呐	nói	to speak; to say; to talk
+349.		1082	呐𡀯	nói chuyện	to talk
+350.		1508	呐𪜀	nói là	reportedly, supposedly
+351.		1878	呐終	nói chung	generally speaking
+352.		2019	㗂呐	tiếng nói	language, tongue
+353.		9999999	呐𨔈	nói chơi	to joke, to be kidding
+354.	U+59D1	56	姑	cô	Ms., young woman; father's sister; husband's mother
+355.		9999999	姑娘	cô nàng	gal, girl
+356.		9999999	姑教	cô giáo	woman teacher, schoolmistress
+357.	U+2321C	57	𣈜	ngày	day
+358.		561	𣈜𣎃	ngày tháng	date, date specification
+359.		955	𣈜𫢩	ngày nay	today
+360.		1362	𣈜𠸗	ngày xưa	formerly, once, back then, in the past
+361.		2111	𣈜𡢐	ngày sau	in a distant future
+362.		2297	𣈜禮	ngày lễ	holiday; feast-day
+363.		3775	常𣈜	thường ngày	everyday
+364.		3892	班𣈜	ban ngày	during the day, in the daytime
+365.		9999999	𣈜箕	ngày kia	the day after tomorrow
+366.		9999999	𣈜常	ngày thường	weekday
+367.		9999999	最𣈜	tối ngày	all day long, day and night
+368.		9999999	𣈜务	ngày mùa	harvest time
+369.	U+3D4B	58	㵋	mới	new; fresh
+370.		1462	㵋低	mới đây	recently, lately, just now
+371.		2356	𢷮㵋	đổi mới	to innovate, to renovate
+372.		9999999	祝𢜠𢆥㵋	chúc mừng năm mới	happy new year!
+373.	U+285B2	59	𨖲	lên	 to rise; to ascend; to go up
+374.		3044	𨅸𨖲	đứng lên	to stand up, rise
+375.		9999999	𨖲𤖹	lên lớp	to give a lesson
+376.		9999999	捲𨖲	cuốn lên	to roll up, to curl up
+377.	U+6144	60	慄	rất	very; quite
+378.		9999999	慄𪜀	rất là	very, extremely
+379.	U+6236	61	戶	họ	they
+380.		9999999	戶口	hộ khẩu	registered residence; population, number of inhabitants
+381.		9999999	偀戶	anh họ	cousin
+382.		9999999	𠸜戶	tên họ	family name; last name
+383.	U+5A46	62	婆	bà	woman; Mrs.
+384.		879	彈婆	đàn bà	woman
+385.		1269	翁婆	ông bà	man and woman; husband and wife
+386.		1491	婆𡥵	bà con	relative; relationship; neighbour
+387.		9999999	婆外	bà ngoại	maternal grandmother
+388.		9999999	婆内	bà nội	paternal grandmother
+389.		9999999	老婆	lão bà	old lady
+390.	U+5C40	63	局	cuộc	match, game; 【circumstances】*
+391.		470	局𠁀	cuộc đời	life, existence
+392.		9999999	局生	cuộc sống	life, existence
+393.		9999999	入局	nhập cuộc	to be an insider, to take part in
+394.	U+518C	64	册	sách	book
+395.		4407	史册	sử sách	books of history and legends
+396.		9999999	讀册	đọc sách	to read a book
+397.		9999999	册引	sách dẫn	index (book)
+398.		9999999	卷册	cuốn sách	book
+399.	U+9285	65	銅	đồng	copper; brass; bronze; coin, money
+400.		9999999	銅鉑	đồng bạc	piastre; silver dollar
+401.	U+578C	65	垌	đồng	field; countryside, country; rural
+402.		9999999	𩵜垌	cá đồng	freshwater fish
+403.		9999999	垌平	đồng bằng	plain, lowland, level land
+404.	U+540C	65	同	đồng	same; similar; Dong (Vietnamese currency unit)
+405.		4784	同義	đồng nghĩa	synonym
+406.		9999999	同音	đồng âm	homophone; homonym
+407.		9999999	共同	cộng đồng	community
+408.		9999999	同意	đồng ý	to agree, to accord, to consent, to approve
+409.	U+21890	66	𡢐	sau	after; following
+410.		377	𡢐妬	sau đó	after that
+411.		938	𡢐呢	sau này	afterwards, later, in the future
+412.		1834	𣋚𡢐	hôm sau	the next day, the following day
+413.		2111	𣈜𡢐	ngày sau	in a distant future
+414.		3165	𡢐低	sau đây	hereafter, following
+415.		3431	𡢐共	sau cùng	at the very end
+416.		9999999	𡢐欺	sau khi	later, after, thereafter
+417.		9999999	𡢐歇	sau hết	finally, at the end
+418.		9999999	𡢐𠯆	sau nữa	moreover
+419.		9999999	𡢐𠸗	sau xưa	from before and after
+420.		9999999	𠓀𡢐	trước sau	inevitably, sooner or later
+421.	U+7576	68	當	đang	currently; just; now
+422.		9999999	當今	đương kim	present, current
+423.	U+548D	69	咍	hay	or; good; well
+424.		2225	咍𪜀	hay là	or
+425.		3915	咍牢	hay sao	isn't it?
+426.		9999999	咍過	hay quá	very good; well done
+427.	U+24BE9	70	𤯩	sống	to live; alive; raw
+428.		668	𠁀𤯩	đời sống	life, lifetime, living
+429.		3703	𤯩吏	sống lại	to resurrect
+430.		9999999	𤯩𣩂	sống chết	life and death; at all costs
+431.		9999999	扒𤯩	bắt sống	capture alive
+432.		9999999	咹𤯩	ăn sống	to eat raw (food)
+433.	U+5E74	71	年	niên	【year】*
+434.		3472	常年	thường niên	annual, yearly
+435.		9999999	年少	niên thiếu	young, tender
+436.		9999999	成年	thành niên	adolescent
+437.		9999999	元年	nguyên niên	first year of rule's reign
+438.		9999999	青年	thanh niên	youth, juvenile, young person
+439.		9999999	十年	thập niên	decade
+440.	U+229DA	71	𢧚	nên	to ought to, shall; to become
+441.		944	𧿨𢧚	trở nên	to become, to turn
+442.		1681	朱𢧚	cho nên	therefore, hence
+443.		3523	𢧚𠊛	nên người	to become a good person
+444.	U+522B	73	别	biết	to know
+445.		194	朱别	cho biết	to tell; to inform, to notify
+446.		293	特别	đặc biệt	special; unusual
+447.		1652	别包	biết bao	so much, so many
+448.		1661	分别	phân biệt	to distinguish, to discern, to discriminate
+449.		1672	曉别	hiểu biết	to know, to be familiar with
+450.		1750	恪别	khác biệt	different, unequal
+451.		3031	别兜	biết đâu	who knows, goodness knows
+452.		4911	暫别	tạm biệt	goodbye
+453.		9999999	别𩈘	biết mặt	to know (someone) by sight
+454.		9999999	别條	biết điều	reasonable, judicious, sensible
+455.		9999999	認别	nhận biết	to realize, to recognize; to identify
+456.	U+2784A	74	𧡊	thấy	to see; to feel
+457.		696	感𧡊	cảm thấy	to feel
+458.		1013	𥆾𧡊	nhìn thấy	to see
+459.		9999999	𣗓曾𧡊	chưa từng thấy	unprecedented
+460.	U+8012	75	耒	rồi	already; then; after
+461.		9999999	耒𫥨	rồi ra	in the future
+462.	U+57CE	76	城	thành	citadel; city
+463.		153	城庯	thành phố	city, town
+464.		4071	城市	thành thị	urban area, town
+465.		9999999	占城	Chiêm Thành 	Champa
+466.	U+6210	76	成	thành	to become; to change into
+467.		622	成功	thành công	to succeed
+468.		1570	長成	trưởng thành	to grow up; mature
+469.		2398	成分	thành phần	ingredient; component; composition; social back-ground
+470.		9999999	成此	thành thử	therefore, so, hence
+471.		9999999	成年	thành niên	adolescent
+472.		9999999	形成	hình thành	to take form, to shape
+473.	U+8AA0	76	誠	thành	sincere; honest
+474.		9999999	誠實	thành thật	honest, honesty
+475.	U+543B	77	吻	vẫn	still, yet
+476.	U+606A	78	恪	khác	other; another; further
+477.		1750	恪别	khác biệt	different, unequal
+478.		4530	恪常	khác thường	especial, extraordinary
+479.	U+2013C	79	𠄼	năm	five
+480.		9999999	次𠄼	thứ năm	thursday; fifth
+481.	U+6E03	80	渃	nước	water; country; nation
+482.		577	坦渃	đất nước	home country, homeland
+483.		893	渃外	nước ngoài	abroad; foreign country
+484.		904	茹渃	nhà nước	state, country, nation
+485.		1212	渃眜	nước mắt	tears
+486.		4316	滝渃	sông nước	waterway, water route
+487.		4332	渃花	nước hoa	perfume
+488.		4422	渃㕵	nước uống	drinking water
+489.		9999999	渃越	nước việt	Vietnam; the Vietnamese country
+490.		9999999	渃𣖙	nước mía	sugarcane juice
+491.		9999999	𡽫渃	non nước	fatherland
+492.		9999999	渃𤊡	nước bóng	lustre (of pearls)
+493.		9999999	渃茶	nước trà	tea (beverage)
+494.		9999999	渃𥒥	nước đá	ice, frozen water
+495.		9999999	渃炊	nước sôi	boiling water
+496.	U+4F2E	81	伮	nó	he, she, it (colloquial)
+497.	U+7D30	82	細	tới	to arrive, to come
+498.		9999999	𢭲細	vói tới	to reach sth.
+499.	U+6208	83	戈	qua	to cross; to pass
+500.		1209	戈𠁀	qua đời	to pass away
+501.		1580	𠫾戈	đi qua	to go across, to cross
+502.		2643	𣋚戈	hôm qua	yesterday
+503.		2931	𠬃戈	bỏ qua	to leave well alone, to let pass unnoticed
+504.	U+54FF	84	哿	cả	all; in total; completely
+505.		263	畢哿	tất cả	all; entire, whole
+506.		9999999	歇哿	hết cả	all and sundry, all without exception
+507.		9999999	𦓅哿	già cả	venerably old, elderly
+508.	U+5171	85	共	cộng	to add (up); addition
+509.		1008	共産	cộng sản	communist
+510.		1289	共和	cộng hoà	republic, republican
+511.		2553	總共	tổng cộng	in total, altogether
+512.		3431	𡢐共	sau cùng	at the very end
+513.		9999999	共同	cộng đồng	community
+514.	U+4E4B	86	之	gì	what
+515.		941	爫之	làm gì	what for; what to do
+516.		9999999	庄之	chẳng gì	nothing at all
+517.		9999999	丐之	cái gì	what
+518.		9999999	空之	không gì	nothing
+519.	U+4F4E	87	低	đây	here; this
+520.		935	𠓀低	trước đây	before, previously
+521.		1462	㵋低	mới đây	recently, lately, just now
+522.		2054	𣇞低	giờ đây	now; nowadays
+523.		3165	𡢐低	sau đây	hereafter, following
+524.		9999999	兜低	đâu đây	somewhere
+525.	U+6570	88	数	số	number; fate
+526.		1233	数量	số lượng	quantity
+527.		1959	𨷶数	cửa sổ	window
+528.		2247	𣘃数	cây số	milestone; kilometer
+529.		2361	民数	dân số	population
+530.		3376	指数	chỉ số	index, index number
+531.		4376	数𠃣	số ít	singular; minority
+532.		4517	数料	số liệu	data
+533.		9999999	卒数	tốt số	fortunate, lucky
+534.		9999999	營数	doanh số	turnover
+535.		9999999	都数	đủ số	complete, full
+536.		9999999	数黰	số đen	bad luck, misfortune
+537.		9999999	指数經濟	chỉ số kinh tế	economic index
+538.		9999999	𠁦数	trúng số	to win (a lottery)
+539.		9999999	係数	hệ số	coefficient, factor
+540.		9999999	縁数	duyên số	predestined fate
+541.	U+6B72	89	歲	tuổi	age; year of age
+542.		1895	歲𥘷	tuổi trẻ	youth
+543.		2858	𥘷歲	trẻ tuổi	young in age
+544.		3797	固歲	có tuổi	advanced in years, aged
+545.		4299	𡮈歲	nhỏ tuổi	still very young (in age)
+546.		9999999	𠃣歲	ít tuổi	still young
+547.		9999999	菭歲	đầy tuổi	one year old (age of a baby)
+548.		9999999	𢜠歲	mừng tuổi	to express new year's day wishes (for being one year older)
+549.	U+6B21	90	次	thứ	order, rank; sort, type, category; next, subsequent
+550.		4039	次長	thứ trưởng	vice minister
+551.		9999999	次一	thứ nhất	the first
+552.		9999999	次二	thứ nhì	the second
+553.		9999999	次𠄩	thứ hai	monday; second
+554.		9999999	次𠀧	thứ ba	tuesday; third
+555.		9999999	次𠄼	thứ năm	thursday; fifth
+556.		9999999	次𦒹	thứ sáu	friday; sixth
+557.		9999999	次𬙞	thứ bảy	saturday; seventh
+558.		9999999	次要	thứ yếu	secondary
+559.		9999999	次四	thứ tư	wednesday; fourth
+560.	U+573B	91	圻	kỳ	【border, boundary】*
+561.		9999999	南圻	Nam Kỳ	Cochinchina
+562.		9999999	北圻	Bắc Kỳ	Tonkin
+563.		9999999	中圻	Trung Kỳ	Annam
+564.	U+671F	91	期	kỳ	【period, time, age】*
+565.		9999999	時期	thời kỳ	period
+566.	U+65D7	91	旗	cờ	flag, banner
+567.		9999999	下旗	hạ cờ	to lower the flag
+568.		9999999	花旗	Hoa Kỳ	United States of America
+569.	U+5947	91	奇	kỳ	strange; unusual
+570.	U+36EA	92	㛪	em	younger sibling
+571.		1003	偀㛪	anh em	brothers; siblings
+572.		1695	姉㛪	chị em	sisters; siblings
+573.		2476	㛪𡮣	em bé	little child; baby
+574.		9999999	偀姉㛪	anh chị em	brothers and sisters, siblings
+575.		9999999	𥘷㛪	trẻ em	young child, infant
+576.		9999999	㛪重	em chồng	younger brother or sister in law
+577.		9999999	㛪𫯳	em chồng	brother in law, sister in law
+578.	U+4E00	93	一	nhất	first; most (adverb for superlatives)
+579.		476	一𪜀	nhất là	foremost
+580.		1048	唯一	duy nhất	unique, only
+581.		1628	𠃣一	ít nhất	at least
+582.		1829	一定	nhất định	to decide; determined; inevitable
+583.		1958	統一	thống nhất	united, to unite, to unify
+584.		9999999	萬一	vạn nhất	in the rare case of, by any chance
+585.		9999999	第一	đệ nhất	the first
+586.		9999999	次一	thứ nhất	the first
+587.	U+204C0	94	𠓀	trước	before; ahead (of)
+588.		554	𠓀欺	trước khi	before (at an earlier time)
+589.		935	𠓀低	trước đây	before, previously
+590.		2245	𠓀𩈘	trước mặt	in the presence of, facing, directly in front of so.
+591.		2536	𪰂𠓀	phía trước	in the front
+592.		9999999	徊𠓀	hồi trước	in the past, before
+593.		9999999	𠓀𡢐	trước sau	inevitably, sooner or later
+594.	U+4F34	95	伴	bạn	friend; fellow; comrade
+595.		9999999	伴鐄	bạn vàng	very dear friend
+596.		9999999	伴𫇰	bạn cũ	old friend
+597.		9999999	各伴	các bạn	friends; you (plural)
+598.	U+610F	96	意	ý	idea, opinion, thought; Italy; italian
+599.		9999999	㗂意	tiếng ý	italian (language)
+600.		9999999	意𢣂	ý nghĩ	thought, idea
+601.		9999999	意見	ý kiến	view, opinion
+602.		9999999	意義	ý nghĩa	meaning, sense
+603.		9999999	意志	ý chí	will
+604.		9999999	注意	chú ý	to pay attention
+605.		9999999	𡨹意	giữ ý	to be thoughtful
+606.		9999999	適意	thích ý	to be satisfied
+607.		9999999	𢢲意	đẹp ý	to be pleasing, to content
+608.		9999999	同意	đồng ý	to agree, to accord, to consent, to approve
+609.		9999999	意想	ý tưởng	idea, thought
+610.	U+5F71	97	影	ảnh	image, photo
+611.		754	影響	ảnh hưởng	to influence; influence, effect, impact
+612.		9999999	紙影	giấy ảnh	photographic paper
+613.		9999999	形影	hình ảnh	image, photo, photograph
+614.		9999999	影焒	ảnh lửa	light of fire
+615.	U+51ED	98	凭	bằng	with, by means of, using; diploma, certificate; evidence, proof
+616.		2366	凭證	bằng chứng	evidence, proof
+617.	U+5E73	98	平	bình	equal, 【flat, even, level; peaceful】*
+618.		919	平常	bình thường	normal, ordinary, usual; normally, usually
+619.		1993	太平	thái bình	peace and secure
+620.		3461	平安	bình an	peace, security
+621.		9999999	垌平	đồng bằng	plain, lowland, level land
+622.		9999999	太平洋	Thái Bình Dương	Pacific Ocean
+623.		9999999	和平	hoà bình	peace, peaceful
+624.	U+670B	98	朋	bằng	【friend, comrade, pal】*
+625.		9999999	金朋	kim bằng	true friend
+626.	U+8287	99	芇	nào	which; any
+627.		571	勢芇	thế nào	how
+628.		969	芇妬	nào đó	some, certain
+629.		2056	欺芇	khi nào	when
+630.		2488	分芇	phần nào	to some extent, to a certain degree
+631.		9999999	如勢芇	như thế nào	how
+632.		9999999	徊芇	hồi nào	when (in the past)
+633.	U+982D	100	頭	đầu	head; top (of a multitude)
+634.		271	頭先	đầu tiên	(very) first
+635.		356	扒頭	bắt đầu	to begin, to start
+636.		1449	班頭	ban đầu	at first, initial, initially
+637.		2338	𨅸頭	đứng đầu	to head, to be at the head of
+638.		2547	𨷑頭	mở đầu	to initiate, to begin, to start
+639.		4107	𨀈頭	bước đầu	first step; initially
+640.		9999999	拖頭	đỡ đầu	to sponsor (someone), to support (someone)
+641.		9999999	頭𣎃	đầu tháng	beginning of the month
+642.		9999999	吝頭先	lần đầu tiên	the (very) first time
+643.		9999999	吝頭	lần đầu	the first time
+644.	U+6295	100	投	đầu	【to throw, to fling, to send】*
+645.		9999999	投機	đầu cơ	to speculate
+646.	U+962E	101	阮	nguyễn	(surname Nguyen)
+647.		9999999	朝阮	triều Nguyễn	Nguyen Dynasty
+648.	U+54F4	102	哴	rằng	that; so that
+649.		9999999	𠶢哴	dù rằng	though; although
+650.	U+683C	103	格	cách	way; method; manner
+651.		9999999	格爫	cách làm	way to do (something)
+652.	U+9769	103	革	cách	【reform; revolution】*
+653.		1175	革命	cách mạng	revolution
+654.		3505	改革	cải cách	to reform, to innovate
+655.	U+66F0	104	曰	viết	to write, to record; pen
+656.		4721	𡦂曰	chữ viết	writing, script
+657.		9999999	紙曰書	giấy viết thư	letter paper
+658.		9999999	𣘃曰	cây viết	pen
+659.	U+5C0B	105	尋	tìm	to search, to look for
+660.		1162	尋曉	tìm hiểu	to learn (about sth.)
+661.	U+23176	106	𣅶	lúc	moment, time
+662.		1967	𠬠𣅶	một lúc	a moment
+663.		9999999	𣅶呢	lúc này	currently; at present
+664.	U+674E	107	李	lý	(surname)
+665.	U+7406	107	理	lý	logic; reason
+666.		9999999	物理	vật lý	physics, physical
+667.		9999999	物理學	vật lý học	physics (field of study)
+668.		9999999	助理	trợ lý	assistant
+669.		9999999	理由	lý do	cause; reason
+670.		9999999	固理	có lý	right, reasonable; sensible
+671.		9999999	心理	tâm lý	psychology
+672.		9999999	地理	địa lý	geography
+673.		9999999	理想	lý tưởng	ideal
+674.	U+6B63	109	正	chính	main
+675.		976	正式	chính thức	official
+676.		9999999	正體	chính thể	conventional (character), traditional (character)
+677.	U+653F	109	政	chính	government; political affairs
+678.		602	政府	chính phủ	gonvernment
+679.		808	政治	chính trị	politics, political
+680.		1022	財政	tài chính	finance, budget
+681.		9999999	執政	chấp chính	to seize power, to assume power
+682.		9999999	地政治	địa chính trị	geopolitics
+683.		9999999	政黨	chính đảng	political party
+684.		9999999	政治家	chính trị gia	politician
+685.		9999999	政治犯	chính trị phạm	political prisoner
+686.	U+27607	110	𧘇	ấy	that
+687.	U+23383	111	𣎃	tháng	month
+688.		561	𣈜𣎃	ngày tháng	date, date specification
+689.		9999999	菭𣎃	đầy tháng	one month old (age of a baby)
+690.		9999999	頭𣎃	đầu tháng	beginning of the month
+691.		9999999	𣎃四	tháng tư	april
+692.	U+6703	112	會	hội	to meet; meeting
+693.		312	社會	xã hội	society
+694.		686	機會	cơ hội	opportunity, occasion, chance
+695.		1385	國會	quốc hội	national assembly
+696.		9999999	社會主義	xã hội chủ nghĩa	socialism, socialist
+697.		9999999	入會	nhập hội	to be admitted to an association
+698.	U+61A2	113	憢	nhau	one another, each another, together
+699.		2082	﨤憢	gặp nhau	to meet each other
+700.		4450	打憢	đánh nhau	to fight, to battle (against each other)
+701.		9999999	調憢	đều nhau	equal
+702.	U+235D3	114	𣗓	chưa	not yet; already (used in questions)
+703.		9999999	𣗓曾	chưa từng	never
+704.		9999999	𣗓曾𧡊	chưa từng thấy	unprecedented
+705.	U+541D	116	吝	lần	time, times
+706.		726	𠬠吝	một lần	once
+707.		9999999	吝頭先	lần đầu tiên	the (very) first time
+708.		9999999	吝頭	lần đầu	the first time
+709.	U+7531	117	由	do	reason; cause
+710.		654	自由	tự do	freedom; free
+711.		9999999	由探	do thám	to spy
+712.		9999999	理由	lý do	cause; reason
+713.		9999999	縁由	duyên do	reason, cause
+714.	U+230E3	118	𣃣	vừa	suitable, fitting
+715.		9999999	庄𣃣	chẳng vừa	to be not much better either, no less terrible
+716.	U+3996	119	㦖	muốn	to desire, to want, to wish
+717.	U+6587	120	文	văn	literature; culture
+718.		137	文化	văn hoá	culture, civilization
+719.		188	茹文	nhà văn	knight of the pen, man of letters, author, littérateur
+720.		384	文學	văn học	literature
+721.		1812	文明	văn minh	civilization, culture, civilized, cultured
+722.		9999999	文莱	Văn Lai	Brunei
+723.		9999999	回文	hồi văn	palindrome
+724.		9999999	漢文	hán văn	classical Chinese literature
+725.	U+5DE5	121	工	công	work; labour
+726.		1011	工作	công tác	mission; business
+727.		1640	工人	công nhân	worker; blue-collar worker
+728.		1842	工藝	công nghệ	craft, industry
+729.		2494	工業	công nghiệp	industry
+730.		9999999	大工業	đại công nghiệp	large-scale industry
+731.		9999999	分工	phần công	to allot, to assign
+732.		9999999	工役	công việc	work; employment
+733.	U+5377	122	卷	quyển	book, volume (publishing)
+734.		9999999	卷册	cuốn sách	book
+735.	U+6372	122	捲	cuốn	to roll up, to curl up, to convolve
+736.		9999999	捲𨖲	cuốn lên	to roll up, to curl up
+737.		9999999	捲吏	cuốn lại	to wind up, to spool, to coil
+738.	U+8ABF	123	調	đều	even; equally
+739.		1015	調查	điều tra	to inquire, to survey, to take a consensus of
+740.		9999999	調憢	đều nhau	equal
+741.		9999999	調拱	đều cũng	equally, also, as well
+742.	U+689D	123	條	điều	occurrence; condition; terms
+743.		991	條件	điều kiện	circumstances; condition
+744.		1742	固條	có điều	except, just, only that...
+745.		4844	都條	đủ điều	versed, knowledgeable
+746.		9999999	别條	biết điều	reasonable, judicious, sensible
+747.	U+82B1	124	花	hoa	flower
+748.		4332	渃花	nước hoa	perfume
+749.		9999999	葻花	bông hoa	flowers
+750.		9999999	花茶	hoa trà	camelia
+751.		9999999	𥒥花	đá hoa	marble
+752.		9999999	花旗	Hoa Kỳ	United States of America
+753.	U+83EF	124	華	hoa	chinese
+754.		9999999	中華	Trung Hoa	Chinese, China
+755.	U+2162F	125	𡘯	lớn	big; large
+756.		1607	分𡘯	phần lớn	the most, the lion's share, bulk
+757.		2375	𡚢𡘯	to lớn	big and tall; bulky; great
+758.		9999999	仉𡘯	kẻ lớn	the mighty, the privileged
+759.	U+57C3	126	埃	ai	who; someone, somebody
+760.		2680	庄埃	chẳng ai	nobody
+761.		4500	埃乃	ai nấy	each and every, everyone, one and all
+762.		9999999	𠇍埃	mấy ai	few people
+763.		9999999	埃及	Ai Cập	Egypt
+764.		9999999	唄埃	với ai	with somebody; together (with so.)
+765.		9999999	埃ㇴ	ai ai	everybody, everyone
+766.	U+20027	127	𠀧	ba	three
+767.		9999999	次𠀧	thứ ba	tuesday; third
+768.		9999999	堆𠀧	đôi ba	a few
+769.	U+7238	127	爸	ba	father
+770.		9999999	爸媽	ba má	parents, father and mother
+771.	U+35C2	128	㗂	tiếng	sound; noise; language
+772.		2019	㗂呐	tiếng nói	language, tongue
+773.		9999999	㗂法	tiếng pháp	french (language)
+774.		9999999	㗂日	tiếng nhật	japanese (language)
+775.		9999999	㗂中國	tiếng trung quốc	chinese (language)
+776.		9999999	㗂德	tiếng đức	german (language)
+777.		9999999	㗂意	tiếng ý	italian (language)
+778.		9999999	㗂美	tiếng mỹ	american english (language)
+779.		9999999	㗂中	tiếng Trung	Chinese (language)
+780.		9999999	卒㗂	tốt tiếng	popular, well-reputed
+781.		9999999	芒㗂	mang tiếng	to suffer a bad reputation
+782.		9999999	㗂越	tiếng việt	vietnamese (language)
+783.		9999999	㗂英	tiếng anh	english (language)
+784.	U+5802	129	堂	đường	【house, bureau, palace】*
+785.		3534	天堂	thiên đường	paradise, heaven, elysium
+786.		9999999	教堂	giáo đường	palace of worship, church
+787.		9999999	後堂	hậu đường	building at the back of a mansion
+788.		9999999	内堂	nội đường	in-house, inside the house
+789.		9999999	學堂	học đường	school
+790.		9999999	女學堂	nữ học đường	school for girls, girl's school
+791.		9999999	佛堂	phật đường	buddhist pagoda
+792.	U+5858	129	塘	đường	street; road; way; route
+793.		1685	塘庯	đường phố	street
+794.		2759	塘𠫾	đường đi	way, footway
+795.		9999999	𨷑塘	mở đường	to pave the way for, to initiate
+796.		9999999	引塘	dẫn đường	to show the way
+797.		9999999	塘鐵	đường sắt	Railway
+798.		9999999	塘高速	đường cao tốc	highway
+799.	U+7CD6	129	糖	đường	sugar
+800.		9999999	糖𥽢	đường phèn	rock sugar, rock candy
+801.	U+4E16	130	世	thế	world; era
+802.		161	世界	thế giới	world
+803.		9999999	世紀	thế kỷ	century
+804.		9999999	新世界	Tân Thế Giới	the New World
+805.		9999999	世俗	thế tục	profane, secular, mundane
+806.		9999999	世事	thế sự	world affairs
+807.	U+66FF	130	替	thế	to substitute; to replace
+808.		9999999	替品	thế phẩm	substitute
+809.	U+52E2	130	勢	thế	such, so; 【condition, appearance; position, influence, impetus, power】*
+810.		348	如勢	như thế	like this, like that; thus, so
+811.		571	勢芇	thế nào	how
+812.		942	爲勢	vì thế	therefore, so
+813.		9999999	氣勢	khí thế	momentum, impetus
+814.		9999999	形勢	hình thế	complexion, character, situation; terrain, topography
+815.		9999999	地勢	địa thế	terrain, site
+816.		9999999	如勢芇	như thế nào	how
+817.	U+66FE	131	曾	từng	【ever; already】*
+818.		9999999	𣗓曾	chưa từng	never
+819.		9999999	𣗓曾𧡊	chưa từng thấy	unprecedented
+820.		9999999	㐌曾	đã từng	ever
+821.		9999999	曾丐	từng cái	one at a time, one by one, individually
+822.	U+2B8A9	132	𫢩	nay	this (year or day); now; today
+823.		593	現𫢩	hiện nay	today, nowadays
+824.		844	𣋚𫢩	hôm nay	today
+825.		955	𣈜𫢩	ngày nay	today
+826.	U+576D	133	坭	nơi	place, location, site
+827.		2976	𦤾坭	đến nơi	to arrive; to be about to do sth.
+828.		9999999	泣坭	khắp nơi	everywhere
+829.		9999999	𦣰坭	nằm nơi	to be confined; to lie in
+830.	U+5F62	134	形	hình	appearance, shape; picture, photo
+831.		1184	傳形	truyền hình	television
+832.		1227	形式	hình thức	form
+833.		1662	情形	tình hình	situation
+834.		9999999	形勢	hình thế	complexion, character, situation; terrain, topography
+835.		9999999	隊形	đội hình	formation, line-up
+836.		9999999	形影	hình ảnh	image, photo, photograph
+837.		9999999	形𦘧	hình vẽ	painting, drawing
+838.		9999999	形成	hình thành	to take form, to shape
+839.	U+524D	135	前	tiền	front
+840.		9999999	現前	hiện tiền	in front of one
+841.		9999999	𩈘前	mặt tiền	front, front side
+842.		9999999	前定	tiền định	predetermined, predestined, preordained
+843.		9999999	前提	tiền đề	premise, precondition, prerequisite
+844.		9999999	前途	tiền đồ	future, prospects
+845.		9999999	前人	tiền nhân	predecessor
+846.		9999999	前史	tiền sử	prehistoric; prehistory
+847.	U+9322	135	錢	tiền	money, currency
+848.		1434	錢鉑	tiền bạc	money
+849.		3701	錢𩈘	tiền mặt	cash
+850.		9999999	錢紙	tiền giấy	banknote, paper money
+851.	U+4E9B	136	些	ta	we, us
+852.		220	眾些	chúng ta	we, us (including person addressed)
+853.		257	𠊛些	người ta	people; they
+854.		9999999	𪝳些	hắn ta	bloke, jerk, idiot
+855.	U+5357	138	南	nam	south; southern
+856.		9999999	𪰂南	phía nam	south, to the south
+857.		9999999	南美	Nam Mỹ	South America
+858.		9999999	洲南極	Châu Nam Cực	Antarctica 
+859.		9999999	𧆄南	thuốc nam	Vietnamese herbs
+860.		9999999	南大洋	Nam Đại Dương	Antarctic Ocean
+861.		9999999	南圻	Nam Kỳ	Cochinchina
+862.		9999999	南洋	Nam Dương	Indonesia
+863.		9999999	越南	Việt Nam	Vietnam; vietnamese
+864.		9999999	南非	Nam Phi	South Africa
+865.		9999999	指南	chỉ nam	to guide; guide (book)
+866.		9999999	沔南	miền nam	southern region; southern Vietnam
+867.		9999999	海南	Hải Nam	Hainan (island)
+868.	U+8D8A	139	越	việt	vietnamese
+869.		9999999	漢越	Hán Việt	Sino-Vietnamese
+870.		9999999	越南	Việt Nam	Vietnam; vietnamese
+871.		9999999	𠊛越	người việt	vietnamese person; vietnamese people
+872.		9999999	渃越	nước việt	Vietnam; the Vietnamese country
+873.		9999999	㗂越	tiếng việt	vietnamese (language)
+874.	U+4E2D	140	中	trung	center; central; Chinese
+875.		487	中心	trung tâm	center, institute
+876.		9999999	㗂中國	tiếng trung quốc	chinese (language)
+877.		9999999	㗂中	tiếng Trung	Chinese (language)
+878.		9999999	節中秋	tết trung thu	mid-autumn festival
+879.		9999999	中華	Trung Hoa	Chinese, China
+880.		9999999	中非	Trung Phi	Central African Republic
+881.		9999999	地中海	Địa Trung Hải	Mediterranean Sea, Mediterranean
+882.		9999999	中國	trung quốc	China; chinese
+883.		9999999	中學	trung học	high school, secondary school
+884.		9999999	禮中秋	lễ trung thu	mid-autumn festival
+885.		9999999	沔中	miền trung	central region; central Vietnam
+886.		9999999	中心研究	trung tâm nghiên cứu	research center
+887.		9999999	中圻	Trung Kỳ	Annam
+888.	U+20BA9	141	𠮩	nếu	if
+889.		1098	𠮩空	nếu không	if not; otherwise, or else
+890.	U+25637	142	𥘷	trẻ	young; children
+891.		1895	歲𥘷	tuổi trẻ	youth
+892.		2132	𥘷𡥵	trẻ con	child; childish
+893.		2858	𥘷歲	trẻ tuổi	young in age
+894.		9999999	茹𥘷	nhà trẻ	day nursery, creche
+895.		9999999	𥘷㛪	trẻ em	young child, infant
+896.		9999999	嫩𥘷	non trẻ	young, of tender age
+897.	U+253CC	144	𥏌	tên	arrow
+898.		9999999	𥏌焒	tên lửa	rocket, missile
+899.	U+20E1C	144	𠸜	tên	name
+900.		2167	𠸜噲	tên gọi	name
+901.		2273	噠𠸜	đặt tên	to name, to give a name
+902.		9999999	𠸜戶	tên họ	family name; last name
+903.		9999999	𠸜俗	tên tục	birth name
+904.		9999999	𨖅𠸜	sang tên	to transfer
+905.	U+5BE6	145	實	thật	true, real, actual
+906.		362	實現	thực hiện	to realize, to carry out
+907.		9999999	誠實	thành thật	honest, honesty
+908.		9999999	事實	sự thật 	truth
+909.		9999999	𣦍實	ngay thật	sincere; honest
+910.	U+5A84	146	媄	mẹ	mother; mom
+911.		862	吒媄	cha mẹ	parents
+912.		1830	𢂞媄	bố mẹ	mom and dad, parents
+913.	U+52E4	147	勤	cần	to need
+914.		4612	庄勤	chẳng cần	not to need
+915.		9999999	勤要	cần yếu	indispensable, essential, important
+916.		9999999	殷勤	ân cần	thoughtful, solicitous
+917.	U+2102F	148	𡀯	chuyện	matter; talk, story
+918.		315	句𡀯	câu chuyện	tale, story
+919.		1082	呐𡀯	nói chuyện	to talk
+920.		1882	𡀯情	chuyện tình	romance
+921.		9999999	𢲧𡀯	gây chuyện	to be quarrelsome; to pick a quarrel (with sb.)
+922.	U+6BCF	149	每	mỗi	each, every
+923.	U+8292	151	芒	mang	to carry; to wear
+924.		9999999	芒㗂	mang tiếng	to suffer a bad reputation
+925.	U+59C9	154	姉	chị	sister; young woman
+926.		1695	姉㛪	chị em	sisters; siblings
+927.		1887	偀姉	anh chị	elder brother and elder sister
+928.		9999999	偀姉㛪	anh chị em	brothers and sisters, siblings
+929.	U+8ECA	155	車	xe	vehicle; car
+930.	U+79AE	156	禮	lễ	holiday; festival; 【manners, courtesy, etiquette】*
+931.		2297	𣈜禮	ngày lễ	holiday; feast-day
+932.		2399	旬禮	tuần lễ	week
+933.		9999999	𨢇禮	rượu lễ	sacramental wine
+934.		9999999	禮中秋	lễ trung thu	mid-autumn festival
+935.		9999999	禮教	lễ giáo	rites, ethical behaviour
+936.		9999999	禮儀	lễ nghi	rites, rituals
+937.	U+8FFB	157	迻	đưa	to give
+938.	U+251BE	158	𥆾	nhìn	to look
+939.		1013	𥆾𧡊	nhìn thấy	to see
+940.		4533	𥆾終	nhìn chung	as a whole, all in all
+941.	U+570B	159	國	quốc	 【country, nation】*
+942.		303	國家	quốc gia	nation, country, state
+943.		569	國際	quốc tế	international
+944.		1385	國會	quốc hội	national assembly
+945.		1724	祖國	tổ quốc	fatherland
+946.		2469	外國	ngoại quốc	alien, foreign country
+947.		2630	國防	quốc phòng	national defence
+948.		4324	國語	quốc ngữ	national language; national script
+949.		9999999	㗂中國	tiếng trung quốc	chinese (language)
+950.		9999999	英國	anh quốc	United Kingdom of Great Britain and Northern Ireland, England (colloquial)
+951.		9999999	王國英	vương quốc anh	Kingdom of England
+952.		9999999	國營	quốc doanh	state-run, state-managed
+953.		9999999	帝國德	đế quốc đức	German Empire
+954.		9999999	王國西班牙	Vương Quốc Tây Ban Nha	Kingdom of Spain
+955.		9999999	中國	trung quốc	China; chinese
+956.		9999999	王國丹麥	Vương quốc Đan Mạch	Kingdom of Denmark
+957.	U+6DFB	160	添	thêm	to add, to increase; additional
+958.	U+9AD8	162	高	cao	high; tall
+959.		2644	高級	cao cấp	high-class, high-ranking, high-grade
+960.		3652	最高	tối cao	supreme, top-level, utmost
+961.		4243	提高	đề cao	to heighten; to think highly of
+962.		9999999	高棉	Cao Miên	Cambodia, Khmer
+963.		9999999	朝高	chiều cao	height
+964.		9999999	高賖	cao xa	unattainable
+965.		9999999	高點	cao điểm	peak, height, highest level
+966.		9999999	塘高速	đường cao tốc	highway
+967.		9999999	高上	cao thượng	high-minded, noble
+968.		9999999	高𢢲	cao đẹp	lofty and beautiful
+969.	U+6B65	163	步	bộ	【to step, to walk】*
+970.		1833	𠫾步	đi bộ	to walk (on foot); to stroll
+971.		3073	步隊	bộ đội	(communist) soldier
+972.		9999999	𧼋步	chạy bộ	to run, to walk, to do jogging
+973.		9999999	步行	bộ hành	pedestrian
+974.	U+90E8	163	部	bộ	set; part, section, division
+975.		1530	部長	bộ trưởng	minister
+976.		9999999	部首	bộ thủ	characer radical
+977.		9999999	部下	bộ hạ	subordinate
+978.		9999999	下部	hạ bộ	lower part of the abdomen
+979.		9999999	淎北部	Vịnh Bắc Bộ	Gulf of Tonkin
+980.	U+96BB	164	隻	chiếc	unit, entity, object; (classifier for vehicles or certain objects)
+981.	U+247A6	165	𤞦	mọi	each, every
+982.		9999999	𤞦𠊛	mọi người	everybody, everyone
+983.	U+66F8	166	書	thư	letter; 【book】*
+984.		781	排書	bài thơ	poem
+985.		9999999	祝書	chúc thư	testament, will
+986.		9999999	斤書	cân thư	letter balance
+987.		9999999	紙曰書	giấy viết thư	letter paper
+988.		9999999	盒書	hộp thư	post office box
+989.		9999999	最後書	tối hậu thư	ultimatum
+990.		9999999	包書	bao thơ	envelope
+991.		9999999	書電子	thư điện tử	E-mail
+992.	U+722D	167	爭	tranh	to compete, to fight
+993.		646	戰爭	chiến tranh	war, warfare
+994.		1955	鬥爭	đấu tranh	to fight, to struggle for
+995.		2582	競爭	cạnh tranh	to compete
+996.		3128	爭論	tranh luận	to discuss, to debate vigorously
+997.		9999999	彈爭	đàn tranh	vietnamese zither
+998.	U+5E40	167	幀	tranh	picture, painting, scroll
+999.		423	幅幀	bức tranh	picture, painting
+1000.		9999999	傳幀	truyện tranh	comic
+1001.	U+22B23	168	𢬣	tay	arm; hand; side
+1002.		1170	盤𢬣	bàn tay	hand
+1003.		2196	𢺺𢬣	chia tay	to say good bye; to go shares
+1004.		9999999	𢭲𢬣	vói tay	to reach (out) for sth., to strech out one's arm (for sth.)
+1005.		9999999	包𢬣	bao tay	glove
+1006.		9999999	蹎𢬣	chân tay	limbs
+1007.		9999999	𢬣𤽸	tay trắng	bare hands
+1008.	U+22759	170	𢝙	vui	amusing, funny, merry, joyful, gay
+1009.		9999999	𢝙𢚸	vui lòng	to be content, pleased, happy
+1010.	U+4FE1	171	信	tin	to believe; news, information
+1011.		606	通信	thông tin	information; to inform, to broadcast informations
+1012.		9999999	德信	đức tin	creed, faith
+1013.		9999999	信息	tin tức	news, message, information
+1014.	U+5400	173	吀	xin	to beg; to ask for
+1015.		1596	吀纇	xin lỗi	to beg for pardon; Excuse me! Sorry!
+1016.		9999999	吀嘲	xin chào	(common greeting); Good afternoon/evening!
+1017.		9999999	求吀	cầu xin	to solicit, to ask for, to beg for
+1018.	U+6C11	174	民	dân	people; citizen
+1019.		716	人民	nhân dân	people; country
+1020.		1284	民主	dân chủ	democratic
+1021.		2361	民数	dân số	population
+1022.		2508	民廊	dân làng	villager, villagers
+1023.		3417	魚民	ngư dân	fisher
+1024.		3487	殖民	thực dân	colonial
+1025.		3754	民事	dân sự	civilian
+1026.		9999999	民黰	dân đen	mob, rabbel
+1027.		9999999	民衛	dân vệ	The people's self-defence corps
+1028.		9999999	民權	dân quyền	civic rights
+1029.		9999999	民舉	dân cử	elective, people-elected
+1030.	U+7701	175	省	tỉnh	province
+1031.		9999999	聯省	liên tỉnh	inter-provincial
+1032.	U+904E	176	過	quá	very; too (much); to exceed, to pass
+1033.		1077	過程	quá trình	process, course of events
+1034.		9999999	咍過	hay quá	very good; well done
+1035.		9999999	過𡗋	quá lắm	too much
+1036.	U+54B9	177	咹	ăn	to eat
+1037.		2128	咹㕵	ăn uống	to eat and drink; food intake
+1038.		2872	咹粓	ăn cơm	to eat a meal
+1039.		9999999	盤咹	bàn ăn	dinner table
+1040.		9999999	油咹	dầu ăn	cooking oil, edible oil
+1041.		9999999	貪咹	tham ăn	greedy, covetous
+1042.		9999999	咹𤯩	ăn sống	to eat raw (food)
+1043.		9999999	咹試	ăn thử	to sample (food), to taste
+1044.		9999999	咹𢜠	ăn mừng	to celebrate with a feast
+1045.		9999999	店咹	tiệm ăn	restaurant
+1046.		9999999	式咹	thức ăn	food
+1047.		9999999	房咹	phòng ăn	dining room
+1048.	U+22785	178	𢞅	yêu	to love
+1049.		441	情𢞅	tình yêu	love; passion
+1050.	U+8981	178	要	yêu	【to need, to require, to demand; necessary】*
+1051.		822	要求	yêu cầu	to require, to ask
+1052.		1609	主要	chủ yếu	main
+1053.		9999999	勤要	cần yếu	indispensable, essential, important
+1054.		9999999	𦓅要	già yếu	decrepit, old and feeble
+1055.		9999999	𡮈要	nhỏ yếu	small and weak
+1056.		9999999	必要	tất yếu	indispensable
+1057.		9999999	次要	thứ yếu	secondary
+1058.		9999999	重要	trọng yếu	essential
+1059.		9999999	要點	yếu điểm	the essential point, the main point
+1060.		9999999	要人	yếu nhân	very important person, (abbr. VIP)
+1061.	U+21A0C	179	𡨌	giữa	between, in the middle of, amid
+1062.	U+21795	180	𡞕	vợ	wife
+1063.		9999999	𡞕重	vợ chồng	couple, maried couple
+1064.	U+8B80	181	讀	đọc	to read
+1065.		522	讀者	độc giả	reader
+1066.		9999999	讀册	đọc sách	to read a book
+1067.	U+23A42	183	𣩂	chết	death; to die
+1068.		9999999	㹥𣩂	chó chết	damn, damned (colloquial)
+1069.		9999999	𣩂𨅸	chết đứng	to be thunderstruck, to be stunned
+1070.		9999999	𣩂吒	chết cha	damn it, damn, damned (colloquial)
+1071.		9999999	𤯩𣩂	sống chết	life and death; at all costs
+1072.	U+9577	184	長	trưởng	leader
+1073.		1530	部長	bộ trưởng	minister
+1074.		1570	長成	trưởng thành	to grow up; mature
+1075.		4039	次長	thứ trưởng	vice minister
+1076.		4466	船長	thuyền trưởng	captain, ship captain
+1077.		9999999	黨長	đảng trưởng	party leader
+1078.		9999999	隊長	đội trưởng	leader of a working gang; leader of a group
+1079.		9999999	科長	khoa trưởng	dean, head of a university department
+1080.		9999999	𡖡長	nhóm trưởng	group leader, team leader
+1081.		9999999	生長	sinh trưởng	to grow up, to grow
+1082.		9999999	師長	sư trưởng	master, mastermind; military division commander
+1083.		9999999	首長	thủ trưởng	chief officer
+1084.		9999999	長科	trưởng khoa	dean, head of a university department
+1085.	U+5834	184	場	trường	school; field; ground
+1086.		867	場合	trường hợp	occasion, circumstance
+1087.		898	市場	thị trường	market
+1088.		1031	媒場	môi trường	environment; medium
+1089.		1951	飛場	phi trường	airport
+1090.		2280	場學	trường học	school
+1091.		9999999	價市場	giá thị trường	market price, market rate, market value
+1092.		9999999	媒場學	môi trường học	environmental sciences, ecology, mesology
+1093.		9999999	場小學	trường tiểu học	elementary school
+1094.		9999999	魚場	ngư trường	fishing grounds
+1095.		9999999	場𠖤	trường bay	airport
+1096.		9999999	場大學	trường đại học	university
+1097.	U+884C	185	行	hàng	line, row; rank, order; goods, wares, merchandise
+1098.		1359	茹行	nhà hàng	restaurant; hotel
+1099.		1376	銀行	ngân hàng	Bank (financial institution)
+1100.		1847	𨷶行	cửa hàng	shop, store
+1101.		1876	行客	hành khách	passenger
+1102.		2744	學行	học hành	to learn, to study
+1103.		3050	執行	chấp hành	to implement, to execute, to carry out
+1104.		3452	行星	hành tinh	planet
+1105.		3617	行廊	hành lang	corridor, passage, gallery
+1106.		4737	舉行	cử hành	to celebrate, to host (an event)
+1107.		9999999	銀行𧖱	ngân hàng máu	blood bank
+1108.		9999999	步行	bộ hành	pedestrian
+1109.		9999999	德行	đức hạnh	righteousness and good character
+1110.		9999999	行𡦂	hàng chữ	line of text
+1111.		9999999	交行	giao hàng	to deliver goods
+1112.	U+822A	185	航	hàng	【sail; navigate】*
+1113.		2103	航空	hàng không	aviation
+1114.		4337	噠航	đặt hàng	to place an order
+1115.		9999999	航海	hàng hải	navigation (nautical)
+1116.	U+25669	186	𥙩	lấy	to take
+1117.	U+26591	187	𦖑	nghe	to hear
+1118.		3999	𦖑𠳒	nghe lời	to take someone's advice, to listen to someone
+1119.		9999999	𦖑唏	nghe hơi	to know from hearsay
+1120.	U+228B2	189	𢢲	đẹp	beautyful
+1121.		3795	色𢢲	sắc đẹp	beauty, glamour
+1122.		4268	𢢲𤳇	đẹp trai	handsome
+1123.		9999999	𢢲老	đẹp lão	hale, hale and hearty
+1124.		9999999	𢢲縁	đệp duyên	to make a match between two people
+1125.		9999999	𢢲意	đẹp ý	to be pleasing, to content
+1126.		9999999	𢢲𢚸	đẹp lòng	to be satisfied, to be pleased
+1127.		9999999	高𢢲	cao đẹp	lofty and beautiful
+1128.	U+5B57	190	字	tự	character; letter; word
+1129.		9999999	字典	tự điển	dictionary (of characters)
+1130.		9999999	紅十字	hồng thập tự	Red Cross
+1131.	U+2089E	191	𠢞	giúp	to help, to assist
+1132.		9999999	𠢞拖	giúp đỡ	to help, to assist
+1133.	U+21B88	192	𡮈	nhỏ	small
+1134.		4299	𡮈歲	nhỏ tuổi	still very young (in age)
+1135.		9999999	𡮈要	nhỏ yếu	small and weak
+1136.		9999999	𠊟𡮈	thằng nhỏ	little guy; the younger (of two males)
+1137.		9999999	仉𡮈	kẻ nhỏ	the average, the ordinary man
+1138.	U+20BC6	196	𠯆	nữa	more, further
+1139.		9999999	庄𠯆	chẳng nữa	otherwise
+1140.		9999999	𡢐𠯆	sau nữa	moreover
+1141.	U+59C5	196	姅	nửa	half
+1142.		3632	姅𣎀	nửa đêm	midnight; in the middle of the night
+1143.		9999999	姅务	nửa mùa	half-baked
+1144.	U+5E38	197	常	thường	frequent; common, normal, usual
+1145.		919	平常	bình thường	normal, ordinary, usual; normally, usually
+1146.		3472	常年	thường niên	annual, yearly
+1147.		3775	常𣈜	thường ngày	everyday
+1148.		3807	不常	bất thường	unusual, extraordinary, special
+1149.		4530	恪常	khác thường	especial, extraordinary
+1150.		9999999	𫀅常	coi thương	to think little of
+1151.		9999999	易常	dễ thường	probably, possibly
+1152.		9999999	𣈜常	ngày thường	weekday
+1153.		9999999	五常	ngũ thường	the five constant virtues of Confucianism
+1154.		9999999	失常	thất thường	irregular, erratic
+1155.		9999999	常欺	thường khi	often, frequently
+1156.		9999999	常日	thường nhật	daily
+1157.		9999999	常常	thường thường	usually
+1158.	U+5B78	199	學	học	to learn, to study
+1159.		384	文學	văn học	literature
+1160.		529	大學	đại học	university; higher education
+1161.		594	科學	khoa học	science
+1162.		859	學生	học sinh	pupil; schoolboy; schoolgirl
+1163.		2009	排學	bài học	lesson
+1164.		2104	學習	học tập	to study, to learn
+1165.		2280	場學	trường học	school
+1166.		2524	學者	học giả	scholar, literary man
+1167.		2744	學行	học hành	to learn, to study
+1168.		2961	小學	tiểu học	primary education
+1169.		3024	哲學	triết học	philosophy
+1170.		3154	史學	sử học	history (field of study)
+1171.		3674	學院	học viện	institute
+1172.		3712	化學	hoá học	chemistry
+1173.		3794	𠰺學	dạy học	to teach (at a school)
+1174.		4361	生學	sinh học	biology (science)
+1175.		9999999	物理學	vật lý học	physics (field of study)
+1176.		9999999	動物學	động vật học	zoology
+1177.		9999999	地質學	địa chất học	geology
+1178.		9999999	儒學	nho học	Confucianism
+1179.		9999999	神學	thần học	theology
+1180.		9999999	考古學	khảo cổ học	archaeology
+1181.		9999999	古生物學	cổ sinh vật học	paleontology
+1182.		9999999	媒場學	môi trường học	environmental sciences, ecology, mesology
+1183.		9999999	博學	bác học	scholarly, learned, knowledgeable
+1184.		9999999	茹博學	nhà bác học	scientist
+1185.		9999999	林學	lâm học	forestry
+1186.		9999999	中學	trung học	high school, secondary school
+1187.		9999999	場小學	trường tiểu học	elementary school
+1188.		9999999	藥學	dược học	pharmacy, pharmaceutics
+1189.		9999999	人類學	nhân loại học	anthropology
+1190.		9999999	分類學	phân loại học	taxonomy, systematics
+1191.		9999999	學屬𢚸	học thuộc lòng	to memorize, to learn something by heart
+1192.		9999999	入學	nhập học	beginning of (school) term
+1193.		9999999	學問	học vấn	knowledge, learning, literacy
+1194.		9999999	科學技術	khoa học kỹ thuật	science and technology
+1195.		9999999	場大學	trường đại học	university
+1196.		9999999	學堂	học đường	school
+1197.		9999999	女學堂	nữ học đường	school for girls, girl's school
+1198.	U+6771	200	東	đông	east; eastern
+1199.		9999999	𪰂東	phía đông	east, to the east
+1200.		9999999	東洋	Đông Dương	Indochina
+1201.		9999999	亞東	á đông	east asia
+1202.		9999999	𣷷東	biển đông	south china sea
+1203.		9999999	䬔東	gió đông	easterly wind; spring wind; spring; breeze
+1204.		9999999	東藥	đông dược	oriental medicine
+1205.	U+2014D	201	𠅍	mất	to lose; lost; to die, to vanish
+1206.		9999999	𠅍务	mất mùa	to have a poor crop
+1207.		9999999	𠅍𠰺	mất dạy	mannerless, ill-bred
+1208.	U+2845C	202	𨑜	xuống	to descend; to go down
+1209.		9999999	載𨑜	tải xuống	to download
+1210.	U+5766	203	坦	đất	earth; soil; land; ground
+1211.		577	坦渃	đất nước	home country, homeland
+1212.		3695	動坦	động đất	earthquake, seism
+1213.		9999999	坦客	đất khách	strange land, foreign land
+1214.		9999999	𣛤坦	trái đất	the earth
+1215.		9999999	坦墆	đất đai	land
+1216.		9999999	𤀘坦	vùng đất	land, area
+1217.	U+27E1D	204	𧸝	bán	to sell
+1218.		9999999	𧸝𠹾	bán chịu	to sell on credit
+1219.	U+534A	204	半	bán	【half, semi-】*
+1220.		9999999	半音	bán âm	semivowel
+1221.		9999999	半島	bán đảo	peninsula
+1222.		9999999	半輔音	bán phụ âm	semi-consonant
+1223.	U+4F75	205	併	tính	to calculate; to plan
+1224.		3405	併算	tính toán	to calculate, to count
+1225.	U+5C0D	206	對	đối	facing, opposing
+1226.		1614	反對	phản đối	to oppose, to object (to)
+1227.	U+985E	207	類	loại	class, group, kind, category
+1228.		1860	人類	nhân loại	mankind, humanity, human race
+1229.		9999999	人類學	nhân loại học	anthropology
+1230.		9999999	分類	phân loại	to classify; classification
+1231.		9999999	分類學	phân loại học	taxonomy, systematics
+1232.		9999999	品類	phẩm loại	grade, quality
+1233.	U+6216	208	或	hoặc	or; either
+1234.		4364	或𪜀	hoặc là	or; either
+1235.	U+29218	209	𩈘	mặt	face
+1236.		2245	𠓀𩈘	trước mặt	in the presence of, facing, directly in front of so.
+1237.		3126	𩈘陣	mặt trận	front, battle front
+1238.		3701	錢𩈘	tiền mặt	cash
+1239.		4347	﨤𩈘	gặp mặt	to meet (in person)
+1240.		4644	𩈘𦝄	mặt trăng	moon
+1241.		4972	𠄩𩈘	hai mặt	double-faced, decitful, duplicitous
+1242.		9999999	𨷑𩈘	mở mặt	to be better off
+1243.		9999999	都𩈘	đủ mặt	in full attendance
+1244.		9999999	𩈘𡗶	mặt trời	sun
+1245.		9999999	别𩈘	biết mặt	to know (someone) by sight
+1246.		9999999	認𩈘	nhận mặt	to identify, to reveal
+1247.		9999999	𩈘前	mặt tiền	front, front side
+1248.		9999999	夾𩈘	giáp mặt	face to face
+1249.	U+4021	210	䀡	xem	to see, to observe
+1250.		9999999	徐䀡	chờ xem	to wait and see
+1251.	U+60C5	211	情	tình	feeling, emotion
+1252.		441	情𢞅	tình yêu	love; passion
+1253.		758	情感	tình cảm	sentiment, affection, emotions
+1254.		1662	情形	tình hình	situation
+1255.		1882	𡀯情	chuyện tình	romance
+1256.		9999999	景情	cảnh tình	situation, condition, circumstances
+1257.		9999999	𢞂情	buồn tình	bored
+1258.		9999999	情恩	tình ân	deep feeling of gratitude
+1259.		9999999	恩情	ân tình	with deep gratitude
+1260.		9999999	焒情	lửa tình	ardent zeal
+1261.	U+5916	212	外	ngoài	out; outside; external
+1262.		893	渃外	nước ngoài	abroad; foreign country
+1263.		1250	边外	bên ngoài	outside, outer, exterior
+1264.		2353	海外	hải ngoại	abroad, overseas
+1265.		2469	外國	ngoại quốc	alien, foreign country
+1266.		9999999	婆外	bà ngoại	maternal grandmother
+1267.		9999999	外交	ngoài giao	diplomacy
+1268.		9999999	外𠰘	ngoài miệng	lip service
+1269.	U+8FB9	213	边	bên	side; edge
+1270.		1250	边外	bên ngoài	outside, outer, exterior
+1271.		9999999	家庭边内	gia đình bên nội	family on the paternal (father's) side
+1272.		9999999	边沛	bên phải	on the right side, dexter
+1273.		9999999	边賴	bên trái	on the left side
+1274.		9999999	堆边	đôi bên	both sides
+1275.	U+232C0	214	𣋀	sao	star
+1276.		9999999	𣋀閻王	sao Điêm vương	Pluto
+1277.		9999999	𣋀海王	sao hải vương	Neptune
+1278.		9999999	𣋀天王	sao thiên vương	Uranus
+1279.		9999999	𣋀土	sao thổ	Saturn
+1280.		9999999	𣋀木	Sao Mộc	Jupiter
+1281.		9999999	𣋀火	sao hoả	Mars
+1282.		9999999	𣋀金	Sao Kim	Venus
+1283.		9999999	𣋀水	sao thuỷ	Mercury (planet)
+1284.		9999999	𣋀天狼	Sao Thiên Lang	Sirius
+1285.		9999999	𣋀北极	Sao Bắc cực	North Star,Polaris
+1286.		9999999	𣋀北斗	Sao Bắc Đẩu	Big Dipper
+1287.	U+7262	214	牢	sao	how
+1288.		864	在牢	tại sao	why
+1289.		1718	爲牢	vì sao	why
+1290.		2806	空牢	không sao	no problem, never mind, it's okay, you're welcome
+1291.		3846	𠶢牢	dù sao	anyhow; anyway
+1292.		3915	咍牢	hay sao	isn't it?
+1293.		9999999	𠹲牢	chứ sao	(suggestive) or how else ...? certainly! of course!
+1294.		9999999	爫牢	làm sao	how
+1295.		9999999	庄牢	chẳng sao	it doesn't matter, never mind
+1296.	U+24018	215	𤀘	vùng	region, area
+1297.		9999999	𤀘坦	vùng đất	land, area
+1298.	U+4E15	216	丕	vậy	so; thus
+1299.		458	如丕	như vậy	like that; thus; so
+1300.		1353	丕𦓡	vậy mà	but; however
+1301.		2335	丕㖘	vậy thì	therefore, so
+1302.	U+599D	217	妝	trang	【to dress up, to make up】*
+1303.		3407	妝點	trang điểm	to beautify, to make up
+1304.	U+5F35	217	張	trương	(surname); 【to open up, to spread, to extend】*
+1305.		9999999	𨖅張	sang trang	to turn over a page
+1306.	U+20CD2	218	𠳒	lời	word
+1307.		582	𠭤𠳒	trả lời	to answer, to reply, to respond
+1308.		3778	認𠳒	nhận lời	to accept, to agree
+1309.		3999	𦖑𠳒	nghe lời	to take someone's advice, to listen to someone
+1310.		9999999	拖𠳒	đỡ lời	to speak for (someone), to deliver a message
+1311.		9999999	𡗉𠳒	nhiều lời	talkative, garrulous, gossip
+1312.		9999999	𠳐𠳒	vâng lời	to obey, to comply with
+1313.		9999999	𡨹𠳒	giữ lời	to keep one's word
+1314.		9999999	𠃣𠳒	ít lời	uncommunicative, ineloquent
+1315.	U+6B47	219	歇	hết	to be over; to end; to expire; to be used up
+1316.		9999999	歇哿	hết cả	all and sundry, all without exception
+1317.		9999999	歇唏	hết hơi	out of breath, breathless
+1318.		9999999	歇务	hết mùa	out of season
+1319.		9999999	𡢐歇	sau hết	finally, at the end
+1320.	U+9673	221	陳	trần	(surname Tran)
+1321.	U+8A8D	223	認	nhận	to agree, to accept; to recognize
+1322.		1068	認𫥨	nhận ra	to recognize, to realize
+1323.		1230	公認	công nhận	to recognize, to accept, to accredit
+1324.		3778	認𠳒	nhận lời	to accept, to agree
+1325.		9999999	認别	nhận biết	to realize, to recognize; to identify
+1326.		9999999	認𩈘	nhận mặt	to identify, to reveal
+1327.	U+515C	224	兜	đâu	where; somewhere
+1328.		1893	兜固	đâu có	not at all
+1329.		3031	别兜	biết đâu	who knows, goodness knows
+1330.		9999999	兜低	đâu đây	somewhere
+1331.		9999999	於兜	ở đâu	where
+1332.	U+6E05	225	清	thanh	pure, clear, clean
+1333.		2902	清查	thanh tra	to inspect, to investigate
+1334.		4161	清算	thanh toán	to liquidate, to clear accounts
+1335.		9999999	清心	thanh tâm	pure mind
+1336.	U+8072	225	聲	thanh	sound, voice, noise
+1337.		2301	音聲	âm thanh	sound
+1338.		9999999	傳聲	truyền thanh	radio
+1339.		9999999	回聲	hồi thanh	echo
+1340.	U+9752	225	青	thanh	juvenile; 【green, blue】*
+1341.		9999999	青龍	thanh long	The Azure Dragon (representing the east)
+1342.		9999999	青年	thanh niên	youth, juvenile, young person
+1343.		9999999	青天	thanh thiên	blue sky, clear sky
+1344.	U+53E4	226	古	cổ	old, ancient, antique
+1345.		3513	古典	cổ điển	classic, classical
+1346.		9999999	蒙古	Mông Cổ	Mongolia
+1347.		9999999	音樂古典	âm nhạc cổ điển	classical music
+1348.		9999999	考古學	khảo cổ học	archaeology
+1349.		9999999	古生物學	cổ sinh vật học	paleontology
+1350.		9999999	古都	cổ đô	ancient capital
+1351.		9999999	今古	kim cổ	the present and the past
+1352.	U+24CC4	227	𤳄	bởi	because
+1353.		9999999	𤳄爲	bởi vì	because
+1354.	U+226B8	228	𢚸	lòng	soul, mind, heart; feeling
+1355.		9999999	𢚸卒	lòng tốt	kind, kindness
+1356.		9999999	𢞂𢚸	buồn lòng	melancholic, heavy-hearted
+1357.		9999999	𢝙𢚸	vui lòng	to be content, pleased, happy
+1358.		9999999	屬𢚸	thuộc lòng	(to know or learn something) by heart
+1359.		9999999	學屬𢚸	học thuộc lòng	to memorize, to learn something by heart
+1360.		9999999	𡨹𢚸	giữ lòng	to take care of ones heart
+1361.		9999999	𢢲𢚸	đẹp lòng	to be satisfied, to be pleased
+1362.		9999999	焒𢚸	lửa lòng	lust, desire
+1363.		9999999	𧁷𢚸	khó lòng	unlikely
+1364.	U+5E45	229	幅	bức	painting, photograph, piece
+1365.		423	幅幀	bức tranh	picture, painting
+1366.	U+5146	230	兆	triệu	million
+1367.		9999999	𠬠兆	một triệu	one million
+1368.	U+2398D	231	𣦍	ngay	straight, direct
+1369.		3347	𣦍欺	ngay khi	instantly
+1370.		9999999	𣦍𥐉	ngay ngắn	neat, tidy
+1371.		9999999	𣦍實	ngay thật	sincere; honest
+1372.	U+27D46	232	𧵆	gần	near; nearly, almost
+1373.		9999999	𧵆賖	gần xa	near and far, everywhere
+1374.	U+27DF8	233	𧷸	mua	to buy
+1375.	U+7528	234	用	dụng	to use, to employ
+1376.		394	使用	sử dụng	to use, to utilize, to employ
+1377.		9999999	日用	nhật dụng	for everyday use
+1378.		9999999	通用	thông dụng	common use, commonly used
+1379.	U+2BBF3	235	𫯳	chồng	husband
+1380.		4615	固𫯳	có chồng	to be married (woman)
+1381.		9999999	㛪𫯳	em chồng	brother in law, sister in law
+1382.		9999999	茹𫯳	nhà chồng	the husband's family
+1383.	U+91CD	235	重	trọng	to value, to respect; 【weight, heavy】*
+1384.		510	關重	quan trọng	important
+1385.		9999999	𡞕重	vợ chồng	couple, maried couple
+1386.		9999999	茹重	nhà chồng	the husband's family
+1387.		9999999	㛪重	em chồng	younger brother or sister in law
+1388.		9999999	重要	trọng yếu	essential
+1389.	U+5206	236	分	phần	part, portion, piece (of a whole)
+1390.		1132	分𤾓	phần trăm	percent; percentage
+1391.		1607	分𡘯	phần lớn	the most, the lion's share, bulk
+1392.		1661	分别	phân biệt	to distinguish, to discern, to discriminate
+1393.		2398	成分	thành phần	ingredient; component; composition; social back-ground
+1394.		2488	分芇	phần nào	to some extent, to a certain degree
+1395.		4267	多分	đa phần	most; mostly, for the most part
+1396.		9999999	分工	phần công	to allot, to assign
+1397.		9999999	分𤖹	phân lớp	subclass
+1398.		9999999	分佈	phân bố	to distribute, to dispose
+1399.		9999999	合分	hợp phần	constituent, component
+1400.		9999999	口分	khẩu phần	ration
+1401.		9999999	分𡗉	phần nhiều	most, the greatest part
+1402.		9999999	分子	phần tử	element
+1403.		9999999	分役	phần việc	one's job, one's responsibility
+1404.		9999999	分𢺺	phân chia	to divide
+1405.		9999999	分類	phân loại	to classify; classification
+1406.		9999999	分類學	phân loại học	taxonomy, systematics
+1407.	U+5973	238	女	nữ	【female, woman】*
+1408.		196	女𡿨	nữa	half; again, more
+1409.		300	婦女	phụ nữ	woman
+1410.		4714	女神	nữ thần	goddess, nymph
+1411.		9999999	玉女	ngọc nữ	beautiful girl; fairy
+1412.		9999999	女學堂	nữ học đường	school for girls, girl's school
+1413.	U+27FE8	239	𧿨	trở	to turn, to change
+1414.		674	𧿨吏	trở lại	to return; to come back
+1415.		745	𧿨𧗱	trở về	to return, to come back
+1416.		944	𧿨𢧚	trở nên	to become, to turn
+1417.	U+66E0	240	曠	khoảng	about, circa; space, distance, interval; period (time)
+1418.		2507	𠓨曠	vào khoảng	about, around, circa
+1419.		9999999	曠空	khoảng không	space (including atmosphere)
+1420.	U+20E25	241	𠸥	kể	to tell; in relation to, with respect to
+1421.		4090	𠸥𨕭	kể trên	above-mentioned, above-said, above
+1422.		4660	空𠸥	không kể	excluding, not counting
+1423.		9999999	𠸥𫥨	kể ra	in fact, to be fair
+1424.	U+89C0	242	觀	quan	 【to see】*
+1425.		1520	觀點	quan điểm	point of view
+1426.		1716	參觀	tham quan	to go for a sightseeing
+1427.		9999999	觀音	quan âm	Quan Am, goddess of mercy
+1428.	U+95DC	242	關	quan	【frontier, barrier, gate】*
+1429.		510	關重	quan trọng	important
+1430.		601	機關	cơ quan	organ (of an organization)
+1431.		753	聯關	liên quan	to concern so./sth.
+1432.		883	關係	quan hệ	to concern, to affect, to correlate
+1433.		9999999	關心	quan tâm	to care about sth., to be interested in sth./so.
+1434.		9999999	海關	hải quan	customs, customs duty office
+1435.	U+7121	243	無	vô	【non-, negative】*
+1436.		4937	無義	vô nghĩa	absurd, nonsensical
+1437.	U+54E1	244	員	viên	member; employee; personnel
+1438.		704	人員	nhân viên	employee; staff member; personnel
+1439.		831	生員	sinh viên	student
+1440.		2522	教員	giáo viên	teacher, instructor
+1441.	U+6E56	245	湖	hồ	lake
+1442.		9999999	湖水	hồ thuỷ	pale blue
+1443.	U+7CCA	245	糊	hồ	glue; to glue
+1444.	U+62E0	246	拠	cứ	to continue, to keep on; 【ground, base】*
+1445.		9999999	論拠	luận cứ	foundation (of a thesis), basis of argumentation
+1446.		9999999	拠點	cứ điểm	entrenched fortification
+1447.	U+5ECA	247	廊	làng	village
+1448.		2508	民廊	dân làng	villager, villagers
+1449.		3617	行廊	hành lang	corridor, passage, gallery
+1450.	U+6625	248	春	xuân	spring (season)
+1451.		4778	春秋	xuân thu	spring and autumn
+1452.		9999999	务春	mùa xuân	spring (season)
+1453.		9999999	回春	hồi xuân	change of life, menopause
+1454.	U+228C2	249	𢣂	nghĩ	to think
+1455.		3918	𢣂𫥨	nghĩ ra	to recall; to think sth. out
+1456.		4421	𢣂吏	nghĩ lại	to reconsider, to change one's mind, to have second thoughts
+1457.		9999999	意𢣂	ý nghĩ	thought, idea
+1458.		9999999	感𢣂	cảm nghĩ	feelings, impressions, sentiment
+1459.		9999999	𧁷𢣂	khó nghĩ	to be at a loss
+1460.		9999999	𢣂䏾	nghĩ bụng	to think to oneself
+1461.	U+5831	251	報	báo	to report, to tell; newspaper
+1462.		1339	通報	thông báo	bulletin, journal
+1463.		2315	排報	bài báo	article (in a newspaper)
+1464.		4671	預報	dự báo	forcast, to forcast
+1465.		9999999	紙報	giấy báo	newsprint
+1466.	U+672C	252	本	bản	【root, origin, source; basis】*
+1467.		2367	基本	cơ bản	base, foundation; basic, fundamental
+1468.		3877	本地	bản địa	native, indigenous; vernacular
+1469.		9999999	大本營	đại bản doanh	headquarters, head office
+1470.		9999999	本營	bản doanh	headquarters, head office
+1471.		9999999	𣷷日本	biển nhật bản	sea of japan
+1472.		9999999	日本	nhật bản	Japan; japanese
+1473.	U+7248	252	版	bản	copy, edition; printing blocks
+1474.		335	出版	xuất bản	to publish
+1475.		2336	版圖	bản đồ	(geographical) map
+1476.	U+9069	253	適	thích	to like
+1477.		2583	適合	thích hợp	to fit, to suit, suitable
+1478.		9999999	適意	thích ý	to be satisfied
+1479.	U+91CB	253	釋	thích	【to explain】*
+1480.		1150	解釋	giải thích	to explain, to clarify
+1481.		3966	注釋	chú thích	annotation, to annotate (a text)
+1482.	U+50B7	254	傷	thương	to be fond of, to love
+1483.		2487	易傷	dễ thương	lovely, likeable, nice
+1484.		9999999	𢖵傷	nhớ thương	to grieve for
+1485.		9999999	感傷	cảm thương	to feel pity for
+1486.	U+7E3D	255	總	tổng	【altogether】*
+1487.		2553	總共	tổng cộng	in total, altogether
+1488.		3935	總結	tổng kết	to sum up, to conclude; summary
+1489.		9999999	總面積	tổng diện tích	total area
+1490.		9999999	總領事	tổng lãnh sự	consul general
+1491.		9999999	總統	Tổng thống	president
+1492.	U+23603	256	𣘃	cây	tree, plant
+1493.		2247	𣘃数	cây số	milestone; kilometer
+1494.		9999999	撑蘿𣘃	xanh lá cây	green
+1495.		9999999	楛𣘃	gỗ cây	rough timber
+1496.		9999999	𣘃曰	cây viết	pen
+1497.	U+6838	256	核	hạch	nucleus
+1498.		9999999	核仁	hạch nhân	nucleolus
+1499.	U+50B3	258	傳	truyện	story
+1500.		1184	傳形	truyền hình	television
+1501.		9999999	傳聲	truyền thanh	radio
+1502.		9999999	傳幀	truyện tranh	comic
+1503.	U+20040	259	𠁀	đời	existence; world; generation; era
+1504.		470	局𠁀	cuộc đời	life, existence
+1505.		668	𠁀𤯩	đời sống	life, lifetime, living
+1506.		1209	戈𠁀	qua đời	to pass away
+1507.		3203	𥹰𠁀	lâu đời	long-standing
+1508.		9999999	𢖵𠁀	nhớ đời	remember (something) all one's life
+1509.		9999999	𦓅𠁀	già đời	for many years of life, the whole life
+1510.	U+24C82	260	𤲂	dưới	below; at the bottom
+1511.	U+6CD5	261	法	pháp	law; France; french
+1512.		9999999	㗂法	tiếng pháp	french (language)
+1513.		9999999	犯法	phạm pháp	to break the law
+1514.		9999999	法治	pháp trị	rule of law
+1515.		9999999	法權	pháp quyền	rule of law, jurisdiction
+1516.		9999999	法屬	pháp thuộc	French domination
+1517.	U+5FC3	262	心	tâm	【heart; mind】*
+1518.		487	中心	trung tâm	center, institute
+1519.		2888	心神	tâm thần	mind, mental
+1520.		9999999	關心	quan tâm	to care about sth., to be interested in sth./so.
+1521.		9999999	心理	tâm lý	psychology
+1522.		9999999	中心研究	trung tâm nghiên cứu	research center
+1523.		9999999	清心	thanh tâm	pure mind
+1524.	U+8CD6	264	賖	xa	far, distant
+1525.		9999999	𧵆賖	gần xa	near and far, everywhere
+1526.		9999999	高賖	cao xa	unattainable
+1527.	U+FA24	265	﨤	gặp	to meet, to encounter
+1528.		2082	﨤憢	gặp nhau	to meet each other
+1529.		2969	扒﨤	bắt gặp	to run into someone, to come across so.
+1530.		4347	﨤𩈘	gặp mặt	to meet (in person)
+1531.	U+771C	266	眜	mắt	eye; expensive
+1532.		1212	渃眜	nước mắt	tears
+1533.		9999999	𡦂眜	chữ mắt	difficult character
+1534.		9999999	價眜	giá mắt	high price, high value
+1535.		9999999	𤯆眜	ngon mắt	pleasant to the eye, appealing
+1536.		9999999	𤎜眜	sáng mắt	to see clearly, to realize
+1537.	U+5317	267	北	bắc	north; northern
+1538.		9999999	北美	Bắc Mỹ	North America
+1539.		9999999	𧆄北	thuốc bắc	Chinese herbs
+1540.		9999999	北冰洋	Bắc Băng Dương	Arctic Ocean
+1541.		9999999	北圻	Bắc Kỳ	Tonkin
+1542.		9999999	𣋀北极	Sao Bắc cực	North Star,Polaris
+1543.		9999999	𣋀北斗	Sao Bắc Đẩu	Big Dipper
+1544.		9999999	北斗七星	Bắc Đẩu thất tinh	Big Dipper
+1545.		9999999	淎北部	Vịnh Bắc Bộ	Gulf of Tonkin
+1546.		9999999	沔北	miền bắc	northern region; northern Vietnam
+1547.		9999999	北京	Bắc Kinh	Beijing, Peking
+1548.		9999999	𪰂北	phía bắc	north, to the north
+1549.	U+660E	268	明	minh	【bright; clear】*
+1550.		1597	聰明	thông minh	intelligent; clever
+1551.		1812	文明	văn minh	civilization, culture, civilized, cultured
+1552.		9999999	英明	anh minh	sagely, wise, gifted, capable
+1553.		9999999	精明	tinh minh	clear
+1554.	U+5143	269	元	nguyên	whole, entire; 【original, initial, source, root】*
+1555.		9999999	元年	nguyên niên	first year of rule's reign
+1556.		9999999	元音	nguyên âm	vowel
+1557.		9999999	節元旦	tết nguyên đán	lunar new year
+1558.		9999999	紀元	kỷ nguyên	era, epoch
+1559.		9999999	二元	nhị nguyên	dual, binary
+1560.	U+56DB	270	四	tư	【four】*
+1561.		9999999	次四	thứ tư	wednesday; fourth
+1562.		9999999	四海	tư hải	the world (lit. "four oceans"), cf. 𦊚𣷷
+1563.		9999999	𣎃四	tháng tư	april
+1564.	U+6CB9	273	油	dầu	oil, fat, grease
+1565.		9999999	油咹	dầu ăn	cooking oil, edible oil
+1566.	U+20DA2	273	𠶢	dù	however, though
+1567.		874	默𠶢	mặc dù	though; allthough
+1568.		3846	𠶢牢	dù sao	anyhow; anyway
+1569.		9999999	𠶢哴	dù rằng	though; although
+1570.		9999999	默𠶢	mặc dầu	though; although
+1571.	U+50F9	274	價	giá	price, value
+1572.		466	價値	giá trị	value, worth
+1573.		897	打價	đánh giá	to rate (something or someone), to assess, to value
+1574.		1375	鬥價	đấu giá	to auction
+1575.		9999999	價市場	giá thị trường	market price, market rate, market value
+1576.		9999999	下價	hạ giá	to lower the price; to debase
+1577.		9999999	價眜	giá mắt	high price, high value
+1578.		9999999	噠價	đặt giá	to fix a price
+1579.	U+213A5	276	𡎥	ngồi	to sit
+1580.		9999999	𡎥空	ngồi không	to idle away
+1581.	U+4EE3	277	代	đại	【era, generation】*
+1582.		901	現代	hiện đại	contemporary, modern times
+1583.		1405	時代	thời đại	era, age
+1584.		3087	朝代	triều đại	dynasty
+1585.		9999999	近代	cận đại	modern (times)
+1586.	U+5927	277	大	đại	【big; great; very, much】*
+1587.		529	大學	đại học	university; higher education
+1588.		1805	大使	đại sứ	ambassador
+1589.		9999999	大工業	đại công nghiệp	large-scale industry
+1590.		9999999	洲大洋	Châu Đại Dương	Oceania
+1591.		9999999	大西洋	Đại Tây Dương	Atlantic Ocean
+1592.		9999999	南大洋	Nam Đại Dương	Antarctic Ocean
+1593.		9999999	大本營	đại bản doanh	headquarters, head office
+1594.		9999999	大營	đại doanh	headquarters, head office
+1595.		9999999	大儒	đại nho	great scholar
+1596.		9999999	加拿大	Gia Nã Đại	Canada
+1597.		9999999	場大學	trường đại học	university
+1598.		9999999	大陸	đại lục	continent
+1599.	U+231DE	278	𣇞	giờ	time
+1600.		412	包𣇞	bao giờ	when; ever
+1601.		444	𣊾𣇞	bây giờ	now, right now; nowadays
+1602.		2054	𣇞低	giờ đây	now; nowadays
+1603.		3125	時𣇞	thì giờ	time
+1604.		9999999	空包𣇞	không bao giờ	never
+1605.		9999999	庄包𣇞	chẳng bao giờ	never
+1606.		9999999	𣇞爫役	giờ làm việc	working hours
+1607.		9999999	𣇞𥹰	giờ lâu	a long while
+1608.	U+8EAB	281	身	thân	body; trunk; intimate, close
+1609.		1059	獨身	độc thân	single, unmated
+1610.		3259	身體	thân thể	(human) body
+1611.	U+26627	283	𦘧	vẽ	to draw, to paint
+1612.		9999999	形𦘧	hình vẽ	painting, drawing
+1613.		9999999	牟𦘧	màu vẽ	paint
+1614.	U+8F2A	284	輪	luôn	directly, right away; also, too; often; 【wheel, disk; revolve, recur】*
+1615.		2048	輪輪	luôn luôn	continously, always
+1616.		9999999	輪𠰘	luôn miệng	to talk incessantly
+1617.	U+53F8	285	司	ty	service, administration; 【to manage, to govern, to regulate】*
+1618.		9999999	公司	công ty	company, corporation
+1619.	U+216D4	286	𡛔	gái	female; girl
+1620.		565	𡥵𡛔	con gái	girl; daughter
+1621.		9999999	伯𡛔	bác gái	one's father's elder sister-in-law
+1622.	U+9020	288	造	tạo	to create; to make; to form
+1623.		3429	製造	chế tạo	to manufacture
+1624.		4414	人造	nhân tạo	artificial
+1625.		9999999	造化	tạo hoá	the creator
+1626.		9999999	建造	kiến tạo	tectonic
+1627.		9999999	造𫥨	tạo ra	to create
+1628.	U+232DA	290	𣋚	hôm	day
+1629.		844	𣋚𫢩	hôm nay	today
+1630.		1834	𣋚𡢐	hôm sau	the next day, the following day
+1631.		2643	𣋚戈	hôm qua	yesterday
+1632.		9999999	𣋚箕	hôm kia	the day before yesterday
+1633.		9999999	𣋚𠸗	hôm xưa	one long past day
+1634.		9999999	𣋚箕	hôm kia	the day before yesterday, two days ago
+1635.	U+52A1	291	务	mùa	season; time; tide
+1636.		9999999	䬔务	gió mùa	monsoon
+1637.		9999999	爫务	làm mùa	to make preparations for the crops
+1638.		9999999	歇务	hết mùa	out of season
+1639.		9999999	务秋	mùa thu	autumn
+1640.		9999999	𠅍务	mất mùa	to have a poor crop
+1641.		9999999	姅务	nửa mùa	half-baked
+1642.		9999999	𣈜务	ngày mùa	harvest time
+1643.		9999999	务春	mùa xuân	spring (season)
+1644.	U+5E84	292	庄	chẳng	not at all
+1645.		2680	庄埃	chẳng ai	nobody
+1646.		4612	庄勤	chẳng cần	not to need
+1647.		9999999	庄包𣇞	chẳng bao giờ	never
+1648.		9999999	庄之	chẳng gì	nothing at all
+1649.		9999999	庄𠯆	chẳng nữa	otherwise
+1650.		9999999	庄他	chẳng thà	rather, better
+1651.		9999999	庄𣃣	chẳng vừa	to be not much better either, no less terrible
+1652.		9999999	庄牢	chẳng sao	it doesn't matter, never mind
+1653.	U+63A8	295	推	thôi	to stop, no more; only, just; enough!
+1654.		9999999	𦓡推	mà thôi	only, merely, just, not more than
+1655.		9999999	喂推	ôi thôi	alas
+1656.	U+725F	296	牟	màu	color
+1657.		1332	牟色	màu sắc	color
+1658.		9999999	牟綠	màu lục	green; green color
+1659.		9999999	牟黰	màu đen	black color
+1660.		9999999	牟𦘧	màu vẽ	paint
+1661.	U+22CA7	297	𢲧	gây	to quarrel; to cause, to excite, to initiate
+1662.		9999999	𢲧戰	gây chiến	to provoke a war; to be a warmonger
+1663.		9999999	𢲧𡀯	gây chuyện	to be quarrelsome; to pick a quarrel (with sb.)
+1664.		9999999	𢲧𥩯	gây dựng	to found, to stablish
+1665.	U+89E3	298	解	giải	to solve, to answer, to explain
+1666.		1150	解釋	giải thích	to explain, to clarify
+1667.		1251	解決	giải quyết	to resolve (a dispute), to settle (a difference)
+1668.		9999999	引解	dẫn giải	to insert glosses, add marginal notes
+1669.		9999999	解義	giải nghĩa	to explain
+1670.	U+53E5	299	句	câu	sentence
+1671.		315	句𡀯	câu chuyện	tale, story
+1672.		980	句𠳨	câu hỏi	question
+1673.	U+5FB7	301	德	đức	virtue, ethics, morality; Germany, german
+1674.		9999999	㗂德	tiếng đức	german (language)
+1675.		9999999	嗣德	Tự Đức	Emperor Tu Duc
+1676.		9999999	帝國德	đế quốc đức	German Empire
+1677.		9999999	德信	đức tin	creed, faith
+1678.		9999999	德行	đức hạnh	righteousness and good character
+1679.		9999999	人德	nhân đức	humane
+1680.	U+9EDE	302	點	điểm	point, mark, score
+1681.		1520	觀點	quan điểm	point of view
+1682.		1534	地點	địa điểm	location, place, site
+1683.		3375	特點	đặc điểm	characteristic, feature
+1684.		3407	妝點	trang điểm	to beautify, to make up
+1685.		9999999	拠點	cứ điểm	entrenched fortification
+1686.		9999999	要點	yếu điểm	the essential point, the main point
+1687.		9999999	指點	chỉ điểm	to pinpoint, to inform, to indicate
+1688.		9999999	高點	cao điểm	peak, height, highest level
+1689.	U+21A39	304	𡨹	giữ	to keep; to retain; to hold; to maintain
+1690.		9999999	𡨹意	giữ ý	to be thoughtful
+1691.		9999999	𡨹𠳒	giữ lời	to keep one's word
+1692.		9999999	𡨹𢚸	giữ lòng	to take care of ones heart
+1693.		9999999	𡨹𡊲	giữ chỗ	to occupy a seat
+1694.		9999999	𡨹𠰘	giữ miệng	to be cautious in one's words, to hold one's tongue
+1695.	U+5352	305	卒	tốt	good, well, fine; 【finally, at last】*
+1696.		1586	卒業	tốt nghiệp	to graduate
+1697.		4697	卒䏾	tốt bụng	kindhearted
+1698.		9999999	𢚸卒	lòng tốt	kind, kindness
+1699.		9999999	卒数	tốt số	fortunate, lucky
+1700.		9999999	卒㗂	tốt tiếng	popular, well-reputed
+1701.	U+52D9	306	務	vụ	【matter, affair, business】*
+1702.		1166	役務	dịch vụ	service
+1703.		4605	義務	nghĩa vụ	duty, obligation
+1704.		4912	内務	nội vụ	home affairs
+1705.		9999999	特務	đặc vụ	secret service; secret agent
+1706.		9999999	教務	giáo vụ	educational administration
+1707.	U+20066	307	𠁦	trúng	exactly, correct; to hit, to impact
+1708.		9999999	𠁦数	trúng số	to win (a lottery)
+1709.	U+215F6	309	𡗶	trời	sky; heaven; weather
+1710.		9999999	𡗶𩅹	trời mưa	rainy weather
+1711.		9999999	𩈘𡗶	mặt trời	sun
+1712.		9999999	撑䏧𡗶	xanh da trời	sky blue; azure
+1713.		9999999	呌𡗶	kêu trời	to implore God, to beseech God, to pray for help
+1714.		9999999	𢘾𡗶	nhờ trời	thank heaven!
+1715.	U+225B5	310	𢖵	nhớ	to remember; to recall; to call in mind
+1716.		2243	𢖵吏	nhớ lại	to reminisce
+1717.		2990	想𢖵	tưởng nhớ	to memorize
+1718.		9999999	𢖵𠁀	nhớ đời	remember (something) all one's life
+1719.		9999999	𢖵茹	nhớ nhà	homesick; to be sick for home
+1720.		9999999	𢖵𫥨	nhớ ra	to recall, to bring (something) to mind
+1721.		9999999	𢖵傷	nhớ thương	to grieve for
+1722.		9999999	𢖵惜	nhớ tiếc	to think with deep regret of
+1723.	U+20CE8	311	𠳨	hỏi	to ask; to question, to inquire
+1724.		980	句𠳨	câu hỏi	question
+1725.		1713	𠾕𠳨	đòi hỏi	require
+1726.		3960	𠳨探	hỏi thăm	to ask after, inquire about (someone)
+1727.	U+268F0	313	𦣰	nằm	to lie down
+1728.		9999999	𠫾𦣰	đi nằm	to go to bed
+1729.		9999999	𦣰坭	nằm nơi	to be confined; to lie in
+1730.		9999999	𦣰迷	nằm mê	to dream, to have a dream (while sleeping)
+1731.	U+60F3	314	想	tưởng	to think
+1732.		1549	思想	tư tưởng	thoughts
+1733.		2990	想𢖵	tưởng nhớ	to memorize
+1734.		4038	連想	liên tưởng	to associate, to make associations
+1735.		4611	感想	cảm tưởng	impression
+1736.		9999999	意想	ý tưởng	idea, thought
+1737.		9999999	回想	hồi tưởng	to remember, to recall
+1738.		9999999	回想	hồi tưởng	to remember, to recall
+1739.		9999999	空想	không tưởng	fantastic, utopian
+1740.		9999999	理想	lý tưởng	ideal
+1741.	U+6C94	316	沔	miền	region; district
+1742.		9999999	沔北	miền bắc	northern region; northern Vietnam
+1743.		9999999	沔南	miền nam	southern region; southern Vietnam
+1744.		9999999	沔中	miền trung	central region; central Vietnam
+1745.	U+5C6C	317	屬	thuộc	to belong to, subordinate of; to know by heart; to tan
+1746.		4029	屬地	thuộc địa	colony, annexed territory
+1747.		9999999	屬𢚸	thuộc lòng	(to know or learn something) by heart
+1748.		9999999	學屬𢚸	học thuộc lòng	to memorize, to learn something by heart
+1749.		9999999	䏧屬	da thuộc	leather
+1750.		9999999	後屬地	hậu thuộc địa	post-colonial
+1751.		9999999	法屬	pháp thuộc	French domination
+1752.		9999999	屬性	thuộc tính	attribute, property
+1753.	U+6CE8	318	注	chú	uncle; 【to focus, to concentrate】*
+1754.		3966	注釋	chú thích	annotation, to annotate (a text)
+1755.		9999999	輔注	phụ chú	to annotate
+1756.		9999999	注意	chú ý	to pay attention
+1757.	U+6392	319	排	bài	lecture
+1758.		781	排書	bài thơ	poem
+1759.		2009	排學	bài học	lesson
+1760.		2051	排欱	bài hát	song
+1761.		2315	排報	bài báo	article (in a newspaper)
+1762.		9999999	排爫	bài làm	task, exercise
+1763.		9999999	排講	bài giảng	lectures
+1764.	U+28585	320	𨖅	sang	to cross; to transfer; across, over
+1765.		9999999	𨖅𢆥	sang năm	next year
+1766.		9999999	𨑻𨖅	đem sang	to carry over
+1767.		9999999	𨖅𠸜	sang tên	to transfer
+1768.		9999999	𨖅張	sang trang	to turn over a page
+1769.	U+9404	321	鐄	vàng	gold; yellow
+1770.		9999999	伴鐄	bạn vàng	very dear friend
+1771.		9999999	𩵜鐄	cá vàng	goldfish
+1772.		9999999	鐄西	vàng tây	gold and copper alloy
+1773.	U+65EC	322	旬	tuần	week; ten-day period
+1774.		2399	旬禮	tuần lễ	week
+1775.		9999999	上旬	thượng tuần	first ten days of a month
+1776.	U+773E	323	眾	chúng	masses; multitude
+1777.		172	眾碎	chúng tôi	we, us (not including person addressed)
+1778.		220	眾些	chúng ta	we, us (including person addressed)
+1779.		9999999	眾𠋥	chúng mày	you (plural, informal)
+1780.	U+236E0	324	𣛠	máy	machine; engine
+1781.		9999999	𣛠𠖤	máy bay	airplane
+1782.		9999999	打𣛠	đánh máy	to type (on a typewriter)
+1783.		9999999	紙打𣛠	giấy đánh máy	typing paper, flimsy paper
+1784.	U+91D1	325	金	kim	【gold, metal】*
+1785.		9999999	𣋀金	Sao Kim	Venus
+1786.		9999999	白金	bạch kim	platinum
+1787.		9999999	合金	hợp kim	alloy
+1788.		9999999	金英	kim anh	cherokee rose
+1789.		9999999	金朋	kim bằng	true friend
+1790.	U+4ECA	325	今	kim	【today】*
+1791.		9999999	當今	đương kim	present, current
+1792.		9999999	今古	kim cổ	the present and the past
+1793.	U+73E0	326	珠	châu	【gem, pearl, precious stone】*
+1794.		9999999	籺珠	hạt châu	pearl
+1795.	U+6D32	326	洲	châu	continent
+1796.		2754	歐洲	âu châu	Europe
+1797.		9999999	洲歐	châu âu	Europe
+1798.		9999999	洲亞	châu á	Asia
+1799.		9999999	洲非	châu phi	Africa
+1800.		9999999	洲美	Châu Mỹ	Americas, America (the NewWorld)
+1801.		9999999	洲陸	châu lục	continents
+1802.		9999999	非洲	Phi Châu	Africa
+1803.		9999999	洲南極	Châu Nam Cực	Antarctica 
+1804.		9999999	洲澳	Châu Úc	Australia ( continent)
+1805.		9999999	洲大洋	Châu Đại Dương	Oceania
+1806.		9999999	亞洲	á châu	Asia
+1807.		9999999	满洲	Mãn Châu	Manchuria
+1808.	U+5C71	328	山	sơn	【mountain; mountains】*
+1809.		9999999	火山	hoả sơn	volcano
+1810.		9999999	山林	sơn lâm	mountain and forest, greenwood
+1811.	U+21959	329	𡥙	cháu	grandchild, grandchildren, grandson, granddaughter
+1812.	U+83ED	330	菭	đầy	full, completely filled
+1813.		1314	菭都	đầy đủ	entirely sufficient; complete
+1814.		9999999	菭𣎃	đầy tháng	one month old (age of a baby)
+1815.		9999999	菭歲	đầy tuổi	one year old (age of a baby)
+1816.	U+65E5	331	日	nhật	sun; Japan; japanese
+1817.		1978	主日	chủ nhật	sunday
+1818.		2620	生日	sinh nhật	birthday, day of birth
+1819.		9999999	㗂日	tiếng nhật	japanese (language)
+1820.		9999999	常日	thường nhật	daily
+1821.		9999999	𣷷日本	biển nhật bản	sea of japan
+1822.		9999999	日用	nhật dụng	for everyday use
+1823.		9999999	日本	nhật bản	Japan; japanese
+1824.	U+20042	332	𠁂	đứa	(person of low rank), bloke, lad, guy
+1825.		2685	𠁂𡮣	đứa bé	a child
+1826.	U+28C7D	333	𨱽	dài	long
+1827.		1554	襖𨱽	áo dài	tunic, dress
+1828.		9999999	朝𨱽	chiều dài	length
+1829.	U+6A02	334	樂	nhạc	music
+1830.		1277	音樂	âm nhạc	music
+1831.		9999999	音樂古典	âm nhạc cổ điển	classical music
+1832.	U+73ED	336	班	ban	time, shift
+1833.		1449	班頭	ban đầu	at first, initial, initially
+1834.		3892	班𣈜	ban ngày	during the day, in the daytime
+1835.		9999999	西班牙	Tây Ban Nha	Spain
+1836.		9999999	王國西班牙	Vương Quốc Tây Ban Nha	Kingdom of Spain
+1837.		9999999	班迺	ban nãy	just a short time ago
+1838.		9999999	班最	ban tối	at night
+1839.		9999999	班𤎜	ban sáng	in the morning
+1840.	U+90FD	337	都	đô	【capital city, metropolis】*
+1841.		1040	首都	thủ đô	capital (city)
+1842.		1314	菭都	đầy đủ	entirely sufficient; complete
+1843.		1979	都市	đô thị	city
+1844.		3121	故都	cố đô	former capital, ancient capital
+1845.		4844	都條	đủ điều	versed, knowledgeable
+1846.		9999999	都数	đủ số	complete, full
+1847.		9999999	都𩈘	đủ mặt	in full attendance
+1848.		9999999	古都	cổ đô	ancient capital
+1849.	U+23380	338	𣎀	đêm	night
+1850.		3632	姅𣎀	nửa đêm	midnight; in the middle of the night
+1851.	U+5A18	340	娘	nàng	she; her
+1852.		9999999	姑娘	cô nàng	gal, girl
+1853.		9999999	娘仙	nàng tiên	fairy
+1854.	U+8A69	341	詩	thi	poetry
+1855.		9999999	詩人	thi nhân	poet
+1856.	U+8A66	341	試	thi	to compete, to race, to take an examination
+1857.		9999999	試舉	thi cử	examination
+1858.		9999999	咹試	ăn thử	to sample (food), to taste
+1859.	U+66C9	343	曉	hiểu	to understand
+1860.		1162	尋曉	tìm hiểu	to learn (about sth.)
+1861.		1672	曉别	hiểu biết	to know, to be familiar with
+1862.	U+897F	346	西	tây	west; western
+1863.		9999999	𪰂西	phía tây	west, to the west
+1864.		9999999	棗西	táo tây	apple
+1865.		9999999	大西洋	Đại Tây Dương	Atlantic Ocean
+1866.		9999999	鐄西	vàng tây	gold and copper alloy
+1867.		9999999	西原	Tây Nguyên	Central Highlands ( of Vietnam)
+1868.		9999999	西藏	Tây Tạng	Tibet
+1869.		9999999	西班牙	Tây Ban Nha	Spain
+1870.		9999999	新西兰	Tân Tây Lan	New Zealand
+1871.		9999999	王國西班牙	Vương Quốc Tây Ban Nha	Kingdom of Spain
+1872.	U+5660	349	噠	đặt	to order, to command; to invent
+1873.		2273	噠𠸜	đặt tên	to name, to give a name
+1874.		4337	噠航	đặt hàng	to place an order
+1875.		9999999	噠價	đặt giá	to fix a price
+1876.	U+8A55	351	評	bình	【to criticize】*
+1877.		2441	評論	bình luận	to comment on
+1878.	U+74F6	351	瓶	bình	vase, vessel, jar
+1879.		9999999	瓶水	bình thuỷ	thermos bottle
+1880.	U+28DF6	352	𨷶	cửa	door, gate, entrance
+1881.		1847	𨷶行	cửa hàng	shop, store
+1882.		1959	𨷶数	cửa sổ	window
+1883.		1981	茹𨷶	nhà cửa	house, dwelling
+1884.		9999999	噲𨷶	gọi cửa	to knock at the door
+1885.	U+7FA9	353	義	nghĩa	meaning
+1886.		4227	起義	khởi nghĩa	uprising
+1887.		4494	定義	định nghĩa	definition
+1888.		4605	義務	nghĩa vụ	duty, obligation
+1889.		4784	同義	đồng nghĩa	synonym
+1890.		4937	無義	vô nghĩa	absurd, nonsensical
+1891.		9999999	意義	ý nghĩa	meaning, sense
+1892.		9999999	社會主義	xã hội chủ nghĩa	socialism, socialist
+1893.		9999999	最義	tối nghĩa	obscure
+1894.		9999999	解義	giải nghĩa	to explain
+1895.		9999999	仁義	nhân nghĩa	benevolence and righteousness
+1896.	U+20B03	354	𠬃	bỏ	to leave, to abandon, to neglect; to let, to put
+1897.		2555	𠬃𠫾	bỏ đi	to leave
+1898.		2931	𠬃戈	bỏ qua	to leave well alone, to let pass unnoticed
+1899.		4505	𠬃𧼋	bỏ chạy	to run away
+1900.		4847	𠬃𠅳	bỏ quên	to forget, to leave (somewhere)
+1901.		9999999	𠬃默	bỏ mặc	to abandon
+1902.		9999999	𠬃空	bỏ không	idle, unused
+1903.	U+25E70	355	𥹰	lâu	long, long time, long while
+1904.		2578	㐌𥹰	đã lâu	long ago
+1905.		3203	𥹰𠁀	lâu đời	long-standing
+1906.		9999999	𠃣𥹰	ít lâu	a little while, soon, shortly
+1907.		9999999	包𥹰	bao lâu	how long?
+1908.		9999999	𣇞𥹰	giờ lâu	a long while
+1909.		9999999	徊𥹰	hồi lâu	a long while
+1910.		9999999	自𥹰	từ lâu	in a long time, long-since
+1911.	U+623F	357	房	phòng	room, chamber
+1912.		3577	房客	phòng khách	living room, lounge
+1913.		3898	房𥄬	phòng ngủ	bedroom
+1914.		9999999	房茶	phòng trà	tea room; tea shop
+1915.		9999999	藥房	dược phòng	drugstore, chemist's shop
+1916.		9999999	房咹	phòng ăn	dining room
+1917.	U+9632	357	防	phòng	【to prevent】*
+1918.		2630	國防	quốc phòng	national defence
+1919.		2954	提防	đề phòng	to take precautions, to beware
+1920.		9999999	防空	phòng không	air defense
+1921.		9999999	防備	phòng bị	to take precautions against
+1922.		9999999	防衛	phòng vệ	to defend, to protect; defence
+1923.	U+4F4D	358	位	vị	【measure word for persons; throne; seat; rank, status】*
+1924.		1027	位置	vị trí	position, place
+1925.		1657	各位	các vị	ladies and gentlemen, everybody; you (plural)
+1926.	U+5473	358	味	vị	【flavor, taste】*
+1927.		3634	香味	hương vị	taste, aromatic flavour
+1928.		4762	加味	gia vị	spice
+1929.	U+20E72	359	𠹲	chứ	certainly, of course
+1930.		9999999	𠹲牢	chứ sao	(suggestive) or how else ...? certainly! of course!
+1931.	U+215CB	360	𡗋	lắm	very
+1932.		9999999	過𡗋	quá lắm	too much
+1933.	U+21982	361	𡦂	chữ	letter (of a script or alphabet); writing system, script; word
+1934.		3225	𡦂漢	chữ hán	Chinese writing system; Chinese characters
+1935.		4721	𡦂曰	chữ viết	writing, script
+1936.		9999999	𡦂喃	chữ nôm	Chu Nom
+1937.		9999999	𡦂儒	chữ nho	Han ideogram, Han script
+1938.		9999999	𨔈𡦂	chơi chữ	to play on words; wordplay
+1939.		9999999	𡦂十𧹼	chữ thập đỏ	Red Cross
+1940.		9999999	行𡦂	hàng chữ	line of text
+1941.		9999999	𡦂眜	chữ mắt	difficult character
+1942.	U+584A	363	塊	khỏi	to escape, to prevent
+1943.		9999999	𠫾塊	đi khỏi	to disappear, to vanish, to go away completely
+1944.	U+23DF7	364	𣷷	biển	ocean
+1945.		9999999	𣷷黰	biển đen	Black Sea
+1946.		9999999	𩵜𣷷	cá biển	saltwater fish, sea fish
+1947.		9999999	𦊚𣷷	bốn biển	the world (lit. "four oceans"), cf. 四海
+1948.		9999999	𣷷日本	biển nhật bản	sea of japan
+1949.		9999999	𣷷東	biển đông	south china sea
+1950.	U+79CB	365	秋	thu	autumn, fall
+1951.		4778	春秋	xuân thu	spring and autumn
+1952.		9999999	節中秋	tết trung thu	mid-autumn festival
+1953.		9999999	禮中秋	lễ trung thu	mid-autumn festival
+1954.		9999999	务秋	mùa thu	autumn
+1955.	U+6C42	367	求	cầu	【to seek, to demand】*
+1956.		822	要求	yêu cầu	to require, to ask
+1957.		9999999	求祝	cầu chúc	to wish so. sth.
+1958.		9999999	呌求	kêu cầu	to pray for help (from higher levels)
+1959.		9999999	求吀	cầu xin	to solicit, to ask for, to beg for
+1960.		9999999	求縁	cầu duyên	to pray for good chances in love
+1961.	U+2439C	369	𤎜	sáng	bright, light, clear; morning
+1962.		1928	𣇜𤎜	buổi sáng	morning
+1963.		2506	𤄯𤎜	trong sáng	pure, bright
+1964.		9999999	𤎜𤊡	sáng bóng	shiny, radiant
+1965.		9999999	班𤎜	ban sáng	in the morning
+1966.		9999999	𤎜眜	sáng mắt	to see clearly, to realize
+1967.	U+27F0B	370	𧼋	chạy	to run
+1968.		3427	𧼋遶	chạy theo	to run after
+1969.		4505	𠬃𧼋	bỏ chạy	to run away
+1970.		9999999	𧼋步	chạy bộ	to run, to walk, to do jogging
+1971.	U+8E4E	371	蹎	chân	foot, leg
+1972.		4317	盤蹎	bàn chân	foot
+1973.		9999999	蹎𩄲	chân mây	horizon, line of horizon
+1974.		9999999	𠫾蹎	đi chân	to walk, to stroll; to go barefoot
+1975.		9999999	蹎𢬣	chân tay	limbs
+1976.		9999999	𢟘蹎	chắc chân	to be in stable position, to be firm
+1977.	U+5448	372	呈	trình	to submit, to show, to present
+1978.	U+7A0B	372	程	trình	schedule, agenda
+1979.		422	章程	chương trình	programme, schedule; computer program, software
+1980.		1077	過程	quá trình	process, course of events
+1981.		2045	程度	trình độ	level, degree, standard
+1982.	U+2AC02	374	𪰂	phía	direction, way
+1983.		2536	𪰂𠓀	phía trước	in the front
+1984.		9999999	𪰂西	phía tây	west, to the west
+1985.		9999999	𪰂南	phía nam	south, to the south
+1986.		9999999	𪰂東	phía đông	east, to the east
+1987.		9999999	𪰂北	phía bắc	north, to the north
+1988.	U+24930	376	𤤰	vua	king
+1989.		2635	茹𤤰	nhà vua	king
+1990.	U+4EC1	378	仁	nhân	kernel, filling; 【humane】*
+1991.		9999999	杏仁	hạnh nhân	almond
+1992.		9999999	不仁	bất nhân	inhumane, unfeeling
+1993.		9999999	仁義	nhân nghĩa	benevolence and righteousness
+1994.		9999999	核仁	hạch nhân	nucleolus
+1995.	U+4EBA	378	人	nhân	【person, people; man, mankind】*
+1996.		704	人員	nhân viên	employee; staff member; personnel
+1997.		716	人民	nhân dân	people; country
+1998.		1640	工人	công nhân	worker; blue-collar worker
+1999.		1711	主人	chủ nhân	master, owner
+2000.		1860	人類	nhân loại	mankind, humanity, human race
+2001.		4414	人造	nhân tạo	artificial
+2002.		4931	犯人	phạm nhân	culprit, criminal (person)
+2003.		4933	舉人	cử nhân	bachelor, imperial examination graduate 
+2004.		4940	人生	sa mạc	Sa
+2005.		9999999	婦人	phụ nhân	woman
+2006.		9999999	要人	yếu nhân	very important person, (abbr. VIP)
+2007.		9999999	詩人	thi nhân	poet
+2008.		9999999	恩人	ân nhân	benefactor, benefactress
+2009.		9999999	人德	nhân đức	humane
+2010.		9999999	人類學	nhân loại học	anthropology
+2011.		9999999	前人	tiền nhân	predecessor
+2012.		9999999	人縁	nhân duyên	predestined affinity
+2013.	U+20E12	379	𠸒	bảo	to say
+2014.	U+4FDD	379	保	bảo	【to protect, to safeguard】*
+2015.		556	保衛	bảo vệ	to protect, to preserve; bodyguard, guard
+2016.		1925	保險	bảo hiểm	insurance, to insure
+2017.		3202	保助	bảo trợ	to sponsor
+2018.		4667	保領	bảo lãnh	to act as guarantor for, to stand surety, to bail for
+2019.		9999999	𠰺保	dạy bảo	to elevate, to bring up
+2020.		9999999	保全	bảo toàn	to keep intact; conservation; integrity
+2021.	U+540D	380	名	danh	name
+2022.		4685	名詞	danh từ	noun
+2023.	U+5340	381	區	khu	area, district, zone
+2024.		499	區域	khu vực	zone, area
+2025.		3018	區庯	khu phố	quarter (of a city)
+2026.		9999999	特區	đặc khu	special zone
+2027.	U+7ACB	385	立	lập	to form, to establish, to set up
+2028.		1470	獨立	độc lập	independence, independency
+2029.	U+8853	386	術	thuật	art, technique
+2030.		195	藝術	nghệ thuật	art
+2031.		9999999	美術	mỹ thuật	fine arts
+2032.		9999999	劍術	kiếm thuật	swordsmanship, fencing
+2033.		9999999	科學技術	khoa học kỹ thuật	science and technology
+2034.		9999999	技術	kỹ thuật	technology
+2035.	U+8CF4	387	賴	trái	left; to the left
+2036.		9999999	边賴	bên trái	on the left side
+2037.	U+236E4	387	𣛤	trái	fruit
+2038.		9999999	𣛤坦	trái đất	the earth
+2039.	U+5F37	389	強	càng	the ... the; all the more
+2040.	U+7389	390	玉	ngọc	gemstone, gem, jewel
+2041.		9999999	玉女	ngọc nữ	beautiful girl; fairy
+2042.	U+5BA2	391	客	khách	guest, visitor
+2043.		1876	行客	hành khách	passenger
+2044.		3577	房客	phòng khách	living room, lounge
+2045.		9999999	爫客	làm khách	to stand upon ceremony, to behave formally
+2046.		9999999	茹客	nhà khách	guest house
+2047.		9999999	上客	thượng khách	guest of honour
+2048.		9999999	坦客	đất khách	strange land, foreign land
+2049.		9999999	客地	khách địa	foreign land
+2050.	U+5672	392	噲	gọi	to call
+2051.		595	噲𪜀	gọi là	provisionally, superficial
+2052.		1457	呌噲	kêu gọi	to appeal, to call upon
+2053.		2167	𠸜噲	tên gọi	name
+2054.		9999999	噲𨷶	gọi cửa	to knock at the door
+2055.	U+9F8D	393	龍	rồng	dragon
+2056.		9999999	青龍	thanh long	The Azure Dragon (representing the east)
+2057.		9999999	下龍	Hạ Long	Ha Long (city in Vietnam)
+2058.		9999999	恐龍	khủng long	dinosaur
+2059.	U+559D	395	喝	hét	to scream, to cry
+2060.		9999999	囉喝	la hét	to scream
+2061.	U+6B31	395	欱	hát	to sing
+2062.		2051	排欱	bài hát	song
+2063.		2435	茹欱	nhà hát	theatre
+2064.	U+20127	396	𠄧	vài	some, several, quite a few
+2065.		1369	𠬠𠄧	một vài	some, several, quite a few
+2066.	U+7D71	397	統	thống	【to unite; to control】*
+2067.		717	系統	hệ thống	system, network, net
+2068.		1958	統一	thống nhất	united, to unite, to unify
+2069.		9999999	總統	Tổng thống	president
+2070.	U+28DD1	398	𨷑	mở	to open
+2071.		2547	𨷑頭	mở đầu	to initiate, to begin, to start
+2072.		9999999	𨷑塘	mở đường	to pave the way for, to initiate
+2073.		9999999	𨷑𩈘	mở mặt	to be better off
+2074.		9999999	𨷑𠰘	mở miệng	to speak out, to pipe up
+2075.	U+671D	401	朝	chiều	direction; dimension, side
+2076.		2624	朝廷	triều đình	court
+2077.		3087	朝代	triều đại	dynasty
+2078.		9999999	朝𨱽	chiều dài	length
+2079.		9999999	朝高	chiều cao	height
+2080.		9999999	朝鮮	Triều Tiên	Korea
+2081.		9999999	朝阮	triều Nguyễn	Nguyen Dynasty
+2082.	U+516C	402	公	công	public; common
+2083.		783	公佈	công bố	to publish, to proclaim
+2084.		1230	公認	công nhận	to recognize, to accept, to accredit
+2085.		1347	公安	công an	police; policeman
+2086.		4624	公式	công thức	formula
+2087.		9999999	公司	công ty	company, corporation
+2088.		9999999	𧵑公	của công	public property
+2089.		9999999	公爵	công tước	duke
+2090.		9999999	公社	công xã	commune
+2091.	U+28008	403	𨀈	bước	step, pace; to step, to pace
+2092.		4107	𨀈頭	bước đầu	first step; initially
+2093.	U+7D42	404	終	chung	common, general, public, shared
+2094.		1878	呐終	nói chung	generally speaking
+2095.		3370	終結	chung kết	final, finals
+2096.		4533	𥆾終	nhìn chung	as a whole, all in all
+2097.		9999999	於終	ở chung	to live together
+2098.		9999999	𧵑終	của chung	public property
+2099.	U+5C11	406	少	thiếu	to lack
+2100.		2702	最少	tối thiểu	minimum, minimal
+2101.		9999999	少婦	thiếu phụ	young woman
+2102.		9999999	年少	niên thiếu	young, tender
+2103.	U+73FE	407	現	hiện	to appear
+2104.		362	實現	thực hiện	to realize, to carry out
+2105.		593	現𫢩	hiện nay	today, nowadays
+2106.		616	出現	xuất hiện	to appear; appearance
+2107.		849	發現	phát hiện	to discover; to excavate
+2108.		901	現代	hiện đại	contemporary, modern times
+2109.		1128	現在	hiện tại	at present; present, modern, nowadays
+2110.		9999999	現前	hiện tiền	in front of one
+2111.	U+28178	408	𨅸	đứng	to stand
+2112.		2338	𨅸頭	đứng đầu	to head, to be at the head of
+2113.		3044	𨅸𨖲	đứng lên	to stand up, rise
+2114.		9999999	𣩂𨅸	chết đứng	to be thunderstruck, to be stunned
+2115.		9999999	𨅸䬔	đứng gió	windless, calm
+2116.	U+6252	409	扒	bắt	to catch
+2117.		356	扒頭	bắt đầu	to begin, to start
+2118.		2969	扒﨤	bắt gặp	to run into someone, to come across so.
+2119.		9999999	扒𤯩	bắt sống	capture alive
+2120.		9999999	扒焒	bắt lửa	to catch fire; to light
+2121.	U+5B5F	410	孟	mạnh	strong, powerful
+2122.		9999999	𨢇孟	rượu mạnh	strong alcohol
+2123.		9999999	孟劸	mạnh khoẻ	healthy
+2124.	U+21BA3	411	𡮣	bé	small, little, tiny
+2125.		2476	㛪𡮣	em bé	little child; baby
+2126.		2685	𠁂𡮣	đứa bé	a child
+2127.		2911	𡥵𡮣	con bé	gal, little girl, little miss
+2128.		9999999	𡮣𡥵	bé con	little child
+2129.		9999999	𠊟𡮣	thằng bé	little guy, kid
+2130.	U+793A	413	示	thị	【to show, to demonstrate】*
+2131.		9999999	指示	chỉ thị	to instruct; instructions
+2132.	U+5E02	413	市	thị	【city; market; town; trade】*
+2133.		898	市場	thị trường	market
+2134.		1979	都市	đô thị	city
+2135.		3366	超市	siêu thị	supermarket
+2136.		4071	城市	thành thị	urban area, town
+2137.		9999999	價市場	giá thị trường	market price, market rate, market value
+2138.	U+8996	413	視	thị	【to look, to see】*
+2139.		9999999	近視	cận thị	short-sighted, myopic
+2140.	U+6025	414	急	gấp	pressing, urgent, hurry
+2141.		9999999	急時	cấp thời	at once, immediately
+2142.	U+7D1A	414	級	cấp	rank, level, class; (school) grade
+2143.		2644	高級	cao cấp	high-class, high-ranking, high-grade
+2144.		9999999	級下	cấp hạ	lower class, low-ranking, low-grade
+2145.	U+548C	415	和	hoà	【harmony, peace】*
+2146.		1289	共和	cộng hoà	republic, republican
+2147.		9999999	和平	hoà bình	peace, peaceful
+2148.	U+231DC	416	𣇜	buổi	time of day; time, period, duration; working shift
+2149.		1928	𣇜𤎜	buổi sáng	morning
+2150.		3072	𣇜最	buổi tối	evening
+2151.	U+22782	419	𢞂	buồn	sad, melancholic
+2152.		9999999	𢞂𥄬	buồn ngủ	tired, sleepy
+2153.		9999999	𢞂𢚸	buồn lòng	melancholic, heavy-hearted
+2154.		9999999	𢞂唭	buồn cười	funny
+2155.		9999999	𢞂情	buồn tình	bored
+2156.		9999999	𢗼𢞂	lo buồn	full of cares, sorrowful
+2157.	U+862D	420	蘭	lan	orchid
+2158.		9999999	葻蘭	bông lan	orchid
+2159.		9999999	泰蘭	Thái Lan	Thailand
+2160.	U+8DE2	421	跢	đá	to kick
+2161.		9999999	鬥跢	đấu đá	to struggle, to attack
+2162.		9999999	跢𣈖	đá bóng	to play football (soccer)
+2163.		9999999	𨔈跢𣈖	chơi đá bóng	play football (soccer)
+2164.	U+254A5	421	𥒥	đá	stone; rock
+2165.		9999999	𥒥花	đá hoa	marble
+2166.		9999999	𥒥焒	đá lửa	flint; silex
+2167.		9999999	渃𥒥	nước đá	ice, frozen water
+2168.	U+8205	425	舅	cậu	uncle (mother's brother); young man
+2169.	U+5236	427	制	chế	to prepare (medicine); to pour (water); 【to regulate; system】*
+2170.		1423	制度	chế độ	regulation; (societal) system
+2171.	U+28508	427	𨔈	chơi	to play
+2172.		2542	𠫾𨔈	đi chơi	to go out; to be out
+2173.		3469	圖𨔈	đồ chơi	toy, plaything
+2174.		9999999	𨔈𡦂	chơi chữ	to play on words; wordplay
+2175.		9999999	呐𨔈	nói chơi	to joke, to be kidding
+2176.		9999999	𨔈跢𣈖	chơi đá bóng	play football (soccer)
+2177.	U+7269	430	物	vật	thing, object
+2178.		1798	物體	vật thể	body, object
+2179.		2094	動物	động vật	animal
+2180.		3274	物料	vật liệu	material
+2181.		3364	生物	sinh vật	creature, animate being
+2182.		4388	圖物	đồ vật	things, objects
+2183.		9999999	物理	vật lý	physics, physical
+2184.		9999999	物理學	vật lý học	physics (field of study)
+2185.		9999999	事物	sự vật	thing, object
+2186.		9999999	動物學	động vật học	zoology
+2187.		9999999	景物	cảnh vật	scenery
+2188.		9999999	物品	vật phẩm	articles, products, goods
+2189.		9999999	萬物	vạn vật	all things and living beings
+2190.		9999999	古生物學	cổ sinh vật học	paleontology
+2191.		9999999	博物	bác vật	engineer; erudition, scholarliness
+2192.	U+2B1F0	431	𫇰	cũ	old; ancient; second-hand
+2193.		9999999	伴𫇰	bạn cũ	old friend
+2194.		9999999	如𫇰	như cũ	as before
+2195.	U+9023	432	連	liên	【to connect】*
+2196.		4038	連想	liên tưởng	to associate, to make associations
+2197.		9999999	連結	liên kết	to link, to connect
+2198.	U+806F	432	聯	liên	【to join, to associate】*
+2199.		753	聯關	liên quan	to concern so./sth.
+2200.		1424	聯邦	liên bang	union, federation, federal
+2201.		1972	聯係	liên hệ	to contact (someone), to connect
+2202.		9999999	聯合	liên hợp	union, association; to link, to join; to conjugate
+2203.		9999999	聯營	liên doanh	joint venture
+2204.		9999999	聯邦俄	Liên Bang Nga	Russian Federation
+2205.		9999999	聯省	liên tỉnh	inter-provincial
+2206.	U+2263E	433	𢘾	nhờ	to commission, to resort to; thanks to, owing to
+2207.		9999999	𢘾𡗶	nhờ trời	thank heaven!
+2208.	U+5412	434	吒	cha	father
+2209.		862	吒媄	cha mẹ	parents
+2210.		9999999	𣩂吒	chết cha	damn it, damn, damned (colloquial)
+2211.	U+52A0	436	加	gia	to increase, to add
+2212.		447	參加	tham gia	to take part, to attend
+2213.		3333	加入	gia nhập	to adhere; to accede
+2214.		4762	加味	gia vị	spice
+2215.		9999999	加拿大	Gia Nã Đại	Canada
+2216.	U+5BB6	436	家	gia	【house, home; family】*
+2217.		143	家庭	gia đình	family
+2218.		303	國家	quốc gia	nation, country, state
+2219.		9999999	家景	gia cảnh	family condition, situation of the family
+2220.		9999999	政治家	chính trị gia	politician
+2221.		9999999	家庭治	gia đình trị	nepotism
+2222.		9999999	儒家	nho gia	confucianist
+2223.		9999999	家庭边内	gia đình bên nội	family on the paternal (father's) side
+2224.		9999999	作家	tác gia	author
+2225.	U+96FB	437	電	điện	electricity
+2226.		881	電話	điện thoại	telephone, phone
+2227.		2037	電子	điện tử	electron; electronic
+2228.		9999999	引電	dẫn điện	current carrying, conducting, live (electric)
+2229.		9999999	畑電	đèn điện	electric light; electric lamp
+2230.		9999999	絏電	dây điện	electric cable, power line, current line
+2231.		9999999	書電子	thư điện tử	E-mail
+2232.	U+9999	440	香	hương	perfume; fragrancy
+2233.		3634	香味	hương vị	taste, aromatic flavour
+2234.		9999999	香料	hương liệu	spice, condiment
+2235.	U+9109	440	鄉	hương	【rural, village】*
+2236.		9999999	鄉老	hương lão	village elders
+2237.		9999999	鄉俗	hương tục	village custom
+2238.	U+205A4	442	𠖤	bay	to fly
+2239.		3285	𡑝𠖤	sân bay	Airport
+2240.		9999999	𣛠𠖤	máy bay	airplane
+2241.		9999999	場𠖤	trường bay	airport
+2242.	U+225FC	443	𢗼	lo	to worry, to take care of
+2243.		9999999	𢗼𢞂	lo buồn	full of cares, sorrowful
+2244.	U+968A	446	隊	đội	to wear (on the head); team
+2245.		1070	軍隊	quân đội	army
+2246.		3073	步隊	bộ đội	(communist) soldier
+2247.		9999999	隊形	đội hình	formation, line-up
+2248.		9999999	飛隊	phi đội	squadron
+2249.		9999999	隊軍	đội quân	army
+2250.		9999999	隊長	đội trưởng	leader of a working gang; leader of a group
+2251.	U+212B2	448	𡊲	chỗ	place, space, room, spot
+2252.		3643	在𡊲	tại chỗ	right away, immediately, on the spot
+2253.		9999999	𡨹𡊲	giữ chỗ	to occupy a seat
+2254.	U+5B9A	450	定	định	to intend to, to decide
+2255.		498	決定	quyết định	to decide; to resolve
+2256.		1829	一定	nhất định	to decide; determined; inevitable
+2257.		2634	預定	dự định	to project, to plan, to schedule
+2258.		4494	定義	định nghĩa	definition
+2259.		4995	指定	chỉ định	to appoint, to assign
+2260.		9999999	定例	Định lệ	convention
+2261.		9999999	定料	định liệu	to make arrangements for
+2262.		9999999	決定論	quyết định luận	determinism
+2263.		9999999	前定	tiền định	predetermined, predestined, preordained
+2264.	U+552D	451	唭	cười	to laugh; to smile
+2265.		9999999	𢞂唭	buồn cười	funny
+2266.	U+751F	453	生	sinh	life; birth
+2267.		831	生員	sinh viên	student
+2268.		859	學生	học sinh	pupil; schoolboy; schoolgirl
+2269.		1739	生𤯨	sinh sống	to live
+2270.		2620	生日	sinh nhật	birthday, day of birth
+2271.		3364	生物	sinh vật	creature, animate being
+2272.		4361	生學	sinh học	biology (science)
+2273.		4538	回生	hồi sinh	reanimate
+2274.		4940	人生	sa mạc	Sa
+2275.		9999999	儒生	nho sinh	student (antiquated)
+2276.		9999999	生下	sinh hạ	to give birth to
+2277.		9999999	生長	sinh trưởng	to grow up, to grow
+2278.		9999999	古生物學	cổ sinh vật học	paleontology
+2279.		9999999	研究生	nghiên cứu sinh	post-graduate
+2280.		9999999	局生	cuộc sống	life, existence
+2281.		9999999	生堆	sinh đôi	twin, twins
+2282.	U+592A	455	太	thái	【very, much; big; extreme】*
+2283.		1993	太平	thái bình	peace and secure
+2284.		3516	太子	thái tử	crown prince
+2285.		9999999	太原	Thái Nguyên	Thai Nguyen
+2286.		9999999	太平洋	Thái Bình Dương	Pacific Ocean
+2287.	U+5EA6	456	度	độ	degree, measure
+2288.		1423	制度	chế độ	regulation; (societal) system
+2289.		2045	程度	trình độ	level, degree, standard
+2290.		9999999	印度	Ấn Độ	India
+2291.		9999999	角度	góc độ	angle
+2292.		9999999	印度洋	Ấn Độ Dương	Indian Ocean
+2293.		9999999	印度教	ấn độ giáo	hinduism
+2294.	U+215A1	459	𡖡	nhóm	to group, to aggregate, to concentrate
+2295.		9999999	𡖡長	nhóm trưởng	group leader, team leader
+2296.	U+2B005	462	𫀅	coi	to look; to watch
+2297.		9999999	𫀅常	coi thương	to think little of
+2298.	U+8ECD	464	軍	quân	army, military
+2299.		1070	軍隊	quân đội	army
+2300.		1556	軍事	quân sự	military affairs
+2301.		2546	海軍	hải quân	naval forces, navy
+2302.		9999999	隊軍	đội quân	army
+2303.		9999999	軍馬	quân mã	troops; knight (in chess)
+2304.	U+245B9	467	𤖹	lớp	class; layer, coat
+2305.		9999999	𨖲𤖹	lên lớp	to give a lesson
+2306.		9999999	分𤖹	phân lớp	subclass
+2307.	U+209B3	468	𠦳	nghìn	thousand
+2308.		9999999	𠬠𠦳	một nghìn	one thousand
+2309.	U+5B89	469	安	an	safe; secure; peaceful
+2310.		1347	公安	công an	police; policeman
+2311.		3461	平安	bình an	peace, security
+2312.	U+4EC9	471	仉	kẻ	man, person, he
+2313.		9999999	仉𧁷	kẻ khó	the poor; beggar
+2314.		9999999	仉𡮈	kẻ nhỏ	the average, the ordinary man
+2315.		9999999	仉𡘯	kẻ lớn	the mighty, the privileged
+2316.	U+75C5	472	病	bệnh	ill, sick; disease
+2317.		929	病院	bệnh viện	hospital
+2318.		9999999	治病	trị bệnh	to medicate, to cure
+2319.	U+6D0B	473	洋	dương	ocean, sea
+2320.		9999999	東洋	Đông Dương	Indochina
+2321.		9999999	洲大洋	Châu Đại Dương	Oceania
+2322.		9999999	大西洋	Đại Tây Dương	Atlantic Ocean
+2323.		9999999	印度洋	Ấn Độ Dương	Indian Ocean
+2324.		9999999	北冰洋	Bắc Băng Dương	Arctic Ocean
+2325.		9999999	南大洋	Nam Đại Dương	Antarctic Ocean
+2326.		9999999	洋琴	Dương cầm	piano
+2327.		9999999	南洋	Nam Dương	Indonesia
+2328.		9999999	太平洋	Thái Bình Dương	Pacific Ocean
+2329.	U+56DE	474	回	hồi	to return
+2330.		1667	回教	hồi giáo	islam
+2331.		2112	回音	hồi âm	to reply
+2332.		4538	回生	hồi sinh	reanimate
+2333.		9999999	回聲	hồi thanh	echo
+2334.		9999999	回文	hồi văn	palindrome
+2335.		9999999	回吏	hồi lại	to turn back, to reverse
+2336.		9999999	回春	hồi xuân	change of life, menopause
+2337.		9999999	回想	hồi tưởng	to remember, to recall
+2338.		9999999	回想	hồi tưởng	to remember, to recall
+2339.	U+5F8A	474	徊	hồi	time, period; when, at (some time)
+2340.		9999999	徊𠓀	hồi trước	in the past, before
+2341.		9999999	徊芇	hồi nào	when (in the past)
+2342.		9999999	徊妬	hồi đó	then, back then, at that time
+2343.		9999999	徊𠸗	hồi xưa	in earlier times, in former times
+2344.		9999999	𠬠徊	một hồi	a while
+2345.		9999999	徊𥹰	hồi lâu	a long while
+2346.	U+85DD	475	藝	nghề	work, craft; occupation, profession
+2347.		195	藝術	nghệ thuật	art
+2348.		375	藝士	nghệ sĩ	artist
+2349.		1842	工藝	công nghệ	craft, industry
+2350.		1934	藝業	nghề nghiệp	occupation, profession, career
+2351.		9999999	藝輔	nghề phụ	side-job, sideline
+2352.	U+2029F	480	𠊟	thằng	guy, boy, man; (form of address for male third-person, singular)
+2353.		9999999	𠊟𡮈	thằng nhỏ	little guy; the younger (of two males)
+2354.		9999999	𠊟𡮣	thằng bé	little guy, kid
+2355.	U+5806	481	堆	đôi	pair, couple; double
+2356.		1395	堆欺	đôi khi	sometimes, occasionally
+2357.		4002	𠬠堆	một đôi	a few, some
+2358.		9999999	堆𠀧	đôi ba	a few
+2359.		9999999	堆边	đôi bên	both sides
+2360.		9999999	堆𨑮	đôi mươi	about twenty, twentyish
+2361.		9999999	生堆	sinh đôi	twin, twins
+2362.	U+20B64	483	𠭤	trả	to return, to pay back
+2363.		582	𠭤𠳒	trả lời	to answer, to reply, to respond
+2364.		9999999	𠭤恩	trả ơn	to thank so. (for sth.)
+2365.	U+5168	484	全	toàn	all, whole, entire
+2366.		9999999	保全	bảo toàn	to keep intact; conservation; integrity
+2367.	U+67F4	485	柴	None	
+2368.		9999999	柴棍	Sài Gòn	Saigon
+2369.	U+6700	486	最	tối	night; dark; obscure; 【extremely, exceedingly】*
+2370.		2659	最多	tối đa	maximum, maximal
+2371.		2702	最少	tối thiểu	minimum, minimal
+2372.		3072	𣇜最	buổi tối	evening
+2373.		3652	最高	tối cao	supreme, top-level, utmost
+2374.		9999999	黰最	đen tối	dark, deep black
+2375.		9999999	最義	tối nghĩa	obscure
+2376.		9999999	最後	tối hậu	final, last, ultimate
+2377.		9999999	最後書	tối hậu thư	ultimatum
+2378.		9999999	最𣈜	tối ngày	all day long, day and night
+2379.		9999999	班最	ban tối	at night
+2380.	U+6EDD	488	滝	sông	river
+2381.		4316	滝渃	sông nước	waterway, water route
+2382.		9999999	𡶀滝	núi sông	country, land
+2383.		9999999	𡽫滝	non sông	home country
+2384.	U+7D05	489	紅	hồng	rose, pink; rosy
+2385.		9999999	紅河	hồng hà	the Red River
+2386.		9999999	紅十字	hồng thập tự	Red Cross
+2387.	U+5370	491	印	in	to print
+2388.		9999999	印度	Ấn Độ	India
+2389.		9999999	印度洋	Ấn Độ Dương	Indian Ocean
+2390.		9999999	印度教	ấn độ giáo	hinduism
+2391.		9999999	紙印	giấy in	printing paper
+2392.		9999999	印劍	ấn kiếm	seal and sword
+2393.	U+6253	492	打	đánh	to beat, to hit; to fight, to combat, to play
+2394.		897	打價	đánh giá	to rate (something or someone), to assess, to value
+2395.		4118	打式	đánh thức	to wake (someone)
+2396.		4450	打憢	đánh nhau	to fight, to battle (against each other)
+2397.		9999999	打𣛠	đánh máy	to type (on a typewriter)
+2398.		9999999	打動	đánh động	to alert, to warn
+2399.		9999999	紙打𣛠	giấy đánh máy	typing paper, flimsy paper
+2400.		9999999	打𤊡	đánh bóng	to polish
+2401.		9999999	打𩃳	đánh bóng	to crosshatch, to shade (a painting)
+2402.		9999999	打𣈖盤	đánh bóng bàn	play table tennis
+2403.	U+200E3	493	𠃣	ít	less; little; few
+2404.		1628	𠃣一	ít nhất	at least
+2405.		3483	𠃣𡗉	ít nhiều	a little
+2406.		3681	𠬠𠃣	một ít	a little bit, a tiny bit
+2407.		4314	𠃣欺	ít khi	rarely, seldom
+2408.		4376	数𠃣	số ít	singular; minority
+2409.		4621	𠃣𫥨	ít ra	at least
+2410.		9999999	𠃣歲	ít tuổi	still young
+2411.		9999999	𠃣𠳒	ít lời	uncommunicative, ineloquent
+2412.		9999999	𠃣固	ít có	to be rare to find, to be scarce
+2413.		9999999	𠃣𥹰	ít lâu	a little while, soon, shortly
+2414.	U+98DB	494	飛	phi	【to fly】*
+2415.		1951	飛場	phi trường	airport
+2416.		2925	飛機	phi cơ	airplane
+2417.		9999999	飛隊	phi đội	squadron
+2418.		9999999	飛劍	phi kiếm	throwing sword
+2419.	U+7B95	495	箕	kia	that, the other
+2420.		4996	𠸗箕	xưa kia	formerly
+2421.		9999999	𣋚箕	hôm kia	the day before yesterday
+2422.		9999999	𢆥箕	năm kia	the year before last year
+2423.		9999999	𣈜箕	ngày kia	the day after tomorrow
+2424.		9999999	𣋚箕	hôm kia	the day before yesterday, two days ago
+2425.	U+4F2F	496	伯	bác	uncle; aunt
+2426.		9999999	伯𡛔	bác gái	one's father's elder sister-in-law
+2427.	U+535A	496	博	bác	【extensive, comprehensive, wide, broad, rich; to gamble】*
+2428.		703	博士	bác sĩ	doctor, physician, general practitioner
+2429.		9999999	博學	bác học	scholarly, learned, knowledgeable
+2430.		9999999	茹博學	nhà bác học	scientist
+2431.		9999999	博物	bác vật	engineer; erudition, scholarliness
+2432.	U+825A	497	艚	tàu	ship, boat
+2433.		9999999	艚戰	tàu chiến	warship
+2434.	U+90A6	500	邦	bang	nation, country, state
+2435.		1386	小邦	tiểu bang	state
+2436.		1424	聯邦	liên bang	union, federation, federal
+2437.		9999999	聯邦俄	Liên Bang Nga	Russian Federation
+2438.		9999999	合邦	hợp bang	confederation
+2439.	U+58EB	504	士	sĩ	scholar; feudal intellectual
+2440.		375	藝士	nghệ sĩ	artist
+2441.		703	博士	bác sĩ	doctor, physician, general practitioner
+2442.		1307	進士	tiến sĩ	scholars
+2443.		9999999	儒士	nho sĩ	Confucian scholar
+2444.		9999999	侠士	Hiệp sĩ	knight
+2445.		9999999	瑞士	Thuy Sĩ	Switzerland
+2446.		9999999	牙士	nha sĩ	dentist
+2447.		9999999	藥士	dược sĩ	pharmacist, chemist
+2448.	U+666F	507	景	cảnh	scene, scenery; landscape
+2449.		9999999	景物	cảnh vật	scenery
+2450.		9999999	景情	cảnh tình	situation, condition, circumstances
+2451.		9999999	家景	gia cảnh	family condition, situation of the family
+2452.		9999999	入景	nhập cảnh	entry; entrance; to enter a country; to cross a country's border
+2453.	U+8B66	507	警	cảnh	【guard】*
+2454.		342	警察	cảnh sát	police
+2455.		9999999	警衛	cảnh vệ	guard, security guard, watchman
+2456.	U+9810	511	預	dự	【before, in advance】*
+2457.		730	預案	dự án	emergency plan; draft; project
+2458.		2137	預見	dự kiến	to predict, to foresee, to anticipate
+2459.		2634	預定	dự định	to project, to plan, to schedule
+2460.		4671	預報	dự báo	forcast, to forcast
+2461.		9999999	預支	dự chi	planned expenditure
+2462.	U+5316	512	化	hoá	to become, to change, to transform
+2463.		137	文化	văn hoá	culture, civilization
+2464.		3712	化學	hoá học	chemistry
+2465.		9999999	造化	tạo hoá	the creator
+2466.		9999999	化値	hoá trị	valence (in chemistry)
+2467.	U+24F78	513	𤽸	trắng	white, clear, bare, blank
+2468.		9999999	𢬣𤽸	tay trắng	bare hands
+2469.	U+9EE8	515	黨	đảng	party; gang, band
+2470.		9999999	政黨	chính đảng	political party
+2471.		9999999	黨治	đảng trị	(one) party rule, (one) party government
+2472.		9999999	黨史	đảng sử	party history
+2473.		9999999	黨長	đảng trưởng	party leader
+2474.	U+82E6	516	苦	khổ	painful, hard, bitter
+2475.	U+27077	516	𧁷	khó	difficult
+2476.		682	𧁷巾	khó khăn	hard, difficult, troublesome
+2477.		2831	𧁷𠹾	khó chịu	grumpy; unbearable
+2478.		3678	𠹾𧁷	chịu khó	to take pains
+2479.		9999999	𧁷𢣂	khó nghĩ	to be at a loss
+2480.		9999999	仉𧁷	kẻ khó	the poor; beggar
+2481.		9999999	𧁷𢚸	khó lòng	unlikely
+2482.	U+547D	517	命	mạng	fate; destiny
+2483.		1175	革命	cách mạng	revolution
+2484.		9999999	命𠊛	mạng người	life
+2485.		9999999	運命	vận mạng	fate, destiny
+2486.	U+754C	518	界	giới	limit; world; society
+2487.		161	世界	thế giới	world
+2488.		2154	界限	giới hạn	limit; term; bound
+2489.		3545	界性	giới tính	gender
+2490.		9999999	新世界	Tân Thế Giới	the New World
+2491.		9999999	下界	hạ giới	this world
+2492.		9999999	夾界	giáp giới	to share the same border, to border
+2493.	U+963F	519	阿	a	【prefix in people's name】*
+2494.		9999999	阿彌陀佛	A di đà Phật	Amitābha (name of a celestial Buddha)
+2495.		9999999	阿片	a phiến	opium
+2496.	U+5068	520	偨	thầy	teacher, master; father, dad
+2497.		3975	偨教	thầy giáo	schoolmaster
+2498.		9999999	偨𧆄	thầy thuốc	physician, doctor
+2499.	U+7CDD	526	糝	tấm	broken rice
+2500.		9999999	粓糝	cơm tấm	broken rice with meat and vegetables (dish)
+2501.	U+245F2	526	𤗲	tấm	board, tile, sheet; mat, blanket, cover
+2502.		9999999	𤗲巾	tấm khăn	towel
+2503.	U+290F3	528	𩃳	bóng	shadow; reflection (of an image)
+2504.		9999999	打𩃳	đánh bóng	to crosshatch, to shade (a painting)
+2505.	U+23216	528	𣈖	bóng	ball, bulb
+2506.		9999999	𣈖𦝄	bóng trăng	moon
+2507.		9999999	𣈖畑	bóng đèn	light bulb
+2508.		9999999	跢𣈖	đá bóng	to play football (soccer)
+2509.		9999999	𣈖𩵜	bóng cá	swim bladder
+2510.		9999999	打𣈖盤	đánh bóng bàn	play table tennis
+2511.		9999999	𣈖盤	bóng bàn	table tennis
+2512.		9999999	𨔈跢𣈖	chơi đá bóng	play football (soccer)
+2513.		9999999	𣈖䬔	bóng gió	allusive; hint
+2514.	U+242A1	528	𤊡	bóng	lustrous, glossy, glittering, sparkling, radiant
+2515.		9999999	𤎜𤊡	sáng bóng	shiny, radiant
+2516.		9999999	渃𤊡	nước bóng	lustre (of pearls)
+2517.		9999999	打𤊡	đánh bóng	to polish
+2518.	U+43FE	528	䏾	bụng	abdomen
+2519.		4697	卒䏾	tốt bụng	kindhearted
+2520.		9999999	𢣂䏾	nghĩ bụng	to think to oneself
+2521.		9999999	息䏾	tức bụng	upset stomach, stomachache
+2522.	U+6255	530	払	chàng	young gentleman; large bladed chisel
+2523.		1828	払𤳇	chàng trai	fellow, lad
+2524.		9999999	偀払	anh chàng	man, guy, boy
+2525.	U+27184	531	𧆄	thuốc	medicine, remedy, medicament; drug
+2526.		9999999	偨𧆄	thầy thuốc	physician, doctor
+2527.		9999999	𧆄北	thuốc bắc	Chinese herbs
+2528.		9999999	𧆄南	thuốc nam	Vietnamese herbs
+2529.		9999999	𧆄𥄬	thuốc ngủ	sleeping pill, soporific
+2530.	U+8956	532	襖	áo	blouse, shirt, jacket
+2531.		1554	襖𨱽	áo dài	tunic, dress
+2532.		9999999	襖𠫾𩅹	áo đi mưa	raincoat
+2533.		9999999	襖蘿	áo lá	camisole, vest, women's undershirt
+2534.	U+5965	532	奥	áo	Austria; austrian
+2535.	U+20E17	535	𠸗	xưa	ancient, old
+2536.		1362	𣈜𠸗	ngày xưa	formerly, once, back then, in the past
+2537.		3529	𠊛𠸗	người xưa	the ancients, ancient people
+2538.		3657	𢆥𠸗	năm xưa	long ago
+2539.		4996	𠸗箕	xưa kia	formerly
+2540.		9999999	𣋚𠸗	hôm xưa	one long past day
+2541.		9999999	徊𠸗	hồi xưa	in earlier times, in former times
+2542.		9999999	𡢐𠸗	sau xưa	from before and after
+2543.	U+528D	542	劍	kiếm	sword
+2544.		9999999	劍術	kiếm thuật	swordsmanship, fencing
+2545.		9999999	印劍	ấn kiếm	seal and sword
+2546.		9999999	飛劍	phi kiếm	throwing sword
+2547.	U+5EAD	544	庭	đình	communal house in the village
+2548.		143	家庭	gia đình	family
+2549.		9999999	家庭治	gia đình trị	nepotism
+2550.		9999999	家庭边内	gia đình bên nội	family on the paternal (father's) side
+2551.	U+505C	544	停	đừng	don't, do not
+2552.		4696	停止	đình chỉ	to stop, suspend
+2553.	U+5149	545	光	quang	clear; brilliant
+2554.	U+863F	547	蘿	lá	leaf
+2555.		9999999	襖蘿	áo lá	camisole, vest, women's undershirt
+2556.		9999999	撑蘿𣘃	xanh lá cây	green
+2557.	U+20E7E	548	𠹾	chịu	to sustain, to accept, to bear, to stand
+2558.		2831	𧁷𠹾	khó chịu	grumpy; unbearable
+2559.		3678	𠹾𧁷	chịu khó	to take pains
+2560.		4710	易𠹾	dễ chịu	agreeable, pleasant, cozy
+2561.		9999999	𧸝𠹾	bán chịu	to sell on credit
+2562.	U+8070	549	聰	thông	【intelligent; bright】*
+2563.		1597	聰明	thông minh	intelligent; clever
+2564.	U+901A	549	通	thông	【clear, open; common; to communicate】*
+2565.		606	通信	thông tin	information; to inform, to broadcast informations
+2566.		1339	通報	thông báo	bulletin, journal
+2567.		9999999	通用	thông dụng	common use, commonly used
+2568.	U+8CA1	550	財	tài	【wealth, richness】*
+2569.		1022	財政	tài chính	finance, budget
+2570.		9999999	經財	kinh tài	economy and finance
+2571.		9999999	貪財	tham tài	to be greedy for gain, to be mercenary
+2572.	U+6750	550	材	tài	【material, stuff】*
+2573.		1153	題材	đề tài	subject matter, theme
+2574.		1194	材料	tài liệu	material, document
+2575.	U+624D	550	才	tài	talent, gift
+2576.		1512	才能	tài năng	talent, ability
+2577.	U+5B50	551	子	tử	【child】*
+2578.		2037	電子	điện tử	electron; electronic
+2579.		3516	太子	thái tử	crown prince
+2580.		9999999	孔子	Khổng Tử	Confucius
+2581.		9999999	探子	thám tử	scout, detective
+2582.		9999999	分子	phần tử	element
+2583.		9999999	書電子	thư điện tử	E-mail
+2584.	U+5BD4	553	寔	thiệt	really; true, real, genuine
+2585.	U+43E7	557	䏧	da	skin; leather; pelt
+2586.		9999999	撑䏧𡗶	xanh da trời	sky blue; azure
+2587.		9999999	䏧屬	da thuộc	leather
+2588.	U+6CB3	560	河	hà	river
+2589.		9999999	紅河	hồng hà	the Red River
+2590.		9999999	河内	Hà Nội	Hanoi
+2591.	U+6B0A	563	權	quyền	right, power; authority
+2592.		2060	權力	quyền lực	power, might, authority
+2593.		9999999	特權	đặc quyền	privilege, prerogative, special right
+2594.		9999999	權能	quyền năng	juridical power
+2595.		9999999	法權	pháp quyền	rule of law, jurisdiction
+2596.		9999999	民權	dân quyền	civic rights
+2597.		9999999	固權	có quyền	to have the right to
+2598.	U+7BC0	564	節	tết	festival, holiday
+2599.		978	枝節	chi tiết	detail
+2600.		2089	時節	thời tiết	weather
+2601.		2900	節目	tiết mục	program item
+2602.		9999999	節中秋	tết trung thu	mid-autumn festival
+2603.		9999999	音節	âm tết	syllable
+2604.		9999999	多音節	đa âm tiết	polysyllabic
+2605.		9999999	發節	phát tiết	to appear, to display, to show up
+2606.		9999999	節元旦	tết nguyên đán	lunar new year
+2607.	U+24F93	567	𤾓	trăm	hundred
+2608.		1132	分𤾓	phần trăm	percent; percentage
+2609.		9999999	𠬠𤾓	một trăm	one hundred
+2610.	U+264C5	568	𦓅	già	old, aged
+2611.		2123	翁𦓅	ông già	elderly man; father
+2612.		9999999	𦓅要	già yếu	decrepit, old and feeble
+2613.		9999999	𦓅𠁀	già đời	for many years of life, the whole life
+2614.		9999999	𦓅哿	già cả	venerably old, elderly
+2615.	U+72AF	570	犯	phạm	to violate, to offend, to commit (a crime)
+2616.		4931	犯人	phạm nhân	culprit, criminal (person)
+2617.		9999999	政治犯	chính trị phạm	political prisoner
+2618.		9999999	犯法	phạm pháp	to break the law
+2619.	U+2A773	572	𪝳	hắn	he; him (derogatory)
+2620.		9999999	𪝳些	hắn ta	bloke, jerk, idiot
+2621.	U+63A5	574	接	tiếp	to continue, to proceed; to connect
+2622.		509	接俗	tiếp tục	continuous, successive
+2623.		9999999	接夾	tiếp giáp	to adjoin, to be contiguous
+2624.	U+9663	578	陣	trận	battle, fight
+2625.		3126	𩈘陣	mặt trận	front, battle front
+2626.		9999999	佈陣	bố trận	to dispose troops in battle formation
+2627.		9999999	戰陣	chiến trận	battle, engagement
+2628.		9999999	𫥨陣	ra trận	to go to the front
+2629.		9999999	失陣	thất trận	to loose a battle, to be defeated
+2630.	U+885D	591	衝	xong	ready, finished, complete
+2631.		9999999	衝𨒺	xung quanh	around
+2632.		9999999	爫衝	làm xong	to finish, to finalize, to complete
+2633.	U+8B6F	592	譯	dịch	to translate, to decode
+2634.	U+9662	596	院	viện	institute; court
+2635.		929	病院	bệnh viện	hospital
+2636.		3674	學院	học viện	institute
+2637.		3900	下院	hạ viện	Lower House, House of Commons (UK), House of Representatives (USA)
+2638.		9999999	院研究	viện nghiên cứu	research institute
+2639.	U+6491	604	撑	xanh	green; blue
+2640.		9999999	撑綠	xanh lục	green
+2641.		9999999	撑蘿𣘃	xanh lá cây	green
+2642.		9999999	撑䏧𡗶	xanh da trời	sky blue; azure
+2643.		9999999	茶撑	trà xanh	green tea
+2644.		9999999	撑ㇴ	xanh xanh	greenish, bluish
+2645.	U+25409	605	𥐉	ngắn	short; abbreviate
+2646.		9999999	𣦍𥐉	ngay ngắn	neat, tidy
+2647.	U+2629A	607	𦊚	bốn	four
+2648.		9999999	𦊚方	bốn phương	four directions (of the compass)
+2649.		9999999	𦊚𣷷	bốn biển	the world (lit. "four oceans"), cf. 四海
+2650.	U+8CAA	608	貪	tham	to be greedy, to crave something
+2651.		9999999	貪咹	tham ăn	greedy, covetous
+2652.		9999999	貪財	tham tài	to be greedy for gain, to be mercenary
+2653.		9999999	𧖱貪	máu tham	cupidity
+2654.	U+53C3	608	參	tham	【to take part, to attend】*
+2655.		447	參加	tham gia	to take part, to attend
+2656.		1716	參觀	tham quan	to go for a sightseeing
+2657.		3249	參考	tham khảo	to consult; consultation
+2658.		9999999	參戰	tham chiến	to be at war, to wage war
+2659.	U+738B	611	王	vương	【king, ruler; royal】*
+2660.		9999999	王國英	vương quốc anh	Kingdom of England
+2661.		9999999	𣋀閻王	sao Điêm vương	Pluto
+2662.		9999999	閻王星	Diêm Vương Tinh	Pluto
+2663.		9999999	𣋀海王	sao hải vương	Neptune
+2664.		9999999	𣋀天王	sao thiên vương	Uranus
+2665.		9999999	王國西班牙	Vương Quốc Tây Ban Nha	Kingdom of Spain
+2666.		9999999	王國丹麥	Vương quốc Đan Mạch	Kingdom of Denmark
+2667.	U+795E	612	神	thần	【spirit, supernatural being】*
+2668.		702	精神	tinh thần	mind, spirit, vigor
+2669.		2888	心神	tâm thần	mind, mental
+2670.		4714	女神	nữ thần	goddess, nymph
+2671.		9999999	神學	thần học	theology
+2672.	U+6613	613	易	dễ	easy
+2673.		2487	易傷	dễ thương	lovely, likeable, nice
+2674.		4710	易𠹾	dễ chịu	agreeable, pleasant, cozy
+2675.		9999999	易常	dễ thường	probably, possibly
+2676.	U+56C9	614	囉	la	to shout, to cry
+2677.		9999999	囉喝	la hét	to scream
+2678.	U+63A2	615	探	thăm	to visit
+2679.		3960	𠳨探	hỏi thăm	to ask after, inquire about (someone)
+2680.		9999999	探子	thám tử	scout, detective
+2681.		9999999	由探	do thám	to spy
+2682.		9999999	探險	thám hiểm	to explore
+2683.	U+5EAF	617	庯	phố	street that is built-up on both sides; avenue, boulevard
+2684.		153	城庯	thành phố	city, town
+2685.		1685	塘庯	đường phố	street
+2686.		3018	區庯	khu phố	quarter (of a city)
+2687.		9999999	庯舍	phố xá	streets
+2688.	U+9EF0	621	黰	đen	black
+2689.		9999999	𣷷黰	biển đen	Black Sea
+2690.		9999999	牟黰	màu đen	black color
+2691.		9999999	黰最	đen tối	dark, deep black
+2692.		9999999	粓黰	cơm đen	opium (colloquial)
+2693.		9999999	民黰	dân đen	mob, rabbel
+2694.		9999999	数黰	số đen	bad luck, misfortune
+2695.	U+5F0F	623	式	thức	【type, style; system, formula】*
+2696.		976	正式	chính thức	official
+2697.		1227	形式	hình thức	form
+2698.		4118	打式	đánh thức	to wake (someone)
+2699.		4149	方式	phương thức	procedure, method
+2700.		4624	公式	công thức	formula
+2701.		9999999	式咹	thức ăn	food
+2702.	U+9053	625	道	đạo	method, way; road, street
+2703.		9999999	道佛	đạo phật	buddhism; buddhist (verb)
+2704.		9999999	輔道	phụ đạo	to give extra-class help
+2705.		9999999	赤道	Xích đạo	equator
+2706.	U+5716	629	圖	đồ	thing, object; 【chart, map】*
+2707.		2336	版圖	bản đồ	(geographical) map
+2708.		3469	圖𨔈	đồ chơi	toy, plaything
+2709.		4388	圖物	đồ vật	things, objects
+2710.		9999999	圖㕵	đồ uống	beverage, drink
+2711.	U+9014	629	途	đồ	【way, road, path】*
+2712.		9999999	前途	tiền đồ	future, prospects
+2713.	U+6A5F	632	機	cơ	opportunity; 【machine, engine】*
+2714.		601	機關	cơ quan	organ (of an organization)
+2715.		686	機會	cơ hội	opportunity, occasion, chance
+2716.		1181	機體	cơ thể	organism; (human) body
+2717.		2925	飛機	phi cơ	airplane
+2718.		9999999	投機	đầu cơ	to speculate
+2719.		9999999	時機	thời cơ	time, occasion, opportunity
+2720.	U+57FA	632	基	cơ	【foundation, base】*
+2721.		2367	基本	cơ bản	base, foundation; basic, fundamental
+2722.	U+6D77	633	海	hải	【sea, ocean】*
+2723.		2353	海外	hải ngoại	abroad, overseas
+2724.		2546	海軍	hải quân	naval forces, navy
+2725.		9999999	黑海	Hắc Hải	Black Sea
+2726.		9999999	𣋀海王	sao hải vương	Neptune
+2727.		9999999	海賊	hải tặc	pirate
+2728.		9999999	地中海	Địa Trung Hải	Mediterranean Sea, Mediterranean
+2729.		9999999	黄海	Hoàng Hải	Yellow Sea
+2730.		9999999	四海	tư hải	the world (lit. "four oceans"), cf. 𦊚𣷷
+2731.		9999999	海關	hải quan	customs, customs duty office
+2732.		9999999	海口	hải khẩu	river delta, estuary
+2733.		9999999	上海	Thượng Hải	Shanghai
+2734.		9999999	海南	Hải Nam	Hainan (island)
+2735.		9999999	航海	hàng hải	navigation (nautical)
+2736.	U+5E03	636	布	bố	linen, canvas, heavy duty fabric
+2737.	U+4F48	636	佈	bố	【publicize, announce】*
+2738.		783	公佈	công bố	to publish, to proclaim
+2739.		9999999	分佈	phân bố	to distribute, to dispose
+2740.		9999999	佈陣	bố trận	to dispose troops in battle formation
+2741.	U+2209E	636	𢂞	bố	father, dad
+2742.		1830	𢂞媄	bố mẹ	mom and dad, parents
+2743.	U+2271D	637	𢜝	sợ	to fear, to be afraid
+2744.	U+5929	638	天	thiên	【sky, heaven】*
+2745.		2118	天下	thiên hạ	the whole (inhabited) world
+2746.		3534	天堂	thiên đường	paradise, heaven, elysium
+2747.		9999999	天使	thiên sứ	angel
+2748.		9999999	𣋀天王	sao thiên vương	Uranus
+2749.		9999999	𣋀天狼	Sao Thiên Lang	Sirius
+2750.		9999999	天鳥	thiên điểu	bird of paradise flower (strelizia)
+2751.		9999999	青天	thanh thiên	blue sky, clear sky
+2752.	U+4E3B	641	主	chủ	owner; chief; lord
+2753.		956	主題	chủ đề	theme, subject, motif, leitmotiv
+2754.		1284	民主	dân chủ	democratic
+2755.		1609	主要	chủ yếu	main
+2756.		1711	主人	chủ nhân	master, owner
+2757.		1978	主日	chủ nhật	sunday
+2758.		9999999	主體	chủ thể	main part, essential part; subject
+2759.		9999999	主治	chủ trị	leader, ruler
+2760.		9999999	主筆	chủ bút	chief editor, editor-in-chief
+2761.		9999999	社會主義	xã hội chủ nghĩa	socialism, socialist
+2762.	U+2847B	642	𨑻	đem	to bring; to carry
+2763.		9999999	𨑻𨖅	đem sang	to carry over
+2764.	U+57CB	643	埋	mai	【to bury】*
+2765.		9999999	埋没	mai một	to bury; to neglect
+2766.	U+227D8	647	𢟘	chắc	sure; solid, firm, steady
+2767.		9999999	𢟘蹎	chắc chân	to be in stable position, to be firm
+2768.	U+5FD7	649	志	chí	will, ambition
+2769.		9999999	意志	ý chí	will
+2770.	U+3575	651	㕵	uống	to drink
+2771.		2128	咹㕵	ăn uống	to eat and drink; food intake
+2772.		4422	渃㕵	nước uống	drinking water
+2773.		9999999	㕵𨢇	uống rượu	to drink alcohol
+2774.		9999999	圖㕵	đồ uống	beverage, drink
+2775.	U+6307	652	指	chỉ	to show, to indicate, to instruct
+2776.		3376	指数	chỉ số	index, index number
+2777.		4787	指引	chỉ dẫn	to direct, to instruct
+2778.		4995	指定	chỉ định	to appoint, to assign
+2779.		9999999	指示	chỉ thị	to instruct; instructions
+2780.		9999999	指数經濟	chỉ số kinh tế	economic index
+2781.		9999999	指教	chỉ giáo	to counsel, to educate
+2782.		9999999	指南	chỉ nam	to guide; guide (book)
+2783.		9999999	指點	chỉ điểm	to pinpoint, to inform, to indicate
+2784.	U+96D6	653	雖	tuy	though
+2785.		366	雖然	tuy nhiên	however, but
+2786.	U+9996	656	首	thủ	【head】*
+2787.		992	首將	thủ tướng	chief officer; prime minister
+2788.		1040	首都	thủ đô	capital (city)
+2789.		9999999	部首	bộ thủ	characer radical
+2790.		9999999	首長	thủ trưởng	chief officer
+2791.	U+624B	656	手	thủ	【hand】*
+2792.		9999999	助手	trợ thủ	assistant, helper, supporter
+2793.	U+9ED8	657	默	mặc	【silent, quiet; dark】*
+2794.		874	默𠶢	mặc dù	though; allthough
+2795.		4702	默感	mặc cảm	complex; sense, perception
+2796.		9999999	𠬃默	bỏ mặc	to abandon
+2797.		9999999	默𠶢	mặc dầu	though; although
+2798.	U+27E7C	659	𧹼	đỏ	red
+2799.		9999999	𡦂十𧹼	chữ thập đỏ	Red Cross
+2800.	U+6CE3	660	泣	khắp	all, all of
+2801.		9999999	泣坭	khắp nơi	everywhere
+2802.	U+550F	661	唏	hơi	steam, air, gas; a little bit, slightly
+2803.		9999999	𠬠唏	một hơi	in one go, at a stretch
+2804.		9999999	歇唏	hết hơi	out of breath, breathless
+2805.		9999999	唏力	hơi sức	physical energy, power
+2806.		9999999	𦖑唏	nghe hơi	to know from hearsay
+2807.	U+5E1D	662	帝	đấy	there
+2808.		1699	皇帝	hoàng đế	emperor
+2809.		9999999	帝國德	đế quốc đức	German Empire
+2810.	U+793E	670	社	xã	【society, company】*
+2811.		312	社會	xã hội	society
+2812.		9999999	社會主義	xã hội chủ nghĩa	socialism, socialist
+2813.		9999999	公社	công xã	commune
+2814.		9999999	社論	xã luận	editorial (in a newspaper)
+2815.	U+652F	671	支	chi	to spend money, to pay
+2816.		9999999	預支	dự chi	planned expenditure
+2817.	U+21D80	675	𡶀	núi	mountain; hill
+2818.		9999999	𧿆𡶀	dãy núi	chain of mountains, cordillera
+2819.		9999999	𡶀𡽫	núi non	mountains
+2820.		9999999	𡶀滝	núi sông	country, land
+2821.		9999999	𡶀焒	núi lửa	volcano
+2822.	U+264B9	678	𦒹	sáu	six
+2823.		9999999	次𦒹	thứ sáu	friday; sixth
+2824.	U+65B9	680	方	phương	direction
+2825.		785	地方	địa phương	region; regional
+2826.		4149	方式	phương thức	procedure, method
+2827.		9999999	𦊚方	bốn phương	four directions (of the compass)
+2828.	U+7D19	681	紙	giấy	paper
+2829.		9999999	錢紙	tiền giấy	banknote, paper money
+2830.		9999999	包紙	bao giấy	paper bag
+2831.		9999999	紙影	giấy ảnh	photographic paper
+2832.		9999999	紙打𣛠	giấy đánh máy	typing paper, flimsy paper
+2833.		9999999	紙報	giấy báo	newsprint
+2834.		9999999	紙鉑	giấy bạc	banknote, paper money
+2835.		9999999	紙印	giấy in	printing paper
+2836.		9999999	爫紙	làm giấy	to certify sth. in writing
+2837.		9999999	紙曰書	giấy viết thư	letter paper
+2838.		9999999	盤紙	bàn giấy	office, secretariat; desk, writing table
+2839.	U+2C65E	689	𬙞	bảy	seven
+2840.		9999999	次𬙞	thứ bảy	saturday; seventh
+2841.	U+29D5C	690	𩵜	cá	fish
+2842.		9999999	𩵜垌	cá đồng	freshwater fish
+2843.		9999999	𩵜𣷷	cá biển	saltwater fish, sea fish
+2844.		9999999	𩵜鐄	cá vàng	goldfish
+2845.		9999999	𣈖𩵜	bóng cá	swim bladder
+2846.	U+4E9E	691	亞	Á	Asia (continent)
+2847.		9999999	洲亞	châu á	Asia
+2848.		9999999	亞洲	á châu	Asia
+2849.		9999999	亞東	á đông	east asia
+2850.	U+53F0	699	台	thay	to change, to replace
+2851.		514	台𢷮	thay đổi	to change, to modify
+2852.		1692	台爲	thay vì	instead of
+2853.	U+28887	700	𨢇	rượu	liquor
+2854.		9999999	㕵𨢇	uống rượu	to drink alcohol
+2855.		9999999	𨢇孟	rượu mạnh	strong alcohol
+2856.		9999999	𨢇禮	rượu lễ	sacramental wine
+2857.	U+606F	705	息	tức	angry, upset; 【to rest, to end, to cease】*
+2858.		9999999	息𨉟	tức mình	angry, upset
+2859.		9999999	息䏾	tức bụng	upset stomach, stomachache
+2860.		9999999	信息	tin tức	news, message, information
+2861.	U+216A2	706	𡚢	to	big, large, wide
+2862.		2375	𡚢𡘯	to lớn	big and tall; bulky; great
+2863.	U+20173	708	𠅳	quên	to forget
+2864.		4847	𠬃𠅳	bỏ quên	to forget, to leave (somewhere)
+2865.		9999999	𠅳𨉟	quên mình	self-sacrificing, devotional
+2866.	U+5F15	713	引	dẫn	to conduct, to guide, to escort
+2867.		4787	指引	chỉ dẫn	to direct, to instruct
+2868.		9999999	題引	đề dẫn	introduction, preface
+2869.		9999999	證引	chứng dẫn	to produce evidence, to prove
+2870.		9999999	絏引	dây dẫn	conducting wire, electric cord, power cord
+2871.		9999999	引電	dẫn điện	current carrying, conducting, live (electric)
+2872.		9999999	引塘	dẫn đường	to show the way
+2873.		9999999	引證	dẫn chứng	to cite, to quote
+2874.		9999999	引解	dẫn giải	to insert glosses, add marginal notes
+2875.		9999999	册引	sách dẫn	index (book)
+2876.	U+5F8B	714	律	luật	law, rule, regulation
+2877.		1542	律師	luật sư	lawyer, advocate
+2878.		9999999	菲律宾	Phi Luật Tân	Philippines
+2879.	U+4E0A	719	上	thượng	【top, above, superior】*
+2880.		9999999	上客	thượng khách	guest of honour
+2881.		9999999	上旬	thượng tuần	first ten days of a month
+2882.		9999999	上海	Thượng Hải	Shanghai
+2883.		9999999	上品	thượng phẩm	high grade (product quality)
+2884.		9999999	高上	cao thượng	high-minded, noble
+2885.	U+4B14	721	䬔	gió	wind; air
+2886.		9999999	䬔東	gió đông	easterly wind; spring wind; spring; breeze
+2887.		9999999	䬔𩅹	gió mưa	wind and rain; bad weather
+2888.		9999999	䬔𦝄	gió trăng	wind and moon; natural scenery; erotic
+2889.		9999999	𣈖䬔	bóng gió	allusive; hint
+2890.		9999999	䬔务	gió mùa	monsoon
+2891.		9999999	𨅸䬔	đứng gió	windless, calm
+2892.	U+5F90	728	徐	chờ	to wait
+2893.		9999999	徐徐	từ từ	slowly
+2894.		9999999	徐䀡	chờ xem	to wait and see
+2895.	U+898B	732	見	kiến	【to see】*
+2896.		2137	預見	dự kiến	to predict, to foresee, to anticipate
+2897.		9999999	意見	ý kiến	view, opinion
+2898.	U+52D5	733	動	động	to move
+2899.		2094	動物	động vật	animal
+2900.		3016	自動	tự động	automatic
+2901.		3594	動詞	động từ	verb
+2902.		3695	動坦	động đất	earthquake, seism
+2903.		4724	能動	năng động	dynamic
+2904.		9999999	動物學	động vật học	zoology
+2905.		9999999	被動	bị động	passive
+2906.		9999999	助動詞	trợ động từ	auxiliary verb
+2907.		9999999	打動	đánh động	to alert, to warn
+2908.	U+202E5	735	𠋥	mày	you, your (informal)
+2909.		9999999	眾𠋥	chúng mày	you (plural, informal)
+2910.	U+76E4	736	盤	bàn	table; to discuss
+2911.		1170	盤𢬣	bàn tay	hand
+2912.		4317	盤蹎	bàn chân	foot
+2913.		9999999	盤咹	bàn ăn	dinner table
+2914.		9999999	打𣈖盤	đánh bóng bàn	play table tennis
+2915.		9999999	盤論	bàn luận	to discuss
+2916.		9999999	𣈖盤	bóng bàn	table tennis
+2917.		9999999	盤紙	bàn giấy	office, secretariat; desk, writing table
+2918.		9999999	盤𫥨	bàn ra	to dissuade (from doing something)
+2919.		9999999	盤碁	bàn cờ	chessboard; chequered board
+2920.	U+642C	736	搬	bàn	【to transfer, to move】*
+2921.		9999999	搬交	bàn giao	to transfer, to hand over
+2922.	U+5CF6	743	島	đảo	island
+2923.		9999999	半島	bán đảo	peninsula
+2924.		9999999	𡉕島	hòn đảo	(small) island
+2925.	U+29179	746	𩅹	mưa	rain
+2926.		9999999	𡗶𩅹	trời mưa	rainy weather
+2927.		9999999	襖𠫾𩅹	áo đi mưa	raincoat
+2928.		9999999	䬔𩅹	gió mưa	wind and rain; bad weather
+2929.		9999999	籺𩅹	hạt mưa	rain drop
+2930.	U+696D	750	業	nghiệp	profession; trade
+2931.		1586	卒業	tốt nghiệp	to graduate
+2932.		1760	營業	doanh nghiệp	trade, business
+2933.		1934	藝業	nghề nghiệp	occupation, profession, career
+2934.		2494	工業	công nghiệp	industry
+2935.		9999999	大工業	đại công nghiệp	large-scale industry
+2936.	U+202FA	751	𠋺	tao	I, me, my (colloquial)
+2937.	U+2846E	759	𨑮	mười	ten
+2938.		9999999	堆𨑮	đôi mươi	about twenty, twentyish
+2939.	U+25A6F	762	𥩯	dựng	to erect, to raise, to set up, to put up
+2940.		426	𡏦𥩯	xây dựng	to build, to construct
+2941.		9999999	𢲧𥩯	gây dựng	to found, to stablish
+2942.	U+20C3A	767	𠰺	dạy	to teach, to educate, to train
+2943.		3794	𠰺學	dạy học	to teach (at a school)
+2944.		9999999	𠰺保	dạy bảo	to elevate, to bring up
+2945.		9999999	𠅍𠰺	mất dạy	mannerless, ill-bred
+2946.	U+7D93	768	經	kinh	classic works, prayer book
+2947.		536	經濟	kinh tế	economy
+2948.		1310	經營	kinh doanh	to carry on, to run (a business)
+2949.		9999999	經史	kinh sử	classics and history
+2950.		9999999	經財	kinh tài	economy and finance
+2951.		9999999	指数經濟	chỉ số kinh tế	economic index
+2952.	U+5C07	771	將	tướng	officer, general; minister
+2953.		992	首將	thủ tướng	chief officer; prime minister
+2954.	U+7DA0	774	綠	lục	green
+2955.		9999999	撑綠	xanh lục	green
+2956.		9999999	牟綠	màu lục	green; green color
+2957.	U+2512C	775	𥄬	ngủ	to sleep, asleep
+2958.		3898	房𥄬	phòng ngủ	bedroom
+2959.		9999999	𢞂𥄬	buồn ngủ	tired, sleepy
+2960.		9999999	𧆄𥄬	thuốc ngủ	sleeping pill, soporific
+2961.		9999999	𥄬迷	ngủ mê	to dream, to sleep deeply, to be  dead to the world
+2962.		9999999	𥄬𤯆	ngủ ngon	to sleep well
+2963.	U+6FDF	776	濟	tế	to run
+2964.		536	經濟	kinh tế	economy
+2965.		9999999	指数經濟	chỉ số kinh tế	economic index
+2966.		9999999	醫濟	y tế	healthcare
+2967.	U+969B	776	際	tế	 【border, boundary】*
+2968.		569	國際	quốc tế	international
+2969.	U+6230	777	戰	chiến	war
+2970.		646	戰爭	chiến tranh	war, warfare
+2971.		1646	戰鬥	chiến đấu	to fight, to combat
+2972.		9999999	𢲧戰	gây chiến	to provoke a war; to be a warmonger
+2973.		9999999	戰陣	chiến trận	battle, engagement
+2974.		9999999	參戰	tham chiến	to be at war, to wage war
+2975.		9999999	戰船	chiến thuyền	warship, war vessel
+2976.		9999999	艚戰	tàu chiến	warship
+2977.		9999999	夾戰	giáp chiến	to face each other in a battle
+2978.	U+7112	779	焒	lửa	fire
+2979.		9999999	扒焒	bắt lửa	to catch fire; to light
+2980.		9999999	𥒥焒	đá lửa	flint; silex
+2981.		9999999	𥏌焒	tên lửa	rocket, missile
+2982.		9999999	影焒	ảnh lửa	light of fire
+2983.		9999999	𡶀焒	núi lửa	volcano
+2984.		9999999	焒情	lửa tình	ardent zeal
+2985.		9999999	焒𢚸	lửa lòng	lust, desire
+2986.	U+24CC7	784	𤳇	trai	male; boy, young man
+2987.		763	𡥵𤳇	con trai	boy; son
+2988.		1828	払𤳇	chàng trai	fellow, lad
+2989.		4268	𢢲𤳇	đẹp trai	handsome
+2990.	U+611F	789	感	cảm	【to feel】*
+2991.		696	感𧡊	cảm thấy	to feel
+2992.		758	情感	tình cảm	sentiment, affection, emotions
+2993.		943	感恩	cám ơn	thanks, thank you
+2994.		1503	感恩	cảm ơn	thanks, thank you
+2995.		4611	感想	cảm tưởng	impression
+2996.		4702	默感	mặc cảm	complex; sense, perception
+2997.		9999999	感𢣂	cảm nghĩ	feelings, impressions, sentiment
+2998.		9999999	感傷	cảm thương	to feel pity for
+2999.	U+4F5B	792	佛	phật	Buddha
+3000.		1641	佛教	phật giáo	buddhism
+3001.		9999999	佛組	phật tổ	Gautama Buddha
+3002.		9999999	阿彌陀佛	A di đà Phật	Amitābha (name of a celestial Buddha)
+3003.		9999999	道佛	đạo phật	buddhism; buddhist (verb)
+3004.		9999999	佛堂	phật đường	buddhist pagoda
+3005.	U+54ED	793	哭	khóc	to cry, to weep, to shed tears
+3006.	U+5E9C	794	府	phủ	government; prefecture; prefect
+3007.		602	政府	chính phủ	gonvernment
+3008.	U+4E0D	795	不	bất	【non-, un-, not】*
+3009.		3028	不幸	bất hạnh	unlucky, unfortunate
+3010.		3807	不常	bất thường	unusual, extraordinary, special
+3011.		9999999	不丹	Bất Đan	Bhutan
+3012.		9999999	不仁	bất nhân	inhumane, unfeeling
+3013.	U+54C1	798	品	phẩm	【product, article】*
+3014.		108	作品	tác phẩm	work (art or literature)
+3015.		872	産品	sản phẩm	product
+3016.		9999999	物品	vật phẩm	articles, products, goods
+3017.		9999999	製品	chế phẩm	finished product
+3018.		9999999	藥品	dược phẩm	pharmaceutical product
+3019.		9999999	品類	phẩm loại	grade, quality
+3020.		9999999	上品	thượng phẩm	high grade (product quality)
+3021.		9999999	替品	thế phẩm	substitute
+3022.	U+7A76	799	究	cứu	【to examine, to investigate】*
+3023.		344	研究	nghiên cứu	to study; to examine
+3024.		3546	考究	khảo cứu	to study, to carry out scientific research
+3025.		9999999	研究生	nghiên cứu sinh	post-graduate
+3026.		9999999	查究	tra cứu	to look up, to look through
+3027.		9999999	中心研究	trung tâm nghiên cứu	research center
+3028.		9999999	院研究	viện nghiên cứu	research institute
+3029.	U+6797	802	林	lâm	【forest, woods】*
+3030.		9999999	林學	lâm học	forestry
+3031.		9999999	山林	sơn lâm	mountain and forest, greenwood
+3032.	U+529F	804	功	công	【achievement】*
+3033.		622	成功	thành công	to succeed
+3034.	U+213E6	810	𡏦	xây	to build
+3035.		426	𡏦𥩯	xây dựng	to build, to construct
+3036.	U+62D6	812	拖	đỡ	to support, to relieve; to hold up
+3037.		9999999	𠢞拖	giúp đỡ	to help, to assist
+3038.		9999999	拖頭	đỡ đầu	to sponsor (someone), to support (someone)
+3039.		9999999	拖𠳒	đỡ lời	to speak for (someone), to deliver a message
+3040.	U+5305	819	包	bao	bag; to wrap, to bundle
+3041.		412	包𣇞	bao giờ	when; ever
+3042.		718	包饒	bao nhiêu	how much, how many
+3043.		1328	包𠁟	bao gồm	including
+3044.		1652	别包	biết bao	so much, so many
+3045.		9999999	空包𣇞	không bao giờ	never
+3046.		9999999	庄包𣇞	chẳng bao giờ	never
+3047.		9999999	包𢬣	bao tay	glove
+3048.		9999999	包紙	bao giấy	paper bag
+3049.		9999999	包書	bao thơ	envelope
+3050.		9999999	包𥹰	bao lâu	how long?
+3051.	U+9AD4	821	體	thể	【body】*
+3052.		72	固體	có thể	possibly, maybe; may, can
+3053.		282	空體	không thể	impossible; unable, incapable
+3054.		1181	機體	cơ thể	organism; (human) body
+3055.		1798	物體	vật thể	body, object
+3056.		3259	身體	thân thể	(human) body
+3057.		9999999	主體	chủ thể	main part, essential part; subject
+3058.		9999999	簡體	giản thể	simplified
+3059.		9999999	正體	chính thể	conventional (character), traditional (character)
+3060.	U+6CBB	837	治	trị	to cure, to treat; 【to regulate, to administer】*
+3061.		808	政治	chính trị	politics, political
+3062.		9999999	地政治	địa chính trị	geopolitics
+3063.		9999999	黨治	đảng trị	(one) party rule, (one) party government
+3064.		9999999	治病	trị bệnh	to medicate, to cure
+3065.		9999999	政治家	chính trị gia	politician
+3066.		9999999	政治犯	chính trị phạm	political prisoner
+3067.		9999999	家庭治	gia đình trị	nepotism
+3068.		9999999	内治	nội trị	home affairs, home policy; internal affairs, internal policy
+3069.		9999999	法治	pháp trị	rule of law
+3070.		9999999	自治	tự trị	autonomous, autonomy
+3071.		9999999	主治	chủ trị	leader, ruler
+3072.	U+5024	837	値	trị	【value, worth】*
+3073.		466	價値	giá trị	value, worth
+3074.		9999999	化値	hoá trị	valence (in chemistry)
+3075.		9999999	多値	đa trị	polyvalent (in chemistry)
+3076.	U+7D50	838	結	kết	to tie, to knot
+3077.		786	結果	kết quả	result
+3078.		1555	結合	kết hợp	to combine, to coordinate
+3079.		3370	終結	chung kết	final, finals
+3080.		3935	總結	tổng kết	to sum up, to conclude; summary
+3081.		9999999	連結	liên kết	to link, to connect
+3082.		9999999	結縁	kết duyên	to join in wedlock, to tie a knot
+3083.	U+275B1	843	𧖱	máu	blood
+3084.		9999999	𧖱貪	máu tham	cupidity
+3085.		9999999	銀行𧖱	ngân hàng máu	blood bank
+3086.	U+5341	854	十	thập	【ten】*
+3087.		9999999	紅十字	hồng thập tự	Red Cross
+3088.		9999999	𡦂十𧹼	chữ thập đỏ	Red Cross
+3089.		9999999	十年	thập niên	decade
+3090.	U+6B50	858	歐	âu	just, perhaps; 【european】*
+3091.		2754	歐洲	âu châu	Europe
+3092.		9999999	洲歐	châu âu	Europe
+3093.		9999999	歐𪜀	âu là	preferably, rather
+3094.	U+4ED9	860	仙	tiên	fairy, immortal
+3095.		9999999	娘仙	nàng tiên	fairy
+3096.	U+5148	860	先	tiên	first, firstly
+3097.		271	頭先	đầu tiên	(very) first
+3098.		2493	祖先	tổ tiên	ancestor, forefather
+3099.		9999999	吝頭先	lần đầu tiên	the (very) first time
+3100.	U+4E0B	863	下	hạ	to lower, to set down, to take down
+3101.		2118	天下	thiên hạ	the whole (inhabited) world
+3102.		3900	下院	hạ viện	Lower House, House of Commons (UK), House of Representatives (USA)
+3103.		9999999	下筆	hạ bút	set pen to paper
+3104.		9999999	部下	bộ hạ	subordinate
+3105.		9999999	下部	hạ bộ	lower part of the abdomen
+3106.		9999999	級下	cấp hạ	lower class, low-ranking, low-grade
+3107.		9999999	下旗	hạ cờ	to lower the flag
+3108.		9999999	下價	hạ giá	to lower the price; to debase
+3109.		9999999	下界	hạ giới	this world
+3110.		9999999	下龍	Hạ Long	Ha Long (city in Vietnam)
+3111.		9999999	下𨉟	hạ mình	to condescend; to demean oneself
+3112.		9999999	下水	hạ thuỷ	to launch (a ship)
+3113.		9999999	生下	sinh hạ	to give birth to
+3114.		9999999	下馬	hạ mã	to dismount from a horse
+3115.	U+3E65	866	㹥	chó	dog
+3116.		9999999	㹥𣩂	chó chết	damn, damned (colloquial)
+3117.		9999999	㹥猫	chó mèo	cats and dogs
+3118.	U+72AC	866	犬	khuyển	【dog】*
+3119.	U+6C99	878	沙	sa	【sand; granulated】*
+3120.	U+5E97	884	店	tiệm	shop
+3121.		9999999	店咹	tiệm ăn	restaurant
+3122.	U+22720	888	𢜠	mừng	happy, glad
+3123.		2982	嘲𢜠	chào mừng	to welcome someone; in honor of
+3124.		3621	祝𢜠	chúc mừng	to congratulate
+3125.		9999999	祝𢜠𢆥㵋	chúc mừng năm mới	happy new year!
+3126.		9999999	咹𢜠	ăn mừng	to celebrate with a feast
+3127.		9999999	𢜠歲	mừng tuổi	to express new year's day wishes (for being one year older)
+3128.	U+767C	889	發	phát	to deliver, to distribute, to issue
+3129.		438	發展	phát triển	to develop, to grow, to expand
+3130.		849	發現	phát hiện	to discover; to excavate
+3131.		9999999	發音	phát âm	pronunciation
+3132.		9999999	發節	phát tiết	to appear, to display, to show up
+3133.		9999999	發問	phát vấn	conversational, by asking and questioning, maieutic
+3134.	U+843B	892	萻	ấm	warm
+3135.	U+6B64	896	此	thử	【this; then】*
+3136.		9999999	成此	thành thử	therefore, so, hence
+3137.	U+2A004	899	𪀄	chim	bird
+3138.	U+5F48	905	彈	đàn	group of beings of the same kind, drove, flock, herd; to play on stringed instruments, stringed music instrument
+3139.		479	彈翁	đàn ông	man, adult male person
+3140.		879	彈婆	đàn bà	woman
+3141.		9999999	彈爭	đàn tranh	vietnamese zither
+3142.	U+8001	907	老	lão	old, aged
+3143.		9999999	翁老	ông lão	old gentleman
+3144.		9999999	𢢲老	đẹp lão	hale, hale and hearty
+3145.		9999999	鄉老	hương lão	village elders
+3146.		9999999	老婆	lão bà	old lady
+3147.		9999999	老教	lão giáo	Taoism
+3148.	U+5272	916	割	cắt	to cut; to cut off
+3149.	U+8239	917	船	thuyền	ship, boat, vessel
+3150.		4466	船長	thuyền trưởng	captain, ship captain
+3151.		9999999	戰船	chiến thuyền	warship, war vessel
+3152.	U+22EBA	924	𢺺	chia	to share; to divide, to split
+3153.		575	𢺺𢩿	chia sẻ	to share
+3154.		2196	𢺺𢬣	chia tay	to say good bye; to go shares
+3155.		9999999	分𢺺	phân chia	to divide
+3156.	U+7D44	931	組	tổ	group, team; to form, to organize
+3157.		150	組織	tổ chức	to organize
+3158.		9999999	佛組	phật tổ	Gautama Buddha
+3159.		9999999	組合	tổ hợp	combination, cooperation
+3160.		9999999	改組	cải tổ	to reorganize
+3161.	U+7956	931	祖	tổ	【ancestor, forefather; grandfather】*
+3162.		1724	祖國	tổ quốc	fatherland
+3163.		2493	祖先	tổ tiên	ancestor, forefather
+3164.	U+7C93	937	粓	cơm	(cooked) rice
+3165.		2872	咹粓	ăn cơm	to eat a meal
+3166.		9999999	粓糝	cơm tấm	broken rice with meat and vegetables (dish)
+3167.		9999999	粓黰	cơm đen	opium (colloquial)
+3168.	U+57DF	940	域	vực	【area, region, domain, field】*
+3169.		499	區域	khu vực	zone, area
+3170.		9999999	地域	địa vực	territory
+3171.	U+6599	947	料	liệu	【materials, ingredients】*
+3172.		1194	材料	tài liệu	material, document
+3173.		3274	物料	vật liệu	material
+3174.		4517	数料	số liệu	data
+3175.		9999999	香料	hương liệu	spice, condiment
+3176.		9999999	定料	định liệu	to make arrangements for
+3177.		9999999	藥料	dược liệu	drug; medicine
+3178.	U+5408	963	合	hợp	to fit; to join
+3179.		867	場合	trường hợp	occasion, circumstance
+3180.		1555	結合	kết hợp	to combine, to coordinate
+3181.		2340	集合	tập hợp	collection
+3182.		2583	適合	thích hợp	to fit, to suit, suitable
+3183.		9999999	組合	tổ hợp	combination, cooperation
+3184.		9999999	聯合	liên hợp	union, association; to link, to join; to conjugate
+3185.		9999999	合營	hợp doanh	to share a venture, to joint-venture, to cooperate
+3186.		9999999	合分	hợp phần	constituent, component
+3187.		9999999	合邦	hợp bang	confederation
+3188.		9999999	合金	hợp kim	alloy
+3189.	U+7E54	967	織	chức	office; 【to organize】*
+3190.		150	組織	tổ chức	to organize
+3191.	U+9251	972	鉑	bạc	silver
+3192.		1434	錢鉑	tiền bạc	money
+3193.		9999999	銅鉑	đồng bạc	piastre; silver dollar
+3194.		9999999	紙鉑	giấy bạc	banknote, paper money
+3195.	U+8005	974	者	giả	【the one who, that person】*
+3196.		182	作者	tác giả	author
+3197.		522	讀者	độc giả	reader
+3198.		1051	看者	khán giả	spectator, audience
+3199.		2524	學者	học giả	scholar, literary man
+3200.		9999999	記者	ký giả	reporter, journalist, pressman
+3201.	U+6C34	977	水	thuỷ	【water, liquid】*
+3202.		9999999	湖水	hồ thuỷ	pale blue
+3203.		9999999	𣋀水	sao thuỷ	Mercury (planet)
+3204.		9999999	下水	hạ thuỷ	to launch (a ship)
+3205.		9999999	瓶水	bình thuỷ	thermos bottle
+3206.	U+4FD7	981	俗	tục	vulgar, crude; 【social customs】*
+3207.		509	接俗	tiếp tục	continuous, successive
+3208.		9999999	鄉俗	hương tục	village custom
+3209.		9999999	𠸜俗	tên tục	birth name
+3210.		9999999	世俗	thế tục	profane, secular, mundane
+3211.		9999999	俗語	tục ngữ	proverb, common saying
+3212.	U+5ABD	982	媽	má	mother
+3213.		9999999	爸媽	ba má	parents, father and mother
+3214.	U+695B	986	楛	gỗ	wood, timber
+3215.		9999999	楛𣘃	gỗ cây	rough timber
+3216.	U+4EA4	989	交	giao	to deliver, to hand over, to exchange; 【to communicate】*
+3217.		9999999	交行	giao hàng	to deliver goods
+3218.		9999999	搬交	bàn giao	to transfer, to hand over
+3219.		9999999	外交	ngoài giao	diplomacy
+3220.	U+7551	993	畑	đèn	lamp, light
+3221.		9999999	𣈖畑	bóng đèn	light bulb
+3222.		9999999	畑電	đèn điện	electric light; electric lamp
+3223.	U+22DEE	996	𢷮	đổi	to change, to exchange, to switch, to convert
+3224.		514	台𢷮	thay đổi	to change, to modify
+3225.		2356	𢷮㵋	đổi mới	to innovate, to renovate
+3226.	U+8209	1005	舉	cử	to raise; to elect
+3227.		4737	舉行	cử hành	to celebrate, to host (an event)
+3228.		4933	舉人	cử nhân	bachelor, imperial examination graduate 
+3229.		9999999	試舉	thi cử	examination
+3230.		9999999	民舉	dân cử	elective, people-elected
+3231.	U+7B46	1006	筆	bút	brush; pen
+3232.		9999999	主筆	chủ bút	chief editor, editor-in-chief
+3233.		9999999	下筆	hạ bút	set pen to paper
+3234.	U+6848	1016	案	án	(legal) case, sentence; small table
+3235.		730	預案	dự án	emergency plan; draft; project
+3236.	U+9818	1018	領	lãnh	to receive; 【to lead】*
+3237.		4667	保領	bảo lãnh	to act as guarantor for, to stand surety, to bail for
+3238.		9999999	領事	lãnh sự	consul
+3239.		9999999	總領事	tổng lãnh sự	consul general
+3240.	U+4F5C	1039	作	tác	【to make, to work, to compose】*
+3241.		108	作品	tác phẩm	work (art or literature)
+3242.		182	作者	tác giả	author
+3243.		1011	工作	công tác	mission; business
+3244.		3424	製作	chế tác	to invent, to create
+3245.		9999999	作家	tác gia	author
+3246.	U+99AC	1045	馬	mã	【horse】*
+3247.		9999999	軍馬	quân mã	troops; knight (in chess)
+3248.		9999999	下馬	hạ mã	to dismount from a horse
+3249.		9999999	馬力	mã lực	horsepower
+3250.	U+8272	1054	色	sắc	color; beauty
+3251.		1332	牟色	màu sắc	color
+3252.		1771	特色	đặc sắc	special, of special quality
+3253.		3795	色𢢲	sắc đẹp	beauty, glamour
+3254.	U+8FF7	1056	迷	mê	to be fascinated; to loose consciousness, to faint
+3255.		9999999	𥄬迷	ngủ mê	to dream, to sleep deeply, to be  dead to the world
+3256.		9999999	𦣰迷	nằm mê	to dream, to have a dream (while sleeping)
+3257.	U+6C23	1076	氣	khí	【air, steam】*
+3258.		1223	空氣	không khí	air; atmosphere
+3259.		3495	氣候	khí hậu	climate
+3260.		9999999	氣勢	khí thế	momentum, impetus
+3261.		9999999	輕氣	khinh khí	hydrogen
+3262.		9999999	壓力空氣	áp lực không khí	atmospheric pressure
+3263.	U+5E2B	1091	師	sư	【teacher, master】*
+3264.		1055	教師	giáo sư	professor
+3265.		1542	律師	luật sư	lawyer, advocate
+3266.		9999999	師長	sư trưởng	master, mastermind; military division commander
+3267.	U+20C18	1094	𠰘	miệng	mouth
+3268.		9999999	𨷑𠰘	mở miệng	to speak out, to pipe up
+3269.		9999999	輪𠰘	luôn miệng	to talk incessantly
+3270.		9999999	𤯆𠰘	ngon miệng	tasty; with good appetite
+3271.		9999999	𡨹𠰘	giữ miệng	to be cautious in one's words, to hold one's tongue
+3272.		9999999	外𠰘	ngoài miệng	lip service
+3273.	U+2466D	1106	𤙭	bò	cow, ox, beef
+3274.	U+5A66	1108	婦	phụ	wife, woman, married woman
+3275.		300	婦女	phụ nữ	woman
+3276.		9999999	少婦	thiếu phụ	young woman
+3277.		9999999	産婦	sản phụ	woman in childbirth
+3278.		9999999	婦人	phụ nhân	woman
+3279.	U+8F14	1108	輔	phụ	to help, to assist, to aid
+3280.		9999999	輔音	phụ âm	consonant
+3281.		9999999	半輔音	bán phụ âm	semi-consonant
+3282.		9999999	藝輔	nghề phụ	side-job, sideline
+3283.		9999999	輔道	phụ đạo	to give extra-class help
+3284.		9999999	輔注	phụ chú	to annotate
+3285.		9999999	輔教	phụ giáo	assistant (at university)
+3286.		9999999	輔詞	phụ từ	adjunct (grammar)
+3287.	U+66AB	1110	暫	tạm	temporary, provisional
+3288.		2965	暫時	tạm thời	provisional; temporary; for the time being
+3289.		4911	暫别	tạm biệt	goodbye
+3290.	U+4F7F	1111	使	sứ	ambassador; 【envoy, ambassador; to make, to cause, to use】*
+3291.		394	使用	sử dụng	to use, to utilize, to employ
+3292.		1805	大使	đại sứ	ambassador
+3293.		9999999	天使	thiên sứ	angel
+3294.		9999999	特使	đặc sứ	special envoy, ambassador extraordinary
+3295.	U+53F2	1111	史	sử	history
+3296.		287	歷史	lịch sử	history
+3297.		3154	史學	sử học	history (field of study)
+3298.		4407	史册	sử sách	books of history and legends
+3299.		4477	小史	tiểu sử	biography, history
+3300.		9999999	黨史	đảng sử	party history
+3301.		9999999	經史	kinh sử	classics and history
+3302.		9999999	前史	tiền sử	prehistoric; prehistory
+3303.	U+554A	1116	啊	à	oh, aha, I see
+3304.	U+9B25	1125	鬥	đấu	to fight, to compete
+3305.		1375	鬥價	đấu giá	to auction
+3306.		1646	戰鬥	chiến đấu	to fight, to combat
+3307.		1955	鬥爭	đấu tranh	to fight, to struggle for
+3308.		9999999	鬥跢	đấu đá	to struggle, to attack
+3309.	U+6597	1125	斗	đấu	peck, bushel
+3310.		9999999	𣋀北斗	Sao Bắc Đẩu	Big Dipper
+3311.		9999999	北斗七星	Bắc Đẩu thất tinh	Big Dipper
+3312.	U+60DC	1129	惜	tiếc	to regret, to be sorry, to grudge
+3313.		9999999	悔惜	hối tiếc	to repent, to regret
+3314.		9999999	𢖵惜	nhớ tiếc	to think with deep regret of
+3315.	U+552F	1131	唯	dạ	yes, yes sir, affirmative!
+3316.		1048	唯一	duy nhất	unique, only
+3317.		9999999	唯𠳐	dạ vâng	yes; all right
+3318.	U+53CD	1138	反	phản	to betray, to be disloyal to
+3319.		1614	反對	phản đối	to oppose, to object (to)
+3320.		9999999	相反	tương phản	contrast
+3321.	U+679C	1163	果	quả	fruit; result
+3322.		786	結果	kết quả	result
+3323.		9999999	𥃑五果	Mâm ngũ quả	Five fruits dish
+3324.	U+6912	1172	椒	tiêu	pepper
+3325.		9999999	籺椒	hạt tiêu	peppercorn
+3326.	U+6559	1180	教	giáo	to teach, to educate
+3327.		915	教育	giáo dục	to educate, education
+3328.		1055	教師	giáo sư	professor
+3329.		1629	宗教	tôn giáo	religious
+3330.		1641	佛教	phật giáo	buddhism
+3331.		1667	回教	hồi giáo	islam
+3332.		2522	教員	giáo viên	teacher, instructor
+3333.		3975	偨教	thầy giáo	schoolmaster
+3334.		4454	教皇	giáo hoàng	pope
+3335.		9999999	教堂	giáo đường	palace of worship, church
+3336.		9999999	孔教	Khổng giáo	Confucianism
+3337.		9999999	儒教	nho giáo	Confucianism
+3338.		9999999	老教	lão giáo	Taoism
+3339.		9999999	印度教	ấn độ giáo	hinduism
+3340.		9999999	教務	giáo vụ	educational administration
+3341.		9999999	輔教	phụ giáo	assistant (at university)
+3342.		9999999	禮教	lễ giáo	rites, ethical behaviour
+3343.		9999999	指教	chỉ giáo	to counsel, to educate
+3344.		9999999	姑教	cô giáo	woman teacher, schoolmistress
+3345.	U+7CBE	1182	精	tinh	【pure, clear; essence; spirit; perfect】*
+3346.		702	精神	tinh thần	mind, spirit, vigor
+3347.		9999999	精明	tinh minh	clear
+3348.	U+661F	1182	星	tinh	【star, planet】*
+3349.		3452	行星	hành tinh	planet
+3350.		9999999	閻王星	Diêm Vương Tinh	Pluto
+3351.		9999999	北斗七星	Bắc Đẩu thất tinh	Big Dipper
+3352.		9999999	火星	Hoả Tinh	Mars
+3353.	U+798F	1185	福	phước	happiness
+3354.		588	幸福	hạnh phúc	happiness
+3355.	U+79D1	1187	科	khoa	field of study, subject of study
+3356.		594	科學	khoa học	science
+3357.		9999999	科長	khoa trưởng	dean, head of a university department
+3358.		9999999	長科	trưởng khoa	dean, head of a university department
+3359.		9999999	科學技術	khoa học kỹ thuật	science and technology
+3360.	U+91CF	1192	量	lượng	quantity, measure
+3361.		1233	数量	số lượng	quantity
+3362.		1279	力量	lực lượng	strengh, force, power
+3363.		2270	能量	năng lượng	energy
+3364.	U+8336	1199	茶	trà	tea; tea plant
+3365.		9999999	茶撑	trà xanh	green tea
+3366.		9999999	花茶	hoa trà	camelia
+3367.		9999999	渃茶	nước trà	tea (beverage)
+3368.		9999999	房茶	phòng trà	tea room; tea shop
+3369.	U+7E01	1201	縁	duyên	charm, grace, loveliness; 【cause, reason】*
+3370.		9999999	𢢲縁	đệp duyên	to make a match between two people
+3371.		9999999	縁由	duyên do	reason, cause
+3372.		9999999	人縁	nhân duyên	predestined affinity
+3373.		9999999	結縁	kết duyên	to join in wedlock, to tie a knot
+3374.		9999999	縁数	duyên số	predestined fate
+3375.		9999999	求縁	cầu duyên	to pray for good chances in love
+3376.	U+7F6E	1203	置	trí	【to place, to set aside】*
+3377.		1027	位置	vị trí	position, place
+3378.	U+7E87	1206	纇	lỗi	mistake; fault; error
+3379.		1596	吀纇	xin lỗi	to beg for pardon; Excuse me! Sorry!
+3380.	U+52A9	1211	助	trợ	【to help, to assist】*
+3381.		1354	互助	hỗ trợ	to help one another
+3382.		3202	保助	bảo trợ	to sponsor
+3383.		9999999	助動詞	trợ động từ	auxiliary verb
+3384.		9999999	助理	trợ lý	assistant
+3385.		9999999	助手	trợ thủ	assistant, helper, supporter
+3386.	U+2052D	1213	𠔭	tám	eight
+3387.	U+5C0F	1219	小	tiểu	【small, tiny】*
+3388.		1386	小邦	tiểu bang	state
+3389.		2961	小學	tiểu học	primary education
+3390.		4477	小史	tiểu sử	biography, history
+3391.		9999999	小熊	tiểu hùng	little dipper (stellar constellation)
+3392.		9999999	場小學	trường tiểu học	elementary school
+3393.	U+5F8C	1222	後	hậu	【after, behind】*
+3394.		9999999	後堂	hậu đường	building at the back of a mansion
+3395.		9999999	落後	lạc hậu	backward
+3396.		9999999	後裔	hậu duệ	descendant
+3397.		9999999	最後	tối hậu	final, last, ultimate
+3398.		9999999	最後書	tối hậu thư	ultimatum
+3399.		9999999	後屬地	hậu thuộc địa	post-colonial
+3400.	U+5165	1244	入	nhập	to join, to enter; to import
+3401.		3333	加入	gia nhập	to adhere; to accede
+3402.		9999999	入學	nhập học	beginning of (school) term
+3403.		9999999	入景	nhập cảnh	entry; entrance; to enter a country; to cross a country's border
+3404.		9999999	入口	nhập khẩu	to import
+3405.		9999999	入會	nhập hội	to be admitted to an association
+3406.		9999999	入内	nhập nội	to introduce; to acclimatize, to naturalize
+3407.		9999999	入局	nhập cuộc	to be an insider, to take part in
+3408.	U+80FD	1248	能	năng	【ability, capability, to be able to】*
+3409.		1512	才能	tài năng	talent, ability
+3410.		2270	能量	năng lượng	energy
+3411.		3303	能力	năng lực	ability, capability
+3412.		4724	能動	năng động	dynamic
+3413.		9999999	内能	nội năng	internal energy
+3414.		9999999	權能	quyền năng	juridical power
+3415.		9999999	萬能	vạn năng	omnipotent
+3416.	U+847B	1254	葻	bông	flower
+3417.		9999999	葻蘭	bông lan	orchid
+3418.		9999999	葻花	bông hoa	flowers
+3419.		9999999	葻蓮	bông sen	lotus flower
+3420.	U+76EE	1255	目	mục	section, topic; program item; 【eye】*
+3421.		2900	節目	tiết mục	program item
+3422.	U+200E9	1257	𠃩	chín	nine
+3423.	U+85E5	1259	藥	dược	medicine, pharmacy
+3424.		9999999	藥品	dược phẩm	pharmaceutical product
+3425.		9999999	東藥	đông dược	oriental medicine
+3426.		9999999	没藥	một dược	myrrh
+3427.		9999999	藥典	dược điển	pharmacopoeia
+3428.		9999999	藥學	dược học	pharmacy, pharmaceutics
+3429.		9999999	藥料	dược liệu	drug; medicine
+3430.		9999999	藥房	dược phòng	drugstore, chemist's shop
+3431.		9999999	藥士	dược sĩ	pharmacist, chemist
+3432.	U+24BC6	1261	𤯆	ngon	tasty, delicious; well, easy
+3433.		9999999	𤯆眜	ngon mắt	pleasant to the eye, appealing
+3434.		9999999	𤯆𠰘	ngon miệng	tasty; with good appetite
+3435.		9999999	𥄬𤯆	ngủ ngon	to sleep well
+3436.	U+29132	1282	𩄲	mây	cloud
+3437.		9999999	蹎𩄲	chân mây	horizon, line of horizon
+3438.	U+544C	1287	呌	kêu	to call; to cry
+3439.		1457	呌噲	kêu gọi	to appeal, to call upon
+3440.		9999999	呌求	kêu cầu	to pray for help (from higher levels)
+3441.		9999999	呌𡗶	kêu trời	to implore God, to beseech God, to pray for help
+3442.	U+26744	1292	𦝄	trăng	moon
+3443.		4644	𩈘𦝄	mặt trăng	moon
+3444.		9999999	𣈖𦝄	bóng trăng	moon
+3445.		9999999	䬔𦝄	gió trăng	wind and moon; natural scenery; erotic
+3446.	U+5632	1311	嘲	chào	to greet
+3447.		2982	嘲𢜠	chào mừng	to welcome someone; in honor of
+3448.		9999999	吀嘲	xin chào	(common greeting); Good afternoon/evening!
+3449.	U+7368	1319	獨	độc	【alone, single】*
+3450.		985	獨到	độc đáo	unique
+3451.		1059	獨身	độc thân	single, unmated
+3452.		1470	獨立	độc lập	independence, independency
+3453.	U+5371	1348	危	nguy	【dangerous】*
+3454.		1516	危險	nguy hiểm	dangerous, risky, perilous
+3455.	U+7AE0	1389	章	chương	chapter, section
+3456.		422	章程	chương trình	programme, schedule; computer program, software
+3457.	U+59B8	1390	妸	gã	lad, bloke, underdog
+3458.	U+97F3	1393	音	âm	sound; noise
+3459.		1277	音樂	âm nhạc	music
+3460.		2112	回音	hồi âm	to reply
+3461.		2301	音聲	âm thanh	sound
+3462.		9999999	音樂古典	âm nhạc cổ điển	classical music
+3463.		9999999	半音	bán âm	semivowel
+3464.		9999999	音響	âm hưởng	sonority, harmony, music
+3465.		9999999	發音	phát âm	pronunciation
+3466.		9999999	輔音	phụ âm	consonant
+3467.		9999999	半輔音	bán phụ âm	semi-consonant
+3468.		9999999	觀音	quan âm	Quan Am, goddess of mercy
+3469.		9999999	同音	đồng âm	homophone; homonym
+3470.		9999999	音節	âm tết	syllable
+3471.		9999999	多音節	đa âm tiết	polysyllabic
+3472.		9999999	元音	nguyên âm	vowel
+3473.	U+9670	1393	陰	âm	【lunar; female】*
+3474.		1460	陰曆	âm lịch	lunar calendar
+3475.		3690	陰謀	âm mưu	plot
+3476.	U+984C	1399	題	đề	topic, subject
+3477.		428	問題	vấn đề	problem, matter, question, issue
+3478.		956	主題	chủ đề	theme, subject, motif, leitmotiv
+3479.		1153	題材	đề tài	subject matter, theme
+3480.		2800	題出	đề xuất	to put forward (for discussion)
+3481.		9999999	論題	luận đề	topic, subject of discussion
+3482.		9999999	題引	đề dẫn	introduction, preface
+3483.	U+63D0	1399	提	đề	【to hold】*
+3484.		2173	提及	đề cập	to mention something
+3485.		2954	提防	đề phòng	to take precautions, to beware
+3486.		4243	提高	đề cao	to heighten; to think highly of
+3487.		9999999	前提	tiền đề	premise, precondition, prerequisite
+3488.	U+7C7A	1415	籺	hột	grain, seed
+3489.		9999999	籺椒	hạt tiêu	peppercorn
+3490.		9999999	夾籺	giáp hạt	between-crop period
+3491.		9999999	籺珠	hạt châu	pearl
+3492.		9999999	籺𩅹	hạt mưa	rain drop
+3493.		9999999	籺蓮	hạt sen	lotus seed
+3494.	U+842C	1426	萬	vạn	ten thousand
+3495.		9999999	萬物	vạn vật	all things and living beings
+3496.		9999999	萬一	vạn nhất	in the rare case of, by any chance
+3497.		9999999	萬能	vạn năng	omnipotent
+3498.		9999999	𠬠萬	một vạn	ten thousand
+3499.	U+88FD	1432	製	chế	to manufacture, to produce
+3500.		3424	製作	chế tác	to invent, to create
+3501.		3429	製造	chế tạo	to manufacture
+3502.		9999999	製品	chế phẩm	finished product
+3503.	U+5178	1437	典	điển	classic written source
+3504.		2916	詞典	từ điển	dictionary (of words)
+3505.		3513	古典	cổ điển	classic, classical
+3506.		9999999	音樂古典	âm nhạc cổ điển	classical music
+3507.		9999999	字典	tự điển	dictionary (of characters)
+3508.		9999999	藥典	dược điển	pharmacopoeia
+3509.	U+7D4F	1438	絏	dây	rope; cord; wire; string
+3510.		9999999	絏引	dây dẫn	conducting wire, electric cord, power cord
+3511.		9999999	絏電	dây điện	electric cable, power line, current line
+3512.	U+74CA	1447	瓊	quỳnh	【jade; rare, precious; elegant】*
+3513.	U+529B	1448	力	lực	force, strength
+3514.		1267	壓力	áp lực	pressure
+3515.		1279	力量	lực lượng	strengh, force, power
+3516.		2060	權力	quyền lực	power, might, authority
+3517.		3303	能力	năng lực	ability, capability
+3518.		9999999	唏力	hơi sức	physical energy, power
+3519.		9999999	馬力	mã lực	horsepower
+3520.		9999999	壓力空氣	áp lực không khí	atmospheric pressure
+3521.	U+5185	1451	内	nội	inside; paternal
+3522.		4560	内地	nội địa	inland, domestic
+3523.		4912	内務	nội vụ	home affairs
+3524.		9999999	内堂	nội đường	in-house, inside the house
+3525.		9999999	内在	nội tại	immanent, inherent, innate, intrinsic
+3526.		9999999	内治	nội trị	home affairs, home policy; internal affairs, internal policy
+3527.		9999999	婆内	bà nội	paternal grandmother
+3528.		9999999	内能	nội năng	internal energy
+3529.		9999999	家庭边内	gia đình bên nội	family on the paternal (father's) side
+3530.		9999999	河内	Hà Nội	Hanoi
+3531.		9999999	入内	nhập nội	to introduce; to acclimatize, to naturalize
+3532.	U+5F85	1453	待	đợi	to wait
+3533.	U+591A	1459	多	đa	many; much; numerous
+3534.		2659	最多	tối đa	maximum, maximal
+3535.		4267	多分	đa phần	most; mostly, for the most part
+3536.		9999999	多値	đa trị	polyvalent (in chemistry)
+3537.		9999999	多音節	đa âm tiết	polysyllabic
+3538.	U+732B	1481	猫	mèo	cat
+3539.		9999999	㹥猫	chó mèo	cats and dogs
+3540.	U+7881	1505	碁	cờ	chess
+3541.		9999999	盤碁	bàn cờ	chessboard; chequered board
+3542.	U+53E3	1525	口	khẩu	【mouth; entrance; gate】*
+3543.		9999999	戶口	hộ khẩu	registered residence; population, number of inhabitants
+3544.		9999999	口分	khẩu phần	ration
+3545.		9999999	出口	xuất khẩu	export; to export
+3546.		9999999	入口	nhập khẩu	to import
+3547.		9999999	海口	hải khẩu	river delta, estuary
+3548.	U+6069	1573	恩	ơn	favour; 【kindness, mercy】*
+3549.		943	感恩	cám ơn	thanks, thank you
+3550.		1503	感恩	cảm ơn	thanks, thank you
+3551.		9999999	𠭤恩	trả ơn	to thank so. (for sth.)
+3552.		9999999	情恩	tình ân	deep feeling of gratitude
+3553.		9999999	恩人	ân nhân	benefactor, benefactress
+3554.		9999999	恩情	ân tình	with deep gratitude
+3555.	U+9650	1575	限	hạn	limit; term
+3556.		2154	界限	giới hạn	limit; term; bound
+3557.	U+5A92	1582	媒	môi	【medium, intermediary, agent, go-between】*
+3558.		1031	媒場	môi trường	environment; medium
+3559.		9999999	媒介	môi giới	agency, medium, intermediary
+3560.		9999999	媒場學	môi trường học	environmental sciences, ecology, mesology
+3561.	U+8B49	1611	證	chứng	evidence, proof
+3562.		2366	凭證	bằng chứng	evidence, proof
+3563.		9999999	證引	chứng dẫn	to produce evidence, to prove
+3564.		9999999	引證	dẫn chứng	to cite, to quote
+3565.	U+97FF	1622	響	hưởng	【to make noise; sound】*
+3566.		754	影響	ảnh hưởng	to influence; influence, effect, impact
+3567.		9999999	音響	âm hưởng	sonority, harmony, music
+3568.	U+237EE	1651	𣟮	mềm	soft; tender
+3569.	U+5730	1655	地	địa	【earth, soil, ground】*
+3570.		785	地方	địa phương	region; regional
+3571.		1534	地點	địa điểm	location, place, site
+3572.		1708	地址	địa chỉ	address
+3573.		3877	本地	bản địa	native, indigenous; vernacular
+3574.		4029	屬地	thuộc địa	colony, annexed territory
+3575.		4030	地獄	địa ngục	hell
+3576.		4560	内地	nội địa	inland, domestic
+3577.		4773	陸地	lục địa	land
+3578.		9999999	地政治	địa chính trị	geopolitics
+3579.		9999999	地勢	địa thế	terrain, site
+3580.		9999999	地質學	địa chất học	geology
+3581.		9999999	地中海	Địa Trung Hải	Mediterranean Sea, Mediterranean
+3582.		9999999	地域	địa vực	territory
+3583.		9999999	後屬地	hậu thuộc địa	post-colonial
+3584.		9999999	地球	Địa Cầu	Earth
+3585.		9999999	地理	địa lý	geography
+3586.		9999999	客地	khách địa	foreign land
+3587.	U+9593	1656	間	gian	【space, interval; between】*
+3588.		198	時間	thời gian	time
+3589.	U+571F	1674	土	thổ	earch; soil
+3590.		9999999	𣋀土	sao thổ	Saturn
+3591.		9999999	土耳其	Thổ Nhĩ Kỳ	Turkey
+3592.	U+7AF6	1707	競	cạnh	【to compete】*
+3593.		2582	競爭	cạnh tranh	to compete
+3594.	U+5740	1721	址	chỉ	【site, location】*
+3595.		1708	地址	địa chỉ	address
+3596.		9999999	遺址	di chỉ	archaeological site
+3597.	U+5931	1725	失	thất	【to lose; to make a mistake】*
+3598.		9999999	失陣	thất trận	to loose a battle, to be defeated
+3599.		9999999	失常	thất thường	irregular, erratic
+3600.	U+66C6	1732	曆	lịch	calendar
+3601.		1460	陰曆	âm lịch	lunar calendar
+3602.	U+6B77	1732	歷	lịch	【passing, successive, throughout; past, historic】*
+3603.		287	歷史	lịch sử	history
+3604.		399	遊歷	du lịch	to travel
+3605.	U+4ED6	1735	他	thà	rather, better
+3606.		9999999	庄他	chẳng thà	rather, better
+3607.	U+5E78	1748	幸	hạnh	【luck, fortunate】*
+3608.		588	幸福	hạnh phúc	happiness
+3609.		3028	不幸	bất hạnh	unlucky, unfortunate
+3610.	U+674F	1748	杏	hạnh	apricot tree
+3611.		9999999	杏仁	hạnh nhân	almond
+3612.	U+51FA	1751	出	xuất	 【to go out; to produce】*
+3613.		335	出版	xuất bản	to publish
+3614.		616	出現	xuất hiện	to appear; appearance
+3615.		840	産出	sản xuất	to produce, to manufacture
+3616.		2800	題出	đề xuất	to put forward (for discussion)
+3617.		9999999	出口	xuất khẩu	export; to export
+3618.	U+53CA	1764	及	cập	to land, to lay alongside; 【to reach, to arrive】*
+3619.		2173	提及	đề cập	to mention something
+3620.		9999999	埃及	Ai Cập	Egypt
+3621.	U+25F98	1768	𥾘	sợi	fibre; filament
+3622.		9999999	𥾘𥿗	sợi chỉ	thread; yarn
+3623.	U+7B97	1813	算	toán	【to count, to calculate, to plan】*
+3624.		3405	併算	tính toán	to calculate, to count
+3625.		4161	清算	thanh toán	to liquidate, to clear accounts
+3626.	U+593E	1835	夾	giáp	bordering, adjacent, near
+3627.		9999999	夾戰	giáp chiến	to face each other in a battle
+3628.		9999999	夾界	giáp giới	to share the same border, to border
+3629.		9999999	夾籺	giáp hạt	between-crop period
+3630.		9999999	夾𩈘	giáp mặt	face to face
+3631.		9999999	接夾	tiếp giáp	to adjoin, to be contiguous
+3632.	U+6F22	1838	漢	hán	【Chinese; Chinese language】*
+3633.		3225	𡦂漢	chữ hán	Chinese writing system; Chinese characters
+3634.		9999999	漢越	Hán Việt	Sino-Vietnamese
+3635.		9999999	漢文	hán văn	classical Chinese literature
+3636.	U+574A	1843	坊	phường	ward, urban subdistrict
+3637.	U+82F1	1861	英	anh	England; english; 【brave, hero; petal, flower】*
+3638.		9999999	英國	anh quốc	United Kingdom of Great Britain and Northern Ireland, England (colloquial)
+3639.		9999999	王國英	vương quốc anh	Kingdom of England
+3640.		9999999	英明	anh minh	sagely, wise, gifted, capable
+3641.		9999999	金英	kim anh	cherokee rose
+3642.		9999999	㗂英	tiếng anh	english (language)
+3643.	U+8A9E	1867	語	ngữ	【language】*
+3644.		1095	言語	ngôn ngữ	language
+3645.		4324	國語	quốc ngữ	national language; national script
+3646.		9999999	論語	luận ngữ	the Analects (of Confucius)
+3647.		9999999	俗語	tục ngữ	proverb, common saying
+3648.		9999999	語系	ngữ hệ	family of languages
+3649.	U+4E8C	1869	二	nhì	【two】*
+3650.		9999999	次二	thứ nhì	the second
+3651.		9999999	第二	đệ nhì	the second
+3652.		9999999	二元	nhị nguyên	dual, binary
+3653.	U+8C6B	1908	豫	dựa	to lean on; to stand against
+3654.		2171	豫𨕭	dựa trên	to found (sth.) on
+3655.	U+76D2	1916	盒	hộp	box, case
+3656.		9999999	盒書	hộp thư	post office box
+3657.	U+5AE9	1932	嫩	non	young, tender, green; premature; mild
+3658.		9999999	嫩𥘷	non trẻ	young, of tender age
+3659.	U+21F6B	1932	𡽫	non	mountain
+3660.		9999999	𡶀𡽫	núi non	mountains
+3661.		9999999	𡽫渃	non nước	fatherland
+3662.		9999999	𡽫滝	non sông	home country
+3663.	U+8AD6	1945	論	luận	to debate, to discuss; essay
+3664.		2441	評論	bình luận	to comment on
+3665.		3128	爭論	tranh luận	to discuss, to debate vigorously
+3666.		9999999	論拠	luận cứ	foundation (of a thesis), basis of argumentation
+3667.		9999999	論語	luận ngữ	the Analects (of Confucius)
+3668.		9999999	論題	luận đề	topic, subject of discussion
+3669.		9999999	社論	xã luận	editorial (in a newspaper)
+3670.		9999999	決定論	quyết định luận	determinism
+3671.		9999999	盤論	bàn luận	to discuss
+3672.	U+84EE	1964	蓮	sen	lotus, water lily
+3673.		9999999	葻蓮	bông sen	lotus flower
+3674.		9999999	籺蓮	hạt sen	lotus seed
+3675.	U+795D	1965	祝	chúc	to wish so. sth.
+3676.		3621	祝𢜠	chúc mừng	to congratulate
+3677.		9999999	祝𢜠𢆥㵋	chúc mừng năm mới	happy new year!
+3678.		9999999	求祝	cầu chúc	to wish so. sth.
+3679.		9999999	祝書	chúc thư	testament, will
+3680.	U+5C55	1992	展	triển	【to open, to extend】*
+3681.		438	發展	phát triển	to develop, to grow, to expand
+3682.	U+21255	2036	𡉕	hòn	hill; small island; ball, piece
+3683.		9999999	𡉕島	hòn đảo	(small) island
+3684.	U+4EF6	2062	件	kiện	item; case; matter; to sue
+3685.		991	條件	điều kiện	circumstances; condition
+3686.	U+8FD1	2065	近	cận	near, close
+3687.		9999999	近視	cận thị	short-sighted, myopic
+3688.		9999999	近代	cận đại	modern (times)
+3689.	U+5DFE	2072	巾	khăn	towel
+3690.		682	𧁷巾	khó khăn	hard, difficult, troublesome
+3691.		9999999	𤗲巾	tấm khăn	towel
+3692.	U+820D	2086	舍	xá	【house, dwelling】*
+3693.		9999999	庯舍	phố xá	streets
+3694.	U+8A5E	2092	詞	từ	word; phrase
+3695.		2916	詞典	từ điển	dictionary (of words)
+3696.		3594	動詞	động từ	verb
+3697.		4661	性詞	tính từ	adjective
+3698.		4685	名詞	danh từ	noun
+3699.		9999999	詞源	từ nguyên	etymology
+3700.		9999999	助動詞	trợ động từ	auxiliary verb
+3701.		9999999	輔詞	phụ từ	adjunct (grammar)
+3702.		9999999	副詞	phó từ	adverb
+3703.	U+22A6E	2099	𢩮	dắt	to lead; to tow; to guide
+3704.	U+2139D	2152	𡎝	cõi	world; country, region
+3705.	U+7562	2199	畢	tất	all, whole; 【finish, complete】*
+3706.		263	畢哿	tất cả	all; entire, whole
+3707.	U+5FC5	2199	必	tất	surely, of course
+3708.		2053	必然	tất nhiên	naturally, of course, inevitably
+3709.		9999999	必要	tất yếu	indispensable
+3710.	U+7B2C	2282	第	đệ	【sequence, number】*
+3711.		9999999	第一	đệ nhất	the first
+3712.		9999999	第二	đệ nhì	the second
+3713.	U+71DF	2299	營	doanh	【to manage; barracks, casern, encampment】*
+3714.		1310	經營	kinh doanh	to carry on, to run (a business)
+3715.		1760	營業	doanh nghiệp	trade, business
+3716.		9999999	大本營	đại bản doanh	headquarters, head office
+3717.		9999999	大營	đại doanh	headquarters, head office
+3718.		9999999	本營	bản doanh	headquarters, head office
+3719.		9999999	營数	doanh số	turnover
+3720.		9999999	合營	hợp doanh	to share a venture, to joint-venture, to cooperate
+3721.		9999999	聯營	liên doanh	joint venture
+3722.		9999999	國營	quốc doanh	state-run, state-managed
+3723.	U+706B	2308	火	hoả	【fire, flame; anger, rage】*
+3724.		9999999	𣋀火	sao hoả	Mars
+3725.		9999999	火山	hoả sơn	volcano
+3726.		9999999	火星	Hoả Tinh	Mars
+3727.	U+5582	2378	喂	ôi	oh
+3728.		9999999	喂推	ôi thôi	alas
+3729.	U+5F97	2386	得	None	
+3730.	U+2412F	2400	𤄯	trong	clear, pure
+3731.		2506	𤄯𤎜	trong sáng	pure, bright
+3732.	U+27FC6	2423	𧿆	dãy	row, chain, series
+3733.		9999999	𧿆𡶀	dãy núi	chain of mountains, cordillera
+3734.	U+20CD0	2433	𠳐	vâng	yes, all right
+3735.		9999999	唯𠳐	dạ vâng	yes; all right
+3736.		9999999	𠳐𠳒	vâng lời	to obey, to comply with
+3737.	U+7136	2445	然	nhiên	【so, like that】*
+3738.		366	雖然	tuy nhiên	however, but
+3739.		962	自然	tự nhiên	nature; natural
+3740.		2053	必然	tất nhiên	naturally, of course, inevitably
+3741.	U+8A00	2478	言	ngôn	【speech; to speak】*
+3742.		1095	言語	ngôn ngữ	language
+3743.	U+4FC2	2511	係	hệ	【to relate to, to connect】*
+3744.		883	關係	quan hệ	to concern, to affect, to correlate
+3745.		1972	聯係	liên hệ	to contact (someone), to connect
+3746.		9999999	係数	hệ số	coefficient, factor
+3747.	U+7CFB	2511	系	hệ	system, branch
+3748.		717	系統	hệ thống	system, network, net
+3749.		9999999	語系	ngữ hệ	family of languages
+3750.	U+885B	2566	衛	vệ	【to guard, to protect】*
+3751.		556	保衛	bảo vệ	to protect, to preserve; bodyguard, guard
+3752.		9999999	警衛	cảnh vệ	guard, security guard, watchman
+3753.		9999999	民衛	dân vệ	The people's self-defence corps
+3754.		9999999	防衛	phòng vệ	to defend, to protect; defence
+3755.	U+4F35	2576	伵	tớ	servant; I, my, me
+3756.		9999999	碎伵	tôi tớ	subordinate, subject
+3757.	U+9B5A	2596	魚	ngư	【fish】*
+3758.		3417	魚民	ngư dân	fisher
+3759.		9999999	魚場	ngư trường	fishing grounds
+3760.		9999999	魚翁	ngư ông	fisherman
+3761.	U+57F7	2683	執	chấp	【to execute; to grasp, to seize】*
+3762.		3050	執行	chấp hành	to implement, to execute, to carry out
+3763.		9999999	執政	chấp chính	to seize power, to assume power
+3764.	U+65A4	2704	斤	cân	to weigh; scale, balance; weight; kilogram
+3765.		9999999	斤書	cân thư	letter balance
+3766.	U+52B8	2719	劸	khoẻ	healthy, strong
+3767.		9999999	孟劸	mạnh khoẻ	healthy
+3768.	U+4E94	2840	五	ngũ	【five】*
+3769.		9999999	五常	ngũ thường	the five constant virtues of Confucianism
+3770.		9999999	𥃑五果	Mâm ngũ quả	Five fruits dish
+3771.	U+554F	2846	問	vấn	【to ask, to inquire】*
+3772.		428	問題	vấn đề	problem, matter, question, issue
+3773.		9999999	學問	học vấn	knowledge, learning, literacy
+3774.		9999999	發問	phát vấn	conversational, by asking and questioning, maieutic
+3775.	U+6068	2996	恨	hận	hatred; resentiment
+3776.		4852	悔恨	hối hận	to repent; to rue
+3777.		9999999	讎恨	thù hận	hatred, hostility
+3778.	U+9280	3007	銀	ngân	【money, cash】*
+3779.		1376	銀行	ngân hàng	Bank (financial institution)
+3780.		9999999	銀行𧖱	ngân hàng máu	blood bank
+3781.	U+74E6	3013	瓦	ngói	tile
+3782.	U+67E5	3268	查	tra	to seek, to look up (in a dictionary); to investigate
+3783.		1015	調查	điều tra	to inquire, to survey, to take a consensus of
+3784.		2902	清查	thanh tra	to inspect, to investigate
+3785.		9999999	考查	khảo tra	to investigate
+3786.		9999999	查究	tra cứu	to look up, to look through
+3787.	U+5583	3290	喃	nôm	nôm
+3788.		9999999	𡦂喃	chữ nôm	Chu Nom
+3789.	U+8DEA	3338	跪	quỳ	to kneel
+3790.	U+708A	3378	炊	sôi	to boil
+3791.		9999999	渃炊	nước sôi	boiling water
+3792.	U+7523	3394	産	sản	【to give birth】*
+3793.		502	遺産	di sản 	heritage
+3794.		840	産出	sản xuất	to produce, to manufacture
+3795.		872	産品	sản phẩm	product
+3796.		1008	共産	cộng sản	communist
+3797.		3969	特産	đặc sản	(regional) specialty
+3798.		9999999	産婦	sản phụ	woman in childbirth
+3799.	U+5B54	3439	孔	khổng	【emptiness, hollow, hole, opening】*
+3800.		9999999	孔子	Khổng Tử	Confucius
+3801.		9999999	孔教	Khổng giáo	Confucianism
+3802.	U+6C7A	3446	決	quyết	to decide, to determine
+3803.		498	決定	quyết định	to decide; to resolve
+3804.		1251	解決	giải quyết	to resolve (a dispute), to settle (a difference)
+3805.		9999999	決定論	quyết định luận	determinism
+3806.	U+58D3	3543	壓	áp	to press against, to oppress
+3807.		1267	壓力	áp lực	pressure
+3808.		9999999	壓力空氣	áp lực không khí	atmospheric pressure
+3809.	U+5112	4045	儒	nho	【Confucian scholar】*
+3810.		9999999	大儒	đại nho	great scholar
+3811.		9999999	茹儒	nhà nho	Confucian scholar
+3812.		9999999	儒家	nho gia	confucianist
+3813.		9999999	儒教	nho giáo	Confucianism
+3814.		9999999	儒學	nho học	Confucianism
+3815.		9999999	儒士	nho sĩ	Confucian scholar
+3816.		9999999	儒生	nho sinh	student (antiquated)
+3817.		9999999	𡦂儒	chữ nho	Han ideogram, Han script
+3818.	U+6539	4212	改	cải	to change, to alter, to reform, to correct
+3819.		3505	改革	cải cách	to reform, to innovate
+3820.		9999999	改組	cải tổ	to reorganize
+3821.		9999999	改良	Cải lương	reformed theatre
+3822.	U+8003	4239	考	khảo	【to verify, to test, to examine】*
+3823.		3249	參考	tham khảo	to consult; consultation
+3824.		3546	考究	khảo cứu	to study, to carry out scientific research
+3825.		9999999	考查	khảo tra	to investigate
+3826.		9999999	考古學	khảo cổ học	archaeology
+3827.	U+4E43	4435	乃	nấy	that (one), that (person or thing)
+3828.		4500	埃乃	ai nấy	each and every, everyone, one and all
+3829.	U+22A7F	4616	𢩿	sẻ	to divide, to share
+3830.		575	𢺺𢩿	chia sẻ	to share
+3831.	U+6CA1	4619	没	một	【to sink; to have not】*; also: number one (see 𠬠)
+3832.		9999999	埋没	mai một	to bury; to neglect
+3833.		9999999	没藥	một dược	myrrh
+3834.	U+7247	9999999	片	None	
+3835.		9999999	阿片	a phiến	opium
+3836.		9999999	鴉片	nha phiến	Opium
+3837.	U+8FFA	9999999	迺	nãy	just (now), only just, a short while ago
+3838.		9999999	欺迺	khi nãy	just a moment ago
+3839.		9999999	班迺	ban nãy	just a short time ago
+3840.	U+6B62	9999999	止	chỉ	【to stop; to detain】*
+3841.		4696	停止	đình chỉ	to stop, suspend
+3842.	U+21FE8	9999999	𡿨	None	
+3843.		196	女𡿨	nữa	half; again, more
+3844.		1740	乙𡿨	út	youngest, smallest; little
+3845.	U+31F4	9999999	ㇴ	lại	(iteration mark)
+3846.		9999999	撑ㇴ	xanh xanh	greenish, bluish
+3847.		9999999	𠫾ㇴ吏ㇴ	đi đi lại lại	to pace around, to go back and forth
+3848.		9999999	埃ㇴ	ai ai	everybody, everyone
+3849.	U+31F6	9999999	ㇶ	chuỷ	(iteration mark)
+3850.	U+4E92	9999999	互	hỗ	【mutually, reciprocally】*
+3851.		1354	互助	hỗ trợ	to help one another
+3852.	U+25FD7	9999999	𥿗	chỉ	thread; yarn
+3853.		9999999	𥾘𥿗	sợi chỉ	thread; yarn
+3854.	U+4ED5	9999999	仕	xảy	(see: xảy ra)
+3855.		525	仕𫥨	xảy ra	to happen, to occur
+3856.	U+232BE	9999999	𣊾	bây	【this, that】*
+3857.		444	𣊾𣇞	bây giờ	now, right now; nowadays
+3858.		9999999	𣊾饒	bây nhiêu	that much, that many
+3859.	U+9952	9999999	饒	nhiêu	how many; (quantity)
+3860.		718	包饒	bao nhiêu	how much, how many
+3861.		9999999	𣊾饒	bây nhiêu	that much, that many
+3862.	U+22B72	9999999	𢭲	vói	to reach sth.
+3863.		9999999	𢭲𢬣	vói tay	to reach (out) for sth., to strech out one's arm (for sth.)
+3864.		9999999	𢭲細	vói tới	to reach sth.
+3865.	U+96AA	9999999	險	hiểm	dangerous, risky
+3866.		1516	危險	nguy hiểm	dangerous, risky, perilous
+3867.		1925	保險	bảo hiểm	insurance, to insure
+3868.		9999999	探險	thám hiểm	to explore
+3869.	U+9CE5	9999999	鳥	điểu	【bird】*
+3870.		9999999	天鳥	thiên điểu	bird of paradise flower (strelizia)
+3871.	U+6094	9999999	悔	hối	to repent; to regret; to rue
+3872.		4852	悔恨	hối hận	to repent; to rue
+3873.		9999999	悔惜	hối tiếc	to repent, to regret
+3874.	U+5478	9999999	呸	bậy	wrong
+3875.	U+25F62	9999999	𥽢	phèn	alum
+3876.		9999999	糖𥽢	đường phèn	rock sugar, rock candy
+3877.	U+7F8E	9999999	美	mỹ	beautiful; America; american
+3878.		9999999	㗂美	tiếng mỹ	american english (language)
+3879.		9999999	洲美	Châu Mỹ	Americas, America (the NewWorld)
+3880.		9999999	北美	Bắc Mỹ	North America
+3881.		9999999	南美	Nam Mỹ	South America
+3882.		9999999	美術	mỹ thuật	fine arts
+3883.	U+51E0	9999999	几	None	
+3884.	U+7814	9999999	研	nghiên	【study, research】*
+3885.		344	研究	nghiên cứu	to study; to examine
+3886.		9999999	研究生	nghiên cứu sinh	post-graduate
+3887.		9999999	中心研究	trung tâm nghiên cứu	research center
+3888.		9999999	院研究	viện nghiên cứu	research institute
+3889.	U+20C4B	9999999	𠱋	None	
+3890.	U+7D00	9999999	紀	kỷ	period
+3891.		9999999	世紀	thế kỷ	century
+3892.		9999999	紀元	kỷ nguyên	era, epoch
